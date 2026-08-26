@@ -1,0 +1,833 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>SalesRadar — nieuwe salesvacatures per dag</title>
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'><circle cx='12' cy='12' r='10' fill='%23F97316'/></svg>" />
+  <script>
+    window.addEventListener("error", function (e) {
+      var el = document.getElementById("root");
+      if (el) el.innerHTML = '<div style="font-family: system-ui, sans-serif; padding:48px; color:#B4231F; font-size:14px; line-height:1.6;">' +
+        '<strong>SalesRadar could not start.</strong><br>Please copy this message to Claude:<br><br><code style="background:#FEF2F2;padding:8px 12px;border-radius:8px;display:inline-block;max-width:90%;word-break:break-word;">' +
+        String(e.message || e.error || e).replace(/</g, "&lt;") + (e.filename ? "<br>in " + e.filename.split("/").pop() + " line " + e.lineno : "") +
+        '</code></div>';
+    }, true);
+  </script>
+  <script src="https://unpkg.com/react@18/umd/react.production.min.js" crossorigin></script>
+  <script src="https://unpkg.com/react-dom@18/umd/react-dom.production.min.js" crossorigin></script>
+  <script src="https://unpkg.com/@babel/standalone@7/babel.min.js"></script>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <style> body { margin: 0; } </style>
+</head>
+<body>
+  <div id="root">
+    <div style="font-family: system-ui, sans-serif; padding: 48px; color: #64687D; font-size: 15px;">
+      Loading SalesRadar…
+    </div>
+  </div>
+  <script type="text/babel" data-presets="react">
+const { useState, useMemo, useEffect } = React;
+
+/* ─────────── CONFIG ─────────── */
+// Raw URL of the latest.json this dashboard reads. Change the repo name if you called it differently.
+const LIVE_DATA_URL = "https://raw.githubusercontent.com/JobbyBranch/salesradar/main/output/latest.json";
+const APP_NAME = "salesradar";
+const SCAN_HOUR = 8; // Europe/Brussels, weekdays — must match the cron in .github/workflows/scrape.yml
+const STORAGE_KEY = "salesradar-blacklist";
+
+/* ─────────── ICONS (inline, lucide-style) ─────────── */
+const icon = (inner) => ({ size = 16, color = "currentColor", strokeWidth = 2, className = "", style = {} }) => (
+  <svg width={size} height={size} viewBox="0 0 24 24" fill="none" stroke={color} strokeWidth={strokeWidth}
+    strokeLinecap="round" strokeLinejoin="round" className={className} style={style}
+    dangerouslySetInnerHTML={{ __html: inner }} />
+);
+const Radar = icon('<circle cx="12" cy="12" r="10"/><circle cx="12" cy="12" r="5.5"/><circle cx="12" cy="12" r="1.4" fill="currentColor" stroke="none"/><line x1="12" y1="12" x2="18.5" y2="5.5"/>');
+const Search = icon('<circle cx="11" cy="11" r="7"/><line x1="21" y1="21" x2="16.5" y2="16.5"/>');
+const ChevronDown = icon('<polyline points="6 9 12 15 18 9"/>');
+const Globe = icon('<circle cx="12" cy="12" r="10"/><line x1="2" y1="12" x2="22" y2="12"/><path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"/>');
+const Bell = icon('<path d="M18 8a6 6 0 0 0-12 0c0 7-3 9-3 9h18s-3-2-3-9"/><path d="M13.73 21a2 2 0 0 1-3.46 0"/>');
+const Sparkles = icon('<path d="M12 3l1.9 5.2L19 10l-5.1 1.8L12 17l-1.9-5.2L5 10l5.1-1.8z"/><path d="M19 15l.8 2.2L22 18l-2.2.8L19 21l-.8-2.2L16 18l2.2-.8z"/>');
+const TrendingUp = icon('<polyline points="23 6 13.5 15.5 8.5 10.5 1 18"/><polyline points="17 6 23 6 23 12"/>');
+const Plus = icon('<line x1="12" y1="5" x2="12" y2="19"/><line x1="5" y1="12" x2="19" y2="12"/>');
+const ArrowUpRight = icon('<line x1="7" y1="17" x2="17" y2="7"/><polyline points="7 7 17 7 17 17"/>');
+const LayoutDashboard = icon('<rect x="3" y="3" width="7" height="9" rx="1"/><rect x="14" y="3" width="7" height="5" rx="1"/><rect x="14" y="12" width="7" height="9" rx="1"/><rect x="3" y="16" width="7" height="5" rx="1"/>');
+const ChevronsLeft = icon('<polyline points="11 17 6 12 11 7"/><polyline points="18 17 13 12 18 7"/>');
+const ChevronsRight = icon('<polyline points="13 17 18 12 13 7"/><polyline points="6 17 11 12 6 7"/>');
+const Building2 = icon('<path d="M6 22V4a2 2 0 0 1 2-2h8a2 2 0 0 1 2 2v18Z"/><path d="M6 12H4a2 2 0 0 0-2 2v8h4"/><path d="M18 9h2a2 2 0 0 1 2 2v11h-4"/><path d="M10 6h4"/><path d="M10 10h4"/><path d="M10 14h4"/><path d="M10 18h4"/>');
+const Briefcase = icon('<rect width="20" height="14" x="2" y="7" rx="2"/><path d="M16 21V5a2 2 0 0 0-2-2h-4a2 2 0 0 0-2 2v16"/>');
+const Clock = icon('<circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/>');
+const Link2 = icon('<path d="M9 17H7A5 5 0 0 1 7 7h2"/><path d="M15 7h2a5 5 0 1 1 0 10h-2"/><line x1="8" y1="12" x2="16" y2="12"/>');
+const CalendarIcon = icon('<rect x="3" y="4" width="18" height="18" rx="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/>');
+const XIcon = icon('<line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/>');
+const RefreshCw = icon('<polyline points="23 4 23 10 17 10"/><polyline points="1 20 1 14 7 14"/><path d="M3.51 9a9 9 0 0 1 14.85-3.36L23 10M1 14l4.64 4.36A9 9 0 0 0 20.49 15"/>');
+const Handshake = icon('<path d="m11 17 2 2a1 1 0 1 0 3-3"/><path d="m14 14 2.5 2.5a1 1 0 1 0 3-3l-3.88-3.88a3 3 0 0 0-4.24 0l-.88.88a1 1 0 1 1-3-3l2.81-2.81a5.79 5.79 0 0 1 7.06-.87l.47.28a2 2 0 0 0 1.42.25L21 4"/><path d="m21 3 1 11h-2"/><path d="M3 3 2 14l6.5 6.5a1 1 0 1 0 3-3"/><path d="M3 4h8"/>');
+const Phone = icon('<path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72c.13.96.36 1.9.7 2.81a2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45c.91.34 1.85.57 2.81.7A2 2 0 0 1 22 16.92z"/>');
+const Contact = icon('<path d="M16 2v2"/><path d="M7 22v-2a2 2 0 0 1 2-2h6a2 2 0 0 1 2 2v2"/><path d="M8 2v2"/><circle cx="12" cy="11" r="3"/><rect x="3" y="4" width="18" height="18" rx="2"/>');
+
+/* ─────────── DESIGN TOKENS (JobRadar look, sales accent) ─────────── */
+const T = {
+  bg: "#F7F8FB",
+  card: "#FFFFFF",
+  ink: "#0E1129",
+  sub: "#64687D",
+  faint: "#9DA1B4",
+  line: "#E9EAF1",
+  accent: "#F97316",        // orange — the sales twin of JobRadar's pink
+  accentSoft: "#FFF4EB",
+  blue: "#4F6BFF",
+  blueSoft: "#F0F3FF",
+  green: "#10B981",
+  greenSoft: "#ECFDF5",
+  red: "#DC2626",
+  redSoft: "#FEF2F2",
+  grad: "linear-gradient(135deg, #F97316 0%, #E11D48 100%)",
+};
+
+const cardStyle = {
+  background: T.card,
+  border: `1px solid ${T.line}`,
+  borderRadius: 16,
+  boxShadow: "0 1px 2px rgba(14,17,41,0.04), 0 8px 24px rgba(14,17,41,0.04)",
+};
+
+/* ─────────── SALES ROLE TYPES (derived from the job title) ─────────── */
+const ROLE_TYPES = [
+  { id: "account",  label: "Account manager",     re: /account\s*manag|key\s*account|\bkam\b|accountbeheer|account\s*executive|\bae\b/i },
+  { id: "bizdev",   label: "Business development", re: /business\s*develop|\bbdm\b|\bbdr\b|new\s*business|biz\s*dev|hunter/i },
+  { id: "inside",   label: "Inside sales / SDR",   re: /inside\s*sales|\bsdr\b|sales\s*development|telesales|binnendienst|internal\s*sales|lead\s*gen/i },
+  { id: "presales", label: "Sales engineer / presales", re: /sales\s*engineer|pre-?sales|solutions?\s*(consultant|engineer)|technical\s*sales|technisch\s*commerc/i },
+  { id: "field",    label: "Field sales / vertegenwoordiger", re: /vertegenwoordig|field\s*sales|sales\s*rep|repr[ée]sentant|d[ée]l[ée]gu[ée]\s*commercial|buitendienst|technisch-?commercieel/i },
+  { id: "lead",     label: "Sales management",     re: /sales\s*(manager|director|lead|head)|head\s*of\s*sales|\bvp\b.*sales|chief\s*(commercial|revenue)|\bcro\b|commercial\s*(director|manager)|verkoop(s)?(leider|manager|directeur)|sales\s*team\s*lead/i },
+  { id: "other",    label: "Overige sales",        re: /./ },
+];
+function roleTypeOf(title) {
+  const t = String(title || "");
+  return (ROLE_TYPES.find((r) => r.re.test(t)) || ROLE_TYPES[ROLE_TYPES.length - 1]).id;
+}
+const roleLabel = (id) => (ROLE_TYPES.find((r) => r.id === id) || {}).label || id;
+
+/* ─────────── PROSPECTING SIGNALS (mirrors SIGNAL_PATTERNS in sales_profile.py) ─────────── */
+const SIGNAL_RE = new RegExp([
+  "cold[\\s-]*call\\w*", "koud\\w*\\s+(bellen|acquisitie|prospect\\w*|benader\\w*)", "koude\\s+(acquisitie|prospectie|bel\\w*)",
+  "appels?\\s+à\\s+froid", "prospection\\s+à\\s+froid",
+  "telefonisch\\w*\\s+(prospect\\w*|acquisitie|benader\\w*|contact\\w*|verkoop\\w*|klantenwerv\\w*)",
+  "prospect\\w*\\s+(per|via|aan\\s+de)\\s+telefoon", "prospection\\s+t[ée]l[ée]phonique", "t[ée]l[ée]prospect\\w*",
+  "phoning", "telesales", "tele-?marketing", "phone\\s+prospect\\w*", "outbound\\s+(calls?|calling|sales|prospect\\w*|lead\\w*)",
+  "bellen\\s+(van|naar)\\s+(prospect|nieuwe|potenti)\\w*", "actief\\s+(uit)?bellen",
+  "prospect\\w*", "prospection", "acquisitie", "acquisition\\s+de\\s+(nouveaux\\s+)?clients",
+  "new\\s+business(\\s+(development|generation|hunting))?", "hunt\\w*",
+  "nieuwe\\s+klanten\\s+(te\\s+)?(werv\\w*|binnenhal\\w*|aantrekk\\w*|zoek\\w*|vind\\w*|benader\\w*|overtuig\\w*)",
+  "klanten\\s*werv\\w*", "klantenwerving", "canvass\\w*", "d[ée]marchage", "lead\\s*gen\\w*", "leadgeneratie", "g[ée]n[ée]ration\\s+de\\s+leads",
+  "cold\\s+outreach", "outreach", "appointment\\s+setting", "afspraken\\s+(maken|(in)?plan\\w*|vastleggen|boeken)", "plan\\w*\\s+afspraken",
+  "(d[ée]croch\\w*|fix\\w*|prendre|prenez)\\s+des\\s+rendez-vous", "pipeline\\s+(opbouwen|building|vullen|uitbouwen)", "build\\w*\\s+(a|your|the)(\\s+own)?\\s+pipeline",
+].join("|"), "gi");
+
+// Split a sentence into plain / highlighted parts
+function highlightSignals(text) {
+  const out = [];
+  let last = 0;
+  const re = new RegExp(SIGNAL_RE.source, "gi");
+  let m;
+  while ((m = re.exec(text)) !== null) {
+    if (m.index > last) out.push(text.slice(last, m.index));
+    out.push(<mark key={m.index} style={{ background: "#FDE68A", color: "#78350F", borderRadius: 4, padding: "0 3px", fontWeight: 700 }}>{m[0]}</mark>);
+    last = m.index + m[0].length;
+    if (m[0].length === 0) re.lastIndex++;
+  }
+  if (last < text.length) out.push(text.slice(last));
+  return out;
+}
+
+/* ─────────── LIVE DATA HELPERS (same latest.json schema as JobRadar) ─────────── */
+const AVATAR_COLORS = ["#F97316", "#E11D48", "#8B5CF6", "#06B6D4", "#F59E0B", "#10B981", "#6366F1", "#4F6BFF"];
+function companyVisual(name) {
+  let h = 0;
+  for (const ch of name) h = (h * 31 + ch.charCodeAt(0)) >>> 0;
+  const words = name.trim().split(/\s+/);
+  const logo = (words.length > 1 ? words[0][0] + words[1][0] : name.slice(0, 2)).toUpperCase();
+  return { logo, color: AVATAR_COLORS[h % AVATAR_COLORS.length] };
+}
+
+const DAY = 86400000;
+function mapScraperJobs(data) {
+  const now = Date.now();
+  return data
+    .filter((j) => j && j.title && j.url)
+    .map((j, i) => {
+      const v = companyVisual(j.company || "?");
+      const fs = j.first_seen ? new Date(j.first_seen + "T00:00:00") : null;
+      const age = fs && !isNaN(fs) ? (now - fs.getTime()) / DAY : null;
+      return {
+        id: `live-${i}`,
+        company: j.company || "Unknown",
+        logo: v.logo,
+        logoColor: v.color,
+        title: j.title,
+        iso: j.first_seen || "",
+        tags: [...new Set((j.stack || []).map((s) => String(s).trim()).filter(Boolean))].slice(0, 6),
+        exp: j.experience || "",
+        url: j.url,
+        source: j.source || "",
+        contact: j.contact && (j.contact.name || j.contact.email) ? j.contact : null,
+        inBelgium: j.in_belgium,
+        roleType: roleTypeOf(j.title),
+        signals: Array.isArray(j.signals) ? j.signals : [],
+        signalTerms: Array.isArray(j.signal_terms) ? j.signal_terms : [],
+        isNew: age != null && age < 2,
+        isThisWeek: age != null && age < 7,
+      };
+    });
+}
+
+function nextScanLabel() {
+  const d = new Date();
+  const fmt = (x) => x.toLocaleDateString("nl-BE", { weekday: "short", day: "numeric", month: "short" });
+  for (let k = 0; k < 8; k++) {
+    const c = new Date(d.getFullYear(), d.getMonth(), d.getDate() + k, SCAN_HOUR, 0, 0);
+    const dow = c.getDay();
+    if (dow === 0 || dow === 6) continue;
+    if (c > d) return `${fmt(c)}, ${String(SCAN_HOUR).padStart(2, "0")}:00`;
+  }
+  return "—";
+}
+
+/* ─────────── ATOMS ─────────── */
+const Chip = ({ label, tone = "blue" }) => {
+  const map = { blue: [T.blueSoft, T.blue], accent: [T.accentSoft, T.accent], gray: ["#F3F4F8", T.sub] };
+  const [bg, fg] = map[tone] || map.blue;
+  return <span className="text-[12px] font-semibold px-2 py-[3px] rounded-md mr-1.5 mb-1.5 inline-block" style={{ background: bg, color: fg }}>{label}</span>;
+};
+const Stat = ({ icon: Icon, label, value, tint }) => (
+  <div style={cardStyle} className="p-4 flex items-center gap-3.5">
+    <div className="rounded-xl p-2.5 shrink-0" style={{ background: tint === "accent" ? T.accentSoft : T.blueSoft }}>
+      <Icon size={18} color={tint === "accent" ? T.accent : T.blue} strokeWidth={2.2} />
+    </div>
+    <div className="min-w-0">
+      <div className="text-[22px] font-extrabold tracking-tight leading-none tabular-nums">{value}</div>
+      <div className="text-[12.5px] font-semibold mt-1 truncate" style={{ color: T.sub }}>{label}</div>
+    </div>
+  </div>
+);
+const PageHeader = ({ title, subtitle, action }) => (
+  <div className="flex items-start justify-between gap-4 flex-wrap mb-6">
+    <div>
+      <h1 className="text-[24px] font-extrabold tracking-tight leading-tight">{title}</h1>
+      {subtitle && <p className="text-[14px] font-medium mt-1" style={{ color: T.sub }}>{subtitle}</p>}
+    </div>
+    {action}
+  </div>
+);
+
+/* ─────────── JOB ROW ─────────── */
+function SignalQuotes({ job }) {
+  if (!job.signals.length) return null;
+  return (
+    <div className="rounded-xl p-4 mb-3" style={{ background: "#FFFBEB", border: "1px solid #FDE68A" }}>
+      <div className="flex items-center gap-1.5 text-[12px] font-bold uppercase tracking-wider mb-2" style={{ color: "#92400E" }}>
+        <Phone size={13} /> Op de vacaturepagina
+      </div>
+      <ul className="space-y-1.5">
+        {job.signals.map((q, i) => (
+          <li key={i} className="text-[13.5px] font-medium leading-relaxed" style={{ color: T.ink }}>
+            <span style={{ color: "#D97706" }}>“</span>{highlightSignals(q)}<span style={{ color: "#D97706" }}>”</span>
+          </li>
+        ))}
+      </ul>
+    </div>
+  );
+}
+
+function JobRow({ job, open, onToggle, isLast, onBlacklist, showSignals = false }) {
+  return (
+    <div className={job.isNew ? "slide" : ""} style={{ borderBottom: isLast ? "none" : `1px solid ${T.line}` }}>
+      <button onClick={onToggle} className="row-hover w-full text-left px-5 py-4 flex items-start gap-3.5">
+        <div className="w-10 h-10 rounded-[10px] flex items-center justify-center text-[12.5px] font-bold text-white shrink-0" style={{ background: job.logoColor }}>{job.logo}</div>
+        <div className="flex-1 min-w-0">
+          <div className="flex items-center gap-2 flex-wrap">
+            <span className="text-[15.5px] font-bold tracking-tight" style={{ color: T.ink }}>{job.company}</span>
+            <span className="text-[11.5px] font-bold px-2 py-[2px] rounded-md" style={{ background: T.accentSoft, color: T.accent }}>{roleLabel(job.roleType)}</span>
+            {job.signals.length > 0 && <span className="text-[11.5px] font-bold px-2 py-[2px] rounded-md" style={{ background: "#FEF3C7", color: "#92400E" }}>📞 Prospectie · {job.signals.length}</span>}
+            {job.contact && <span className="text-[11.5px] font-bold px-2 py-[2px] rounded-md" style={{ background: T.greenSoft, color: T.green }}>📇 contact</span>}
+          </div>
+          <div className="text-[14.5px] font-semibold mt-0.5 mb-1.5" style={{ color: T.sub }}>{job.title}</div>
+          <div className="flex flex-wrap items-center">
+            {job.exp && <Chip label={job.exp} tone="accent" />}
+            {job.tags.map((t) => <Chip key={t} label={t} tone="gray" />)}
+          </div>
+          <a href={job.url} target="_blank" rel="noreferrer" onClick={(e) => e.stopPropagation()} className="inline-flex items-center gap-1 text-[13px] font-semibold mt-1 hover:underline break-all" style={{ color: T.blue }}>
+            {job.url.replace(/^https?:\/\//, "")} <ArrowUpRight size={12} className="shrink-0" />
+          </a>
+        </div>
+        <div className="hidden sm:flex flex-col items-end gap-2 shrink-0 pt-0.5">
+          {onBlacklist && (
+            <span role="button" onClick={(e) => { e.stopPropagation(); onBlacklist(job.company); }}
+              title={`Blacklist ${job.company} — alle huidige en toekomstige vacatures van dit bedrijf worden verborgen`}
+              className="cursor-pointer inline-flex items-center gap-1 text-[11.5px] font-bold px-2 py-[2px] rounded-md transition-opacity hover:opacity-75"
+              style={{ background: "rgba(180,35,31,0.08)", color: "#B4231F" }}>
+              <XIcon size={10} strokeWidth={2.6} /> Blacklist
+            </span>
+          )}
+          <div className="flex items-center gap-1 text-[12.5px] font-semibold" style={{ color: T.faint }}>
+            Details <ChevronDown size={13} style={{ transform: open ? "rotate(180deg)" : "none", transition: "transform .2s" }} />
+          </div>
+        </div>
+      </button>
+
+      {showSignals && !open && job.signals.length > 0 && <div className="px-5 pb-4 -mt-1"><SignalQuotes job={job} /></div>}
+      {open && (
+        <div className="expand px-5 pb-5">
+          <SignalQuotes job={job} />
+          {job.contact && (
+            <div className="flex items-center gap-2 mb-3 px-3 py-2 rounded-[10px] text-[13px] font-semibold" style={{ background: "rgba(16,185,129,0.07)", border: "1px solid rgba(16,185,129,0.22)", color: T.ink }}>
+              <span>📇</span>
+              <span>Contactpersoon op vacaturepagina: <span className="font-bold">{job.contact.name || "onbekend"}</span>
+                {job.contact.email && <> · <a href={`mailto:${job.contact.email}`} className="hover:underline" style={{ color: T.blue }} onClick={(e) => e.stopPropagation()}>{job.contact.email}</a></>}
+              </span>
+            </div>
+          )}
+          <div className="rounded-xl p-4 grid grid-cols-1 md:grid-cols-3 gap-3 text-[13px] font-medium" style={{ background: "#FAFBFE", border: `1px solid ${T.line}`, color: T.sub }}>
+            <div><div className="text-[11.5px] font-bold uppercase tracking-wider mb-1" style={{ color: T.faint }}>Eerst gezien</div>{job.iso || "—"}</div>
+            <div><div className="text-[11.5px] font-bold uppercase tracking-wider mb-1" style={{ color: T.faint }}>Locatie</div>{job.inBelgium === true ? "België" : job.inBelgium === false ? "Buiten België" : "Onbekend"}</div>
+            <div className="min-w-0"><div className="text-[11.5px] font-bold uppercase tracking-wider mb-1" style={{ color: T.faint }}>Bronpagina</div>
+              {job.source ? <a href={job.source} target="_blank" rel="noreferrer" className="hover:underline break-all" style={{ color: T.blue }}>{job.source.replace(/^https?:\/\//, "")}</a> : "—"}</div>
+          </div>
+        </div>
+      )}
+    </div>
+  );
+}
+
+/* ─────────── DASHBOARD · daily digest ─────────── */
+function formatDayLabel(iso) {
+  if (!iso || iso === "unknown") return "Datum onbekend";
+  const d = new Date(iso + "T00:00:00");
+  if (isNaN(d)) return iso;
+  const today = new Date(); today.setHours(0, 0, 0, 0);
+  const diff = Math.round((today - d) / DAY);
+  const nice = d.toLocaleDateString("nl-BE", { weekday: "long", day: "numeric", month: "long", year: "numeric" });
+  if (diff === 0) return `Vandaag · ${nice}`;
+  if (diff === 1) return `Gisteren · ${nice}`;
+  return nice;
+}
+
+function DashboardView({ jobs, query, setQuery, roleFilter, setRoleFilter, expanded, setExpanded, dataMode, syncInfo, onBlacklist }) {
+  const [dayOverrides, setDayOverrides] = useState({});
+  const companiesCount = new Set(jobs.map((j) => j.company)).size;
+  const todayIso = new Date().toISOString().slice(0, 10);
+  const newToday = jobs.filter((j) => j.iso === todayIso).length;
+  const newWeek = jobs.filter((j) => j.isThisWeek).length;
+  const withContact = jobs.filter((j) => j.contact).length;
+
+  const roleCounts = useMemo(() => {
+    const c = {};
+    jobs.forEach((j) => { c[j.roleType] = (c[j.roleType] || 0) + 1; });
+    return c;
+  }, [jobs]);
+
+  const filtered = useMemo(() => {
+    const q = query.trim().toLowerCase();
+    return jobs.filter((j) => {
+      if (roleFilter && j.roleType !== roleFilter) return false;
+      if (!q) return true;
+      return j.company.toLowerCase().includes(q) || j.title.toLowerCase().includes(q) || j.tags.some((s) => s.toLowerCase().includes(q));
+    });
+  }, [jobs, query, roleFilter]);
+
+  const days = useMemo(() => {
+    const map = new Map();
+    filtered.forEach((j) => {
+      const key = j.iso || "unknown";
+      if (!map.has(key)) map.set(key, []);
+      map.get(key).push(j);
+    });
+    return [...map.entries()].sort((a, b) => (a[0] < b[0] ? 1 : -1));
+  }, [filtered]);
+
+  const isDayOpen = (key, idx) => (key in dayOverrides ? dayOverrides[key] : idx === 0);
+  const toggleDay = (key, idx) => setDayOverrides((p) => ({ ...p, [key]: !isDayOpen(key, idx) }));
+
+  return (
+    <>
+      <PageHeader
+        title="Nieuwe salesjobs per dag"
+        subtitle="Elke werkdag gescand, gegroepeerd per dag — zo zie je in één oogopslag welke bedrijven commerciële profielen zoeken"
+        action={
+          <span className="flex items-center gap-1.5 text-[12.5px] font-semibold px-2.5 py-1.5 rounded-full"
+            style={{ background: dataMode === "live" ? T.greenSoft : dataMode === "error" ? T.redSoft : "#F3F4F8", color: dataMode === "live" ? T.green : dataMode === "error" ? T.red : T.faint }}>
+            <span className={`w-1.5 h-1.5 rounded-full ${dataMode === "live" ? "glow" : ""}`} style={{ background: dataMode === "live" ? T.green : dataMode === "error" ? T.red : T.faint }} />
+            {dataMode === "live" ? `Live data${syncInfo?.time ? ` · gesynct ${syncInfo.time}` : ""}` : dataMode === "error" ? "Geen verbinding met latest.json" : "Laden…"}
+          </span>
+        }
+      />
+
+      <div className="grid grid-cols-2 xl:grid-cols-4 gap-4 mb-6">
+        <Stat icon={Building2} label="Bedrijven met salesvacatures" value={companiesCount} tint="blue" />
+        <Stat icon={Sparkles} label="Nieuwe jobs vandaag" value={newToday} tint="accent" />
+        <Stat icon={TrendingUp} label="Nieuw deze week" value={newWeek} tint="blue" />
+        <Stat icon={Contact} label="Met contactpersoon" value={withContact} tint="accent" />
+      </div>
+
+      {/* search */}
+      <div className="flex items-center gap-2 px-3 h-11 rounded-[10px] max-w-[520px] mb-3" style={{ background: "#fff", border: `1px solid ${T.line}` }}>
+        <Search size={14} color={T.faint} />
+        <input value={query} onChange={(e) => setQuery(e.target.value)} placeholder="Zoek op bedrijf, rol of sector…" className="outline-none text-[14px] font-medium w-full bg-transparent" />
+        {query && <span role="button" onClick={() => setQuery("")} className="cursor-pointer" style={{ color: T.faint }}><XIcon size={13} /></span>}
+      </div>
+
+      {/* role-type filter */}
+      <div className="flex flex-wrap gap-1.5 mb-5">
+        <button onClick={() => setRoleFilter(null)} className="text-[12.5px] font-bold px-2.5 py-1 rounded-lg transition-colors"
+          style={{ background: !roleFilter ? T.ink : "#fff", color: !roleFilter ? "#fff" : T.sub, border: `1px solid ${!roleFilter ? T.ink : T.line}` }}>
+          Alle · {jobs.length}
+        </button>
+        {ROLE_TYPES.filter((r) => roleCounts[r.id]).map((r) => {
+          const on = roleFilter === r.id;
+          return (
+            <button key={r.id} onClick={() => setRoleFilter(on ? null : r.id)} className="text-[12.5px] font-bold px-2.5 py-1 rounded-lg transition-colors"
+              style={{ background: on ? T.accent : "#fff", color: on ? "#fff" : T.sub, border: `1px solid ${on ? T.accent : T.line}` }}>
+              {r.label} · {roleCounts[r.id]}
+            </button>
+          );
+        })}
+      </div>
+
+      {/* day groups */}
+      <div className="space-y-4">
+        {days.map(([key, dayJobs], idx) => {
+          const open = isDayOpen(key, idx);
+          return (
+            <section key={key} style={cardStyle} className="overflow-hidden">
+              <button onClick={() => toggleDay(key, idx)} className="row-hover w-full flex items-center gap-3 px-5 py-4 text-left">
+                <div className="rounded-xl p-2" style={{ background: idx === 0 ? T.accentSoft : T.blueSoft }}>
+                  <CalendarIcon size={16} color={idx === 0 ? T.accent : T.blue} strokeWidth={2.2} />
+                </div>
+                <div className="flex-1 min-w-0">
+                  <div className="text-[15.5px] font-bold tracking-tight truncate">{formatDayLabel(key)}</div>
+                </div>
+                <span className="text-[13px] font-bold tabular-nums px-2.5 py-1 rounded-full shrink-0"
+                  style={{ background: idx === 0 ? T.accentSoft : T.blueSoft, color: idx === 0 ? T.accent : T.blue }}>
+                  {dayJobs.length} nieuwe job{dayJobs.length !== 1 ? "s" : ""}
+                </span>
+                <ChevronDown size={16} color={T.faint} className="shrink-0" style={{ transform: open ? "rotate(180deg)" : "none", transition: "transform .2s" }} />
+              </button>
+              {open && (
+                <div className="expand" style={{ borderTop: `1px solid ${T.line}` }}>
+                  {dayJobs.map((job, i) => (
+                    <JobRow key={job.id} job={job} open={expanded === job.id} onToggle={() => setExpanded(expanded === job.id ? null : job.id)} isLast={i === dayJobs.length - 1} onBlacklist={onBlacklist} />
+                  ))}
+                </div>
+              )}
+            </section>
+          );
+        })}
+
+        {days.length === 0 && (
+          <div style={cardStyle} className="px-5 py-12 text-center">
+            {dataMode === "error" ? (
+              <>
+                <p className="text-[14.5px] font-semibold" style={{ color: T.sub }}>latest.json kon niet geladen worden</p>
+                <p className="text-[13.5px] font-medium mt-1" style={{ color: T.faint }}>{syncInfo?.error} — controleer de URL onder Bronnen, of wacht op de eerste scan.</p>
+              </>
+            ) : dataMode === "live" && jobs.length === 0 ? (
+              <>
+                <p className="text-[14.5px] font-semibold" style={{ color: T.sub }}>Nog geen salesvacatures in de feed</p>
+                <p className="text-[13.5px] font-medium mt-1" style={{ color: T.faint }}>De eerste scan vult dit dashboard; start hem handmatig via Actions → "SalesRadar daily scan" → Run workflow.</p>
+              </>
+            ) : (
+              <>
+                <p className="text-[14.5px] font-semibold" style={{ color: T.sub }}>Geen jobs gevonden voor je zoekopdracht</p>
+                <p className="text-[13.5px] font-medium mt-1" style={{ color: T.faint }}>Probeer een ander bedrijf, een andere rol of haal de filter weg</p>
+              </>
+            )}
+          </div>
+        )}
+      </div>
+    </>
+  );
+}
+
+/* ─────────── TOPJOBS · vacancies that mention prospecting / cold calling ─────────── */
+function TopJobsView({ jobs, expanded, setExpanded, onBlacklist }) {
+  const [q, setQ] = useState("");
+  const top = useMemo(() => {
+    const t = q.trim().toLowerCase();
+    return jobs
+      .filter((j) => j.signals.length > 0)
+      .filter((j) => !t || j.company.toLowerCase().includes(t) || j.title.toLowerCase().includes(t) || j.signalTerms.some((s) => s.includes(t)))
+      .sort((a, b) => (b.isThisWeek - a.isThisWeek) || (b.signalTerms.length - a.signalTerms.length) || (a.iso < b.iso ? 1 : -1));
+  }, [jobs, q]);
+  const companies = new Set(top.map((j) => j.company)).size;
+  const fresh = top.filter((j) => j.isThisWeek).length;
+  const termCounts = useMemo(() => {
+    const c = {};
+    top.forEach((j) => j.signalTerms.forEach((t) => { c[t] = (c[t] || 0) + 1; }));
+    return Object.entries(c).sort((a, b) => b[1] - a[1]).slice(0, 10);
+  }, [top]);
+
+  return (
+    <>
+      <PageHeader
+        title="Topjobs"
+        subtitle="Vacatures waarvan de pagina cold calling, telefonische prospectie, leadgeneratie of new-business hunting vermeldt — bedrijven met een directe nood aan wat wij aanbieden"
+      />
+      <div className="grid grid-cols-2 xl:grid-cols-3 gap-4 mb-6">
+        <Stat icon={Phone} label="Vacatures met prospectiesignaal" value={top.length} tint="accent" />
+        <Stat icon={Building2} label="Bedrijven" value={companies} tint="blue" />
+        <Stat icon={Sparkles} label="Nieuw deze week" value={fresh} tint="accent" />
+      </div>
+
+      {termCounts.length > 0 && (
+        <div className="flex flex-wrap items-center gap-1.5 mb-4">
+          <span className="text-[12px] font-bold uppercase tracking-wider mr-1" style={{ color: T.faint }}>Meest gevonden</span>
+          {termCounts.map(([t, n]) => (
+            <button key={t} onClick={() => setQ(q === t ? "" : t)} className="text-[12.5px] font-bold px-2.5 py-1 rounded-lg transition-colors"
+              style={{ background: q === t ? "#92400E" : "#FEF3C7", color: q === t ? "#fff" : "#92400E", border: "1px solid #FDE68A" }}>
+              {t} · {n}
+            </button>
+          ))}
+        </div>
+      )}
+
+      <div className="flex items-center gap-2 px-3 h-11 rounded-[10px] max-w-[520px] mb-5" style={{ background: "#fff", border: `1px solid ${T.line}` }}>
+        <Search size={14} color={T.faint} />
+        <input value={q} onChange={(e) => setQ(e.target.value)} placeholder="Zoek op bedrijf, rol of signaalwoord…" className="outline-none text-[14px] font-medium w-full bg-transparent" />
+        {q && <span role="button" onClick={() => setQ("")} className="cursor-pointer" style={{ color: T.faint }}><XIcon size={13} /></span>}
+      </div>
+
+      <section style={cardStyle} className="overflow-hidden">
+        {top.map((job, i) => (
+          <JobRow key={job.id} job={job} open={expanded === job.id} onToggle={() => setExpanded(expanded === job.id ? null : job.id)} isLast={i === top.length - 1} onBlacklist={onBlacklist} showSignals />
+        ))}
+        {top.length === 0 && (
+          <div className="px-5 py-12 text-center">
+            <p className="text-[14.5px] font-semibold" style={{ color: T.sub }}>{q ? "Geen topjobs voor deze zoekopdracht" : "Nog geen vacatures met een prospectiesignaal"}</p>
+            <p className="text-[13.5px] font-medium mt-1" style={{ color: T.faint }}>{q ? "Probeer een ander woord" : "Signalen worden bij elke scan uit de vacaturetekst gehaald; de eerste scan vult deze lijst."}</p>
+          </div>
+        )}
+      </section>
+    </>
+  );
+}
+
+/* ─────────── COMPANY BLACKLIST ─────────── */
+function BlacklistCard({ blacklist, setBlacklist }) {
+  const [name, setName] = useState("");
+  const add = () => {
+    const v = name.trim();
+    if (!v) return;
+    if (blacklist.some((b) => b.trim().toLowerCase() === v.toLowerCase())) { setName(""); return; }
+    setBlacklist((p) => [...p, v]);
+    setName("");
+  };
+  const remove = (b) => setBlacklist((p) => p.filter((x) => x !== b));
+  return (
+    <div style={cardStyle} className="p-4 mt-5">
+      <div className="flex items-center gap-2 mb-1 flex-wrap">
+        <XIcon size={15} color="#B4231F" strokeWidth={2.4} />
+        <span className="text-[14.5px] font-bold tracking-tight">Geblackliste bedrijven</span>
+        <span className="text-[12px] font-semibold px-2 py-[3px] rounded-full" style={{ background: "rgba(180,35,31,0.08)", color: "#B4231F" }}>
+          {blacklist.length} geblacklist
+        </span>
+      </div>
+      <p className="text-[13px] font-medium mb-3" style={{ color: T.sub }}>
+        Vacatures van deze bedrijven worden verborgen, ook bij toekomstige scans. Blacklist een bedrijf via de knop op een vacature, of voeg het hier handmatig toe (bv. uitzendkantoren en andere recruiters). De lijst wordt in deze browser bewaard.
+      </p>
+      <div className="flex items-center gap-2 flex-wrap mb-3">
+        <div className="flex items-center gap-2 px-3 h-9 rounded-[10px] flex-1 min-w-[240px]" style={{ background: "#F4F5F9", border: `1px solid ${T.line}` }}>
+          <Building2 size={14} color={T.faint} />
+          <input value={name} onChange={(e) => setName(e.target.value)} onKeyDown={(e) => e.key === "Enter" && add()}
+            placeholder="Bedrijfsnaam — exact zoals in de vacatures…"
+            className="outline-none text-[13.5px] font-medium w-full bg-transparent" />
+        </div>
+        <button onClick={add} disabled={!name.trim()}
+          className="flex items-center gap-1.5 text-[14px] font-semibold px-4 h-9 rounded-[10px] text-white transition-opacity hover:opacity-90 disabled:opacity-50"
+          style={{ background: T.grad }}>
+          <Plus size={13} strokeWidth={2.4} /> Blacklist
+        </button>
+      </div>
+      {blacklist.length === 0 ? (
+        <p className="text-[13px] font-medium py-3 text-center rounded-[10px]" style={{ color: T.faint, background: "#FAFBFE", border: `1px dashed ${T.line}` }}>
+          Nog geen bedrijven geblacklist
+        </p>
+      ) : (
+        <div className="flex flex-wrap gap-2">
+          {blacklist.map((b) => (
+            <span key={b} className="inline-flex items-center gap-1.5 text-[13px] font-bold px-2.5 py-1.5 rounded-lg"
+              style={{ background: "rgba(180,35,31,0.07)", border: "1px solid rgba(180,35,31,0.2)", color: "#8C1B18" }}>
+              {b}
+              <span role="button" onClick={() => remove(b)} title={`${b} van de blacklist halen — vacatures verschijnen weer`} className="cursor-pointer inline-flex transition-opacity hover:opacity-60">
+                <XIcon size={12} strokeWidth={2.6} />
+              </span>
+            </span>
+          ))}
+        </div>
+      )}
+    </div>
+  );
+}
+
+/* ─────────── SOURCES (derived from the feed itself) ─────────── */
+function SourcesView({ jobs, dataMode, dataUrl, setDataUrl, connect, syncing, syncInfo }) {
+  const sources = useMemo(() => {
+    const m = new Map();
+    jobs.forEach((j) => {
+      const key = j.source || j.company;
+      if (!m.has(key)) m.set(key, { company: j.company, url: j.source, count: 0, last: "" });
+      const s = m.get(key);
+      s.count += 1;
+      if (j.iso > s.last) s.last = j.iso;
+    });
+    return [...m.values()].sort((a, b) => (a.last < b.last ? 1 : a.last > b.last ? -1 : b.count - a.count));
+  }, [jobs]);
+
+  return (
+    <>
+      <PageHeader
+        title="Bronnen"
+        subtitle={`${sources.length} carrièrepagina's met salesvacatures in de huidige feed · gescand elke werkdag om ${String(SCAN_HOUR).padStart(2, "0")}:00`}
+      />
+
+      <div style={cardStyle} className="p-4 mb-5">
+        <div className="flex items-center gap-2 mb-1 flex-wrap">
+          <Link2 size={15} color={T.accent} />
+          <span className="text-[14.5px] font-bold tracking-tight">Live scraper data</span>
+          <span className="flex items-center gap-1.5 text-[12px] font-semibold px-2 py-[3px] rounded-full"
+            style={{ background: dataMode === "live" ? T.greenSoft : "#F3F4F8", color: dataMode === "live" ? T.green : T.faint }}>
+            <span className={`w-1.5 h-1.5 rounded-full ${dataMode === "live" ? "glow" : ""}`} style={{ background: dataMode === "live" ? T.green : T.faint }} />
+            {dataMode === "live" ? "Verbonden" : "Niet verbonden"}
+          </span>
+        </div>
+        <p className="text-[13px] font-medium mb-3" style={{ color: T.sub }}>
+          De raw-URL van latest.json uit de salesradar-repo. Standaard staat die hardgecodeerd in index.html (LIVE_DATA_URL); hier kan je tijdelijk een andere feed testen.
+        </p>
+        <div className="flex items-center gap-2 flex-wrap">
+          <div className="flex items-center gap-2 px-3 h-9 rounded-[10px] flex-1 min-w-[240px]" style={{ background: "#F4F5F9", border: `1px solid ${T.line}` }}>
+            <Globe size={14} color={T.faint} />
+            <input value={dataUrl} onChange={(e) => setDataUrl(e.target.value)} placeholder="https://raw.githubusercontent.com/…/output/latest.json"
+              className="outline-none text-[13.5px] font-medium w-full bg-transparent" />
+          </div>
+          <button onClick={() => connect(dataUrl)} disabled={syncing || !dataUrl}
+            className="flex items-center gap-1.5 text-[14px] font-semibold px-4 h-9 rounded-[10px] text-white transition-opacity hover:opacity-90 disabled:opacity-50"
+            style={{ background: T.grad }}>
+            <RefreshCw size={13} className={syncing ? "spin" : ""} /> {syncing ? "Laden…" : "Vernieuwen"}
+          </button>
+        </div>
+        {syncInfo?.error && (
+          <p className="text-[13px] font-semibold mt-2.5" style={{ color: T.red }}>
+            Kon niet laden: {syncInfo.error}. De URL moet publieke raw JSON zijn (raw.githubusercontent.com werkt meteen).
+          </p>
+        )}
+        {syncInfo?.count != null && (
+          <p className="text-[13px] font-semibold mt-2.5" style={{ color: T.green }}>
+            {syncInfo.count} vacatures geladen · gesynct om {syncInfo.time}.
+          </p>
+        )}
+      </div>
+
+      <div style={cardStyle} className="p-4 mb-5 flex items-center gap-3.5 flex-wrap">
+        <div className="rounded-xl p-2.5" style={{ background: T.blueSoft }}>
+          <Clock size={18} color={T.blue} strokeWidth={2.2} />
+        </div>
+        <div className="flex-1 min-w-[220px]">
+          <div className="text-[14.5px] font-bold tracking-tight">Scanschema: maandag – vrijdag om {String(SCAN_HOUR).padStart(2, "0")}:00</div>
+          <div className="text-[13px] font-medium mt-0.5" style={{ color: T.sub }}>Tijdzone Europe/Brussels · geen scans in het weekend · bronnenlijst staat in sources.yaml in de repo</div>
+        </div>
+        <div className="flex items-center gap-1.5 text-[13px] font-semibold px-3 py-1.5 rounded-full" style={{ background: T.greenSoft, color: T.green }}>
+          <span className="glow w-1.5 h-1.5 rounded-full" style={{ background: T.green }} />
+          Volgende scan: {nextScanLabel()}
+        </div>
+      </div>
+
+      <div style={cardStyle} className="overflow-hidden">
+        <div className="hidden md:grid px-5 py-3 text-[12px] font-bold uppercase tracking-wider" style={{ gridTemplateColumns: "200px 1fr 90px 110px", color: T.faint, borderBottom: `1px solid ${T.line}` }}>
+          <span>Bedrijf</span><span>Carrièrepagina</span><span className="text-right">Jobs</span><span className="text-right">Laatste job</span>
+        </div>
+        {sources.length === 0 && (
+          <p className="text-[13.5px] font-medium px-5 py-8 text-center" style={{ color: T.faint }}>Nog geen bronnen — de lijst vult zich zodra latest.json vacatures bevat.</p>
+        )}
+        {sources.map((s, i) => (
+          <div key={s.url || s.company} className="row-hover source-row items-center px-5 py-3" style={{ borderBottom: i < sources.length - 1 ? `1px solid ${T.line}` : "none" }}>
+            <div className="text-[14px] font-bold tracking-tight truncate pr-2">{s.company}</div>
+            {s.url ? (
+              <a href={s.url} target="_blank" rel="noreferrer" className="inline-flex items-center gap-1 text-[13.5px] font-medium truncate hover:underline min-w-0" style={{ color: T.blue }}>
+                <span className="truncate">{s.url.replace(/^https?:\/\//, "")}</span> <ArrowUpRight size={12} className="shrink-0" />
+              </a>
+            ) : <span className="text-[13.5px]" style={{ color: T.faint }}>—</span>}
+            <div className="text-[13px] font-semibold tabular-nums md:text-right" style={{ color: T.sub }}>{s.count}</div>
+            <div className="text-[13px] font-semibold tabular-nums md:text-right" style={{ color: T.sub }}>{s.last || "—"}</div>
+          </div>
+        ))}
+      </div>
+    </>
+  );
+}
+
+/* ─────────── SIDEBAR ─────────── */
+const NAV = [
+  { id: "dashboard", label: "Dashboard", icon: LayoutDashboard },
+  { id: "topjobs", label: "Topjobs", icon: Phone },
+  { id: "sources", label: "Bronnen", icon: Globe },
+];
+
+function Sidebar({ view, setView, collapsed, setCollapsed, newCount, topCount }) {
+  return (
+    <nav className="shrink-0 sticky top-0 h-screen flex flex-col transition-all duration-200" style={{ width: collapsed ? 64 : 224, background: "#FFFFFF", borderRight: `1px solid ${T.line}` }}>
+      <div className="flex items-center gap-2.5 px-4 h-16" style={{ borderBottom: `1px solid ${T.line}` }}>
+        <div className="rounded-[10px] p-[7px] shrink-0" style={{ background: T.grad }}>
+          <Handshake size={18} color="#fff" strokeWidth={2.2} />
+        </div>
+        {!collapsed && <span className="text-[17px] font-bold tracking-tight">{APP_NAME}</span>}
+      </div>
+      <div className="flex-1 px-2.5 py-4 space-y-1">
+        {NAV.map((item) => {
+          const active = view === item.id;
+          const showBadge = (item.id === "dashboard" && newCount > 0) || (item.id === "topjobs" && topCount > 0);
+          const badgeValue = item.id === "topjobs" ? topCount : newCount;
+          return (
+            <button key={item.id} onClick={() => setView(item.id)} title={collapsed ? item.label : undefined}
+              className="w-full flex items-center gap-2.5 px-2.5 h-9 rounded-[10px] text-[14px] font-semibold transition-colors"
+              style={{ background: active ? T.blueSoft : "transparent", color: active ? T.blue : T.sub, justifyContent: collapsed ? "center" : "flex-start" }}>
+              <item.icon size={16} strokeWidth={2.2} className="shrink-0" />
+              {!collapsed && <span className="flex-1 text-left">{item.label}</span>}
+              {!collapsed && showBadge && <span className="text-[11px] font-bold px-1.5 py-[1px] rounded-full text-white" style={{ background: item.id === "topjobs" ? "#D97706" : T.grad }}>{badgeValue}</span>}
+            </button>
+          );
+        })}
+      </div>
+      <div className="px-2.5 pb-4 space-y-2">
+        {!collapsed && (
+          <div className="flex items-center gap-2 px-2.5 py-2 rounded-[10px] text-[12.5px] font-semibold" style={{ background: T.greenSoft, color: T.green }}>
+            <span className="glow w-1.5 h-1.5 rounded-full shrink-0" style={{ background: T.green }} />
+            Monitort de Vlaamse salesmarkt
+          </div>
+        )}
+        <div className="flex items-center gap-2.5 px-2.5 py-2" style={{ borderTop: `1px solid ${T.line}` }}>
+          {!collapsed && (
+            <>
+              <div className="flex items-center justify-center w-7 h-7 rounded-full text-[11.5px] font-bold text-white shrink-0" style={{ background: T.ink }}>YO</div>
+              <div className="min-w-0 flex-1">
+                <div className="text-[13px] font-bold truncate">Your Agency</div>
+                <div className="text-[11.5px] font-medium truncate" style={{ color: T.faint }}>Sales edition</div>
+              </div>
+            </>
+          )}
+          <button onClick={() => setCollapsed(!collapsed)} className="flex items-center justify-center w-7 h-7 rounded-lg transition-colors hover:bg-gray-50 shrink-0 mx-auto" style={{ border: `1px solid ${T.line}`, color: T.sub }} title={collapsed ? "Expand" : "Collapse"}>
+            {collapsed ? <ChevronsRight size={13} /> : <ChevronsLeft size={13} />}
+          </button>
+        </div>
+      </div>
+    </nav>
+  );
+}
+
+/* ─────────── APP ─────────── */
+function SalesRadar() {
+  const [view, setView] = useState("dashboard");
+  const [collapsed, setCollapsed] = useState(false);
+  const [jobs, setJobs] = useState([]);
+  const [expanded, setExpanded] = useState(null);
+  const [query, setQuery] = useState("");
+  const [roleFilter, setRoleFilter] = useState(null);
+  const [toast, setToast] = useState(null);
+  const [dataMode, setDataMode] = useState("loading"); // loading | live | error
+  const [dataUrl, setDataUrl] = useState(LIVE_DATA_URL);
+  const [syncing, setSyncing] = useState(false);
+  const [syncInfo, setSyncInfo] = useState(null);
+
+  const [blacklist, setBlacklist] = useState(() => {
+    try { const s = JSON.parse(localStorage.getItem(STORAGE_KEY) || "[]"); return Array.isArray(s) ? s : []; } catch (e) { return []; }
+  });
+  useEffect(() => { try { localStorage.setItem(STORAGE_KEY, JSON.stringify(blacklist)); } catch (e) {} }, [blacklist]);
+  const isBlacklisted = (company) => blacklist.some((b) => b.trim().toLowerCase() === String(company || "").trim().toLowerCase());
+
+  const connectLiveData = async (url) => {
+    if (!url) return;
+    setSyncing(true);
+    setSyncInfo(null);
+    try {
+      const r = await fetch(url, { cache: "no-store" });
+      if (!r.ok) throw new Error(`HTTP ${r.status}`);
+      const data = await r.json();
+      if (!Array.isArray(data)) throw new Error("expected a JSON array (latest.json)");
+      const mapped = mapScraperJobs(data);
+      setJobs(mapped);
+      setDataMode("live");
+      const time = new Date().toLocaleTimeString("nl-BE", { hour: "2-digit", minute: "2-digit" });
+      setSyncInfo({ time, count: mapped.length });
+    } catch (e) {
+      setDataMode("error");
+      setSyncInfo({ error: e.message });
+    } finally {
+      setSyncing(false);
+    }
+  };
+  useEffect(() => { connectLiveData(LIVE_DATA_URL); }, []);
+
+  const visibleJobs = useMemo(() => jobs.filter((j) => !isBlacklisted(j.company)), [jobs, blacklist]);
+  const newCount = visibleJobs.filter((j) => j.isNew).length;
+  const topCount = visibleJobs.filter((j) => j.signals.length > 0 && j.isThisWeek).length;
+
+  const blacklistCompany = (company) => {
+    if (!company || isBlacklisted(company)) return;
+    const hidden = visibleJobs.filter((j) => String(j.company).toLowerCase() === String(company).toLowerCase()).length;
+    if (!confirm(`${company} blacklisten?\n\n${hidden} vacature${hidden !== 1 ? "s" : ""} van dit bedrijf worden verborgen, en toekomstige vacatures worden automatisch overgeslagen.\n\nOngedaan maken kan via Bronnen → Geblackliste bedrijven.`)) return;
+    setBlacklist((p) => [...p, company]);
+    setToast(`${company} geblacklist — ${hidden} vacature${hidden !== 1 ? "s" : ""} verborgen`);
+    setTimeout(() => setToast(null), 3200);
+  };
+
+  return (
+    <div className="min-h-screen flex" style={{ background: T.bg, color: T.ink, fontFamily: "'Inter', system-ui, sans-serif" }}>
+      <style>{`
+        @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap');
+        * { -webkit-font-smoothing: antialiased; }
+        @keyframes slideIn { from { transform: translateY(-10px); opacity: 0 } to { transform: translateY(0); opacity: 1 } }
+        .slide { animation: slideIn .3s cubic-bezier(.2,.8,.3,1) }
+        @keyframes expand { from { opacity: 0; transform: translateY(-4px) } to { opacity: 1; transform: translateY(0) } }
+        .expand { animation: expand .25s ease-out }
+        @keyframes glow { 0%,100% { opacity:1 } 50% { opacity:.4 } }
+        .glow { animation: glow 1.6s infinite }
+        @keyframes spin360 { to { transform: rotate(360deg) } }
+        .spin { animation: spin360 1s linear infinite }
+        .row-hover { transition: background .15s ease }
+        .row-hover:hover { background: #FAFBFE }
+        input::placeholder { color: #9DA1B4 }
+        .source-row { display: grid; grid-template-columns: 1fr auto; gap: 4px 8px; }
+        @media (min-width: 768px) { .source-row { grid-template-columns: 200px 1fr 90px 110px; } }
+        @media (prefers-reduced-motion: reduce) { .slide, .expand, .glow, .spin { animation: none } }
+      `}</style>
+
+      <Sidebar view={view} setView={setView} collapsed={collapsed} setCollapsed={setCollapsed} newCount={newCount} topCount={topCount} />
+
+      {toast && (
+        <div className="slide fixed top-5 left-1/2 -translate-x-1/2 z-50 flex items-center gap-2 px-4 py-2.5 rounded-xl text-[14px] font-semibold text-white" style={{ background: T.ink, boxShadow: "0 12px 32px rgba(14,17,41,0.25)" }}>
+          <Bell size={14} color="#FDBA74" /> {toast}
+        </div>
+      )}
+
+      <main className="flex-1 min-w-0 px-5 md:px-8 py-7 overflow-y-auto">
+        <div className="max-w-5xl mx-auto">
+          {view === "dashboard" && (
+            <DashboardView jobs={visibleJobs} query={query} setQuery={setQuery} roleFilter={roleFilter} setRoleFilter={setRoleFilter}
+              expanded={expanded} setExpanded={setExpanded} dataMode={dataMode} syncInfo={syncInfo} onBlacklist={blacklistCompany} />
+          )}
+          {view === "topjobs" && (
+            <TopJobsView jobs={visibleJobs} expanded={expanded} setExpanded={setExpanded} onBlacklist={blacklistCompany} />
+          )}
+          {view === "sources" && (
+            <>
+              <SourcesView jobs={visibleJobs} dataMode={dataMode} dataUrl={dataUrl} setDataUrl={setDataUrl} connect={connectLiveData} syncing={syncing} syncInfo={syncInfo} />
+              <BlacklistCard blacklist={blacklist} setBlacklist={setBlacklist} />
+            </>
+          )}
+        </div>
+      </main>
+    </div>
+  );
+}
+
+ReactDOM.createRoot(document.getElementById("root")).render(<SalesRadar />);
+  </script>
+</body>
+</html>
