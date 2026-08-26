@@ -1,0 +1,43 @@
+name: SalesRadar daily scan
+
+on:
+  schedule:
+    - cron: '0 6 * * 1-5'   # 08:00 Brussels (CEST) on weekdays — same slot as JobRadar
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    timeout-minutes: 300
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+          playwright install --with-deps chromium
+
+      - name: Run scraper
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
+          SCAN_WORKERS: "12"
+          RADAR_PROFILE: "sales"      # tells scraper.py to use sales_profile.py instead of the IT filter
+        run: python scraper.py
+
+      - name: Commit results
+        if: always()
+        run: |
+          git config user.name "salesradar-bot"
+          git config user.email "bot@salesradar"
+          git add state/ output/
+          git diff --cached --quiet || git commit -m "daily scan"
+          git pull --rebase origin main
+          git push
