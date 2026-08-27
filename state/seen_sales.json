@@ -26,7 +26,8 @@
     "signal_terms": [
       "prospectie",
       "prospects"
-    ]
+    ],
+    "clf": 1
   },
   "https://vanden-broele.jobtoolz.com/nl/business-developer-product": {
     "title": "Business Developer Digital Platforms - publieke sector",
@@ -50,7 +51,8 @@
     ],
     "signal_terms": [
       "hunter"
-    ]
+    ],
+    "clf": 1
   },
   "https://brady.hr-technologies.com/front/nl/vacancies/3381?title=territory-sales-manager-safety--visual-workplace-%283381%29": {
     "title": "Territory Sales Manager Safety & Visual Workplace",
@@ -68,7 +70,8 @@
     "experience": null,
     "in_belgium": null,
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   "https://msc.csod.com/ux/ats/careersite/4/home/requisition/4545?c=msc": {
     "title": "Commercial Executive - Export",
@@ -88,7 +91,8 @@
     "experience": null,
     "in_belgium": true,
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   "https://cartamundi.com/en/careers/externalsalesb2b": {
     "title": "External sales (B2B)",
@@ -105,7 +109,8 @@
     "experience": null,
     "in_belgium": true,
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   "https://3dsoil.be/vacatures/vertegenwoordiger-b2b": {
     "title": "Vertegenwoordiger B2B",
@@ -132,7 +137,8 @@
     ],
     "signal_terms": [
       "prospectie"
-    ]
+    ],
+    "clf": 1
   },
   "https://jobs.brightanalytics.eu/nl/jobs/8053724-account-manager": {
     "title": "Account Manager Sales · Hooglede",
@@ -160,7 +166,8 @@
       "outbound sales",
       "hunting",
       "prospects"
-    ]
+    ],
+    "clf": 1
   },
   "https://jobpage.cvwarehouse.com/?companyGuid=cb68e829-440c-495d-ba3d-68cf7aeb7f8a&lang=nl-BE&job=389599&q=Accountmanager-Projects&api=false": {
     "title": "Accountmanager Projects Hooglede-Gits, België Bediende",
@@ -183,26 +190,8 @@
       "email": "werken@deceuninck.com"
     },
     "signals": [],
-    "signal_terms": []
-  },
-  "https://cartamundi.com/en/career/397710/": {
-    "title": "Global Cutting/ Die-Cutting/ Print Finishing Technology Expert (Remote Based Europe)",
-    "url": "https://cartamundi.com/en/career/397710/",
-    "company": "Cartamundi",
-    "source": "https://cartamundi.com/careers",
-    "first_seen": "2026-08-26",
-    "snippet": "Cartamundi Cartamundi - Cartamundi Playing card brands Card & Boardgame Solutions Trading card/game solutions Promotional solutions Custom Playing Cards About Who we are Meet the Cartamundians Our locations Corporate Governance Corporate Social Responsibility Speak Up! Code of conduct Jobs Technical Press Area Search International Search for: Jobs Technical Press Area Search International Cartamundi Playing card brands Card & Boardgame Solutions Trading card/game solutions Promotional solutions Custom Playing Cards About Who we are Meet the Cartamundians Our locations Corporate Governance Corporate Social Responsibility Speak Up! Code of conduct X Visit cartamundi.com Or choose your country Belgium Cartamundi Turnhout NV Belgium Cartamundi Services NV/SA – Headquarters Belgium Cartamundi – Digital NV Belgium Cartamundi NV/SA – Headquarters Brazil France Germany Königsfurt Urania Verlag GmbH Germany Spielkartenfabrik Altenburg GmbH Hungary India Italy Japan Netherlands Poland Singapore Spain Naipes Heraclio Fournier, S.A. Spain Cartamundi España, S.L. Sweden Switzerland United Kingdom North America The United States Playing Card Company North America Cartamundi North America East Lo",
-    "stack": [
-      "B2B",
-      "manufacturing",
-      "EMEA",
-      "senior",
-      "hunter"
-    ],
-    "experience": "10+ yrs",
-    "in_belgium": true,
-    "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   "https://jobs.brightanalytics.eu/nl/jobs/7972506-business-developer": {
     "title": "Business Developer Sales · Hooglede",
@@ -229,45 +218,8 @@
     ],
     "signal_terms": [
       "prospecten"
-    ]
-  },
-  "https://jobs.brightanalytics.eu/nl/jobs/7444675-technical-business-consultant": {
-    "title": "Technical Business Consultant Customer Success · Hooglede",
-    "url": "https://jobs.brightanalytics.eu/nl/jobs/7444675-technical-business-consultant",
-    "company": "BrightAnalytics",
-    "source": "https://jobs.brightanalytics.eu/jobs?query=&country=Belgium",
-    "first_seen": "2026-08-26",
-    "snippet": "Technical Business Consultant - BrightAnalytics Deze website maakt gebruik van cookies om je een optimale ervaring te bieden. BrightAnalytics en onze geselecteerde partners maken gebruik van cookies en soortgelijke technologieën (samen “cookies”) die nodig zijn voor het presenteren van deze website, en om ervoor te zorgen dat je de beste ervaring krijgt. Als je hiermee instemt, gebruiken we ook cookies voor analytische en marketingdoeleinden. Zie ons Cookiebeleid voor meer informatie over de cookies die we gebruiken. Je kunt je toestemming op elk gewenst moment intrekken en beheren door te klikken op \"Cookies beheren\" onder aan elke websitepagina. Alle cookies accepteren Alle niet-noodzakelijke cookies weigeren Cookievoorkeuren Selecteer welke cookies je accepteert Op deze site plaatsen we altijd cookies die strikt noodzakelijk zijn, wat betekent dat ze nodig zijn om de site goed te laten functioneren. Als je hiermee instemt, plaatsen we ook andere soorten cookies. Je kunt je toestemming voor de verschillende soorten cookies geven of intrekken met behulp van de onderstaande knoppen. Je kunt je toestemming op elk gewenst moment wijzigen of intrekken door te klikken op de link \"Cooki",
-    "stack": [
-      "SaaS",
-      "Fintech",
-      "B2B",
-      "NL/EN",
-      "farmer"
     ],
-    "experience": null,
-    "in_belgium": true,
-    "signals": [],
-    "signal_terms": []
-  },
-  "https://msc.csod.com/ux/ats/careersite/4/home/requisition/3753?c=msc": {
-    "title": "Booking Care Executive - Export",
-    "url": "https://msc.csod.com/ux/ats/careersite/4/home/requisition/3753?c=msc",
-    "company": "MSC",
-    "source": "https://msc.csod.com/ux/ats/careersite/4/home?c=msc&country=be",
-    "first_seen": "2026-08-26",
-    "snippet": "Booking Care Executive - Export | Job details Sign in Create Profile English (US) English (UK) Booking Care Executive - Export ANTWERP, Belgium | req3753 Apply now Share Save Job Posted on: 06/08/2026 Back to Search Booking Care Executive - Export Wat ga je doen? Als Booking Care Executive ben je verantwoordelijk voor een kwalitatieve en snelle registratie van de inkomende boekingen van klanten en de bijbehorende administratieve opstart van de dossiers. Jouw doel is om de klant volledig doorheen het boekingproces te begeleiden, dat wil zeggen: bevestiging, bijkomende acties bij gevaarlijke goederen of speciale vereisten, aanvraag voortransport samen met ons eigen transportbedrijf, etc. Daarbij controleer je natuurlijke de kwaliteit van de inkomende gegevens en signaleer je optimalisaties waar mogelijk, allemaal in overleg met onze andere interne en externe diensten. Rekening houden met onze bedrijfsprocedures en een zorgvuldige administratie horen hier natuurlijk ook bij! Ten slotte zal je onze klanten begeleiden in nieuwe digitale toepassingen. In deze functie rapporteer je aan de Booking Care Teamlead. Wie ben je? Je hebt een bachelordiploma (bij voorkeur een logistieke opleiding",
-    "stack": [
-      "logistics",
-      "B2B",
-      "Belgium",
-      "NL/EN",
-      "junior"
-    ],
-    "experience": null,
-    "in_belgium": true,
-    "signals": [],
-    "signal_terms": []
+    "clf": 1
   },
   "https://cartamundi.com/en/career/394407/": {
     "title": "Account Manager Collectibles",
@@ -295,7 +247,8 @@
     ],
     "signal_terms": [
       "prospecten"
-    ]
+    ],
+    "clf": 1
   },
   "https://scioteq.recruitee.com/o/product-sales-engineer-ads-2": {
     "title": "Product Sales Engineer AD&S",
@@ -314,7 +267,8 @@
     "experience": null,
     "in_belgium": true,
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   "https://jobs.brightanalytics.eu/jobs/7438307-account-executive": {
     "title": "Account Executive Sales · Hooglede",
@@ -343,7 +297,8 @@
     "signal_terms": [
       "new business ",
       "prospects"
-    ]
+    ],
+    "clf": 1
   },
   "https://jobs.brightanalytics.eu/jobs/7437374-business-developer": {
     "title": "Business Developer Sales · Hooglede, Lille",
@@ -371,7 +326,8 @@
     ],
     "signal_terms": [
       "prospects"
-    ]
+    ],
+    "clf": 1
   },
   "https://jobs.brightanalytics.eu/nl/jobs/7081008-be-country-sales-manager": {
     "title": "BE Country Sales Manager Sales · Hooglede",
@@ -391,7 +347,8 @@
     "experience": "5+ yrs",
     "in_belgium": true,
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   "https://msc.csod.com/ux/ats/careersite/4/home/requisition/3878?c=msc": {
     "title": "Commercial Executive - Project Cargo",
@@ -410,7 +367,8 @@
     "experience": "3+ yrs",
     "in_belgium": true,
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   "https://jobs.brightanalytics.eu/nl/jobs/7080247-strategic-partnership-manager-roeselare": {
     "title": "Strategic Partnership Manager (Roeselare) Sales · Hooglede",
@@ -429,7 +387,8 @@
     "experience": "2-5 yrs",
     "in_belgium": true,
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   "https://jobs.brightanalytics.eu/nl/jobs/7078734-business-consultant-customer-success": {
     "title": "Business Consultant (Customer Success) Customer Success · Hooglede",
@@ -447,7 +406,8 @@
     "experience": null,
     "in_belgium": true,
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   "https://jobs.brightanalytics.eu/jobs/7078588-business-developer": {
     "title": "Business Developer Sales · Hooglede",
@@ -476,7 +436,8 @@
     "signal_terms": [
       "prospects",
       "outbound sales"
-    ]
+    ],
+    "clf": 1
   },
   "https://acr-nv.be/nl/vacatures/accountmanager-m-v/": {
     "title": "ACCOUNTMANAGER (M/V)",
@@ -498,7 +459,8 @@
     ],
     "signal_terms": [
       "acquisitie"
-    ]
+    ],
+    "clf": 1
   },
   "https://jobs.aertssen.be/vacatures/detail/?id=2591&title=accountmanager-beringen": {
     "title": "Accountmanager Beringen",
@@ -522,7 +484,8 @@
       "email": null
     },
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   "https://www.jobs.paesmans.be/onze-mensen/verkopers": {
     "title": "Verkopers",
@@ -544,26 +507,8 @@
       "email": "info@paesmans.be"
     },
     "signals": [],
-    "signal_terms": []
-  },
-  "https://www.jobs.paesmans.be/jobs/verkoper-byd-2026": {
-    "title": "Vlinder Verkoper BYD Jij vindt telkens weer de juiste wagen voor jouw klant",
-    "url": "https://www.jobs.paesmans.be/jobs/verkoper-byd-2026",
-    "company": "AUTOCENTER PAESMANS",
-    "source": "https://www.jobs.paesmans.be/",
-    "first_seen": "2026-08-26",
-    "snippet": "Verkoper BYD — Jobs — Paesmans Autogroep Werken bij ons Jobs Onze mensen Verhalen Contact Werken bij ons Jobs Onze mensen Verhalen Contact Vragen? We helpen je graag verder! [email protected] +32 11 24 09 00 Verkoper BYD Vlinder Ontdek de vacature Vacature Verkoper BYD Wij zijn op zoek naar een BYD verkoper met zin in succes! Je krijgt de kans om op verschillende locaties het verschil te maken, klanten te begeleiden tijdens hun aankooptraject en mee te bouwen aan de verdere groei van BYD in Limburg. Jouw rol Als BYD-verkoper ben jij het vertrouwde gezicht van onze showroom. Je verwelkomt klanten met een glimlach, luistert naar hun verhaal en begeleidt hen naar de BYD die perfect aansluit bij hun wensen en levensstijl. Omdat je als vlinder actief bent in Hasselt, Lommel en Dilsen-Stokkem, werk je samen met verschillende teams en leer je onze vestigingen van dichtbij kennen. Geen enkele dag is dezelfde. Daarnaast: Begeleid je klanten doorheen het volledige aankoopproces, van eerste kennismaking tot aflevering. Adviseer je klanten over het volledige BYD-gamma, opties en accessoires. Stel je offertes op en werk je verkoopdossiers nauwkeurig af. Volg je leads en opportuniteiten actief o",
-    "stack": [
-      "B2C",
-      "automotive",
-      "Flanders",
-      "NL",
-      "hunter"
-    ],
-    "experience": null,
-    "in_belgium": true,
-    "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   "https://jobs.aluminiumduffel.com/nl/vacatures/g/jobs/c/-key-account-manager-13103/index.aspx": {
     "title": "(Key) Account Manager (1)",
@@ -581,7 +526,8 @@
     "experience": null,
     "in_belgium": true,
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   "https://jobs.aluminiumduffel.com/nl/vacature/125549/business-development-key-account-manager/": {
     "title": "Business Development/Key Account Manager",
@@ -611,7 +557,8 @@
     ],
     "signal_terms": [
       "new business "
-    ]
+    ],
+    "clf": 1
   },
   "https://www.autobedrijflagrou.be/jobs/sales-advisor-met-ervaring": {
     "title": "Sales Advisor met ervaring",
@@ -634,7 +581,8 @@
       "email": "klaas.lagrou@autobedrijflagrou.be"
     },
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   "https://auvicom.be/en/vacancies/technical-sales-representative/": {
     "title": "Technical Sales Representative",
@@ -652,7 +600,8 @@
     "experience": null,
     "in_belgium": null,
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   "https://www.becoma.be/nl/jobs/verkoper-knikmops-gamma": {
     "title": "Vacature VERKOPER KNIKMOPSGAMMA",
@@ -679,7 +628,8 @@
     ],
     "signal_terms": [
       "prospecteren"
-    ]
+    ],
+    "clf": 1
   },
   "https://www.becoma.be/nl/jobs/verkoper-merlogamma": {
     "title": "Vacature VERKOPER MERLOGAMMA",
@@ -706,7 +656,8 @@
     ],
     "signal_terms": [
       "prospecteren"
-    ]
+    ],
+    "clf": 1
   },
   "https://www.vandenbraembussche.be/jobs/accountmanagers": {
     "title": "accountmanagers Aalter (bouwmaterialen) Avelgem Eeklo Gent Lier Oostrozebeke Ronse Functie Sales",
@@ -730,7 +681,8 @@
     ],
     "signal_terms": [
       "prospectie"
-    ]
+    ],
+    "clf": 1
   },
   "https://www.vandenbraembussche.be/jobs/internal-sales-medewerkers": {
     "title": "internal sales medewerkers Oostrozebeke Functie Administratie Sales",
@@ -750,7 +702,8 @@
     "experience": null,
     "in_belgium": true,
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   "https://www.vandenbraembussche.be/jobs/commercieel-medewerker-bouwshop": {
     "title": "commercieel medewerker bouwshop Lier Functie Administratie Sales",
@@ -770,25 +723,8 @@
     "experience": null,
     "in_belgium": true,
     "signals": [],
-    "signal_terms": []
-  },
-  "https://www.bleckmann.com/nl/vacatures/customer-service-supervisor": {
-    "title": "Customer Service Supervisor Kruisum, Belgium",
-    "url": "https://www.bleckmann.com/nl/vacatures/customer-service-supervisor",
-    "company": "BLECKMANN BELGIË NV",
-    "source": "https://www.bleckmann.com/nl/vacatures",
-    "first_seen": "2026-08-26",
-    "snippet": "Customer Service Supervisor | Bleckmann Focus Lifestyle logistiek Mode logistiek Ecommerce logistiek Oplossingen Vrachtvervoer Luchtvracht Wanneer tijd het belangrijkst is, vinden we de juiste balans tussen kosten enâ¦ Zeevracht Wanneer de kosten de tijd overtreffen, van leveranciers over de hele wereld Weg- en spoorvervoer Nationale en internationale vracht via ons wereldwijde partnernetwerk Logistiek & Fulfilment Warehousing Beschikbare opslagruimte waar en wanneer je die nodig hebt Dienstverlening met toegevoegde waarde Een breed scala aan diensten voor de ultieme klantervaring en om je verkoop teâ¦ Transport Distributie Retourlogistiek Een uitstekende klantervaring bieden door efficiÃ«nt en duurzaam retourbeheer Circulaire oplossingen The Renewal Workshop Een complete set circulaire oplossingen om de hoogste waarde terug te krijgenâ¦ Schaalvergroting BscaleÂ® Oplossing Een oplossing op maat voor logistiek en fulfillment, ontworpen om start-ups enâ¦ Douane Douaneoplossingen In een complexe handelsomgeving zijn douaneoplossingen op maat essentieel om deâ¦ Onze aanpak Duurzaamheid Innovatie Klantverhalen Resources CarriÃ¨re Over ons Ons verhaal Ons team Pers & media Contact P",
-    "stack": [
-      "logistics",
-      "B2B",
-      "fashion/lifestyle",
-      "Belgium"
-    ],
-    "experience": null,
-    "in_belgium": true,
-    "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   "https://www.mybns.com/vacatures/sales-specialist-mobile-applications-m-v-x/": {
     "title": "Sales Specialist Mobile Applications (M/V/X)",
@@ -819,7 +755,8 @@
       "prospecten",
       "afspraken maken",
       "hunter"
-    ]
+    ],
+    "clf": 1
   },
   "https://blitzpower.com/nl-be/jobs/business-developer-wallonie/": {
     "title": "Business developer Wallonie",
@@ -848,7 +785,8 @@
       "prospectiemindset",
       "prospectie",
       "hunter"
-    ]
+    ],
+    "clf": 1
   },
   "https://blitzpower.com/nl-be/jobs/key-account-manager/": {
     "title": "Key account manager",
@@ -872,7 +810,8 @@
     ],
     "signal_terms": [
       "prospectie"
-    ]
+    ],
+    "clf": 1
   },
   "https://certis.be/vacature/accountmanager-provincie-limburg-belgie/": {
     "title": "Accountmanager provincie Limburg",
@@ -899,7 +838,8 @@
     ],
     "signal_terms": [
       "prospecteren"
-    ]
+    ],
+    "clf": 1
   },
   "https://catsdogs.recruitee.com/o/eerste-verkoper-2": {
     "title": "Eerste verkoper",
@@ -919,7 +859,8 @@
     "experience": null,
     "in_belgium": true,
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   "https://www.heylengroup.com/career/business-developer/": {
     "title": "Business Developer België (Internationale rekrutering) Link2Europe Gent & Antwerpen",
@@ -943,7 +884,8 @@
       "email": "igor@link2europe.be"
     },
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   "https://www.delsport.com/nl/vacatures/1213/voltijds-verkoopmedewerkster": {
     "title": "Voltijds verkoopmedewerkster",
@@ -964,7 +906,8 @@
       "email": "sales@delsport.be"
     },
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   "https://www.dvvpartners.be/vacatures/commercieel-medewerker-gent": {
     "title": "Commercieel Medewerker - Gent",
@@ -987,7 +930,8 @@
       "email": "karel.mortier@dvv.be"
     },
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   "https://www.dsmkeukens.be/job/tweetalige-klantenbegeleider/": {
     "title": "Tweetalige klantenbegeleider Sales Brussel Luik Waals-Brabant Voltijds",
@@ -1006,7 +950,8 @@
     "experience": null,
     "in_belgium": true,
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   "https://www.dsmkeukens.be/job/sales-advisor-brugge/": {
     "title": "Sales Advisor Brugge Sales West-Vlaanderen Voltijds, Freelance",
@@ -1025,7 +970,8 @@
     "experience": null,
     "in_belgium": true,
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   "https://www.dsmkeukens.be/job/commercieel-binnenhuisarchitect/": {
     "title": "Commercieel binnenhuisarchitect Sales Antwerpen Oost-Vlaanderen Voltijds",
@@ -1044,7 +990,8 @@
     "experience": null,
     "in_belgium": true,
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   "https://www.dsmkeukens.be/job/project-accountmanager/": {
     "title": "Project Accountmanager Sales Hoofdkantoor Voltijds",
@@ -1067,7 +1014,8 @@
     ],
     "signal_terms": [
       "plant afspraken"
-    ]
+    ],
+    "clf": 1
   },
   "https://www.dsmkeukens.be/job/sales-advisor-kuurne/": {
     "title": "Sales Advisor Kuurne Sales West-Vlaanderen Voltijds, Freelance",
@@ -1086,7 +1034,8 @@
     "experience": null,
     "in_belgium": true,
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   "https://www.dsmkeukens.be/job/tweetalige-sales-advisor-regio-zaventem/": {
     "title": "Tweetalige Sales Advisor regio Zaventem Sales Brussel Voltijds, Freelance",
@@ -1105,7 +1054,8 @@
     "experience": null,
     "in_belgium": true,
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   "https://www.dsmkeukens.be/job/sales-advisor-oudenaarde/": {
     "title": "Sales Advisor Oudenaarde Sales Oost-Vlaanderen Voltijds, Freelance",
@@ -1124,7 +1074,8 @@
     "experience": null,
     "in_belgium": true,
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   "https://www.dsmkeukens.be/job/sales-advisor-erembodgem/": {
     "title": "Sales Advisor Erembodgem Sales Oost-Vlaanderen Voltijds, Freelance",
@@ -1143,7 +1094,8 @@
     "experience": null,
     "in_belgium": true,
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   "https://eventpay.be/vacatures/sales-representative-limburg-antwerpen/": {
     "title": "Sales Representative (Limburg & Antwerpen)",
@@ -1165,7 +1117,8 @@
       "email": "sander@eventpay.be"
     },
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   "https://www.dsmkeukens.be/job/sales-advisor-sint-niklaas-2/": {
     "title": "Sales Advisor Sint-Niklaas Sales Oost-Vlaanderen Voltijds, Freelance",
@@ -1184,7 +1137,8 @@
     "experience": null,
     "in_belgium": true,
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   "https://www.dsmkeukens.be/job/sales-advisor-oostende-2/": {
     "title": "Sales Advisor Oostende Sales West-Vlaanderen Voltijds, Freelance",
@@ -1203,7 +1157,8 @@
     "experience": null,
     "in_belgium": true,
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   "https://www.dsmkeukens.be/job/sales-advisor-drogenbos-2/": {
     "title": "Tweetalige Sales Advisor Drogenbos Sales Vlaams-Brabant Voltijds, Freelance",
@@ -1222,7 +1177,8 @@
     "experience": null,
     "in_belgium": true,
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   "https://www.dsmkeukens.be/job/sales-advisor-kampenhout-2/": {
     "title": "Sales Advisor Kampenhout Sales Vlaams-Brabant Voltijds, Freelance",
@@ -1241,7 +1197,8 @@
     "experience": null,
     "in_belgium": true,
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   "https://enervice.be/vacatures/sales-engineer/": {
     "title": "Sales Engineer",
@@ -1263,7 +1220,8 @@
       "email": "magaly@enervice.be"
     },
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   "https://www.dsmkeukens.be/job/sales-advisor-roeselare-2/": {
     "title": "Sales Advisor Roeselare Sales West-Vlaanderen Voltijds, Freelance",
@@ -1282,7 +1240,8 @@
     "experience": null,
     "in_belgium": true,
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   "https://www.dsmkeukens.be/job/sales-advisor-schoten-2/": {
     "title": "Sales Advisor Schoten Sales Antwerpen Voltijds, Freelance",
@@ -1301,30 +1260,8 @@
     "experience": null,
     "in_belgium": true,
     "signals": [],
-    "signal_terms": []
-  },
-  "https://elogautomation.com/job/solution-engineer/": {
-    "title": "Solution engineer",
-    "url": "https://elogautomation.com/job/solution-engineer/",
-    "company": "E’Log Automation",
-    "source": "https://elogautomation.com/jobs/",
-    "first_seen": "2026-08-26",
-    "snippet": "Job Solution Engineer - E'Log Automation Skip to content Home What we deliver Simplexity About us Jobs News Contact EN NL FR Menu Toggle Home What we deliver Simplexity About us Jobs News Contact EN Menu Toggle NL FR Solution engineer Are you looking for an interesting position in a young, dynamic, and fast-growing company? At E’Log Automation, we operate with a clear sense of purpose and strive for simplicity and efficiency in logistics automation. When it comes to complex logistics environments, simplexity is key. As a Solution Engineer, you’ll join our dynamic team and play an important role designing, building, and maintaining effective logistics solutions. You will take on challenging and captivating projects and ensure that they always meet the needs of our customers. You will work at our Temse or Herentals branch, depending on where you live. We serve clients throughout Belgium and further afield. Your responsibilities Designing 2D and 3D concepts in Inventor, AutoCAD, and Navisworks Creating budgets and developing custom solutions that meet the customer’s requirements Making cost calculations in Excel and writing detailed quotes Supporting colleagues during commercial and/o",
-    "stack": [
-      "B2B",
-      "logistics",
-      "industrial",
-      "NL/EN/FR",
-      "senior"
-    ],
-    "experience": "Several years",
-    "in_belgium": true,
-    "contact": {
-      "name": null,
-      "email": "info@elogautomation.be"
-    },
-    "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   "https://www.dsmkeukens.be/job/sales-advisor-olen-2/": {
     "title": "Sales Advisor Olen Sales Antwerpen Voltijds, Freelance",
@@ -1342,7 +1279,8 @@
     "experience": null,
     "in_belgium": true,
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   "https://www.dsmkeukens.be/job/sales-advisor-hasselt-2/": {
     "title": "Sales Advisor Hasselt Sales Limburg Voltijds, Freelance",
@@ -1361,7 +1299,8 @@
     "experience": null,
     "in_belgium": true,
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   "https://sivafrost.be/jobs/medewerker-commerciele-binnendienst/": {
     "title": "Medewerker Commerciële Binnendienst",
@@ -1384,7 +1323,8 @@
       "email": "info@sivafrost.be"
     },
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   "https://sivafrost.be/en/jobs-2/sales-relations-manager/": {
     "title": "Sales & Relations Manager",
@@ -1407,7 +1347,8 @@
       "email": "info@sivafrost.be"
     },
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   "https://www.mema.be/jobs/technisch-vertegenwoordiger-oost--en-west-vlaanderen": {
     "title": "Technisch vertegenwoordiger Oost- en West-Vlaanderen",
@@ -1434,7 +1375,8 @@
     ],
     "signal_terms": [
       "prospecten"
-    ]
+    ],
+    "clf": 1
   },
   "https://www.mema.be/jobs/technisch-vertegenwoordiger-antwerpen-en-limburg": {
     "title": "Technisch vertegenwoordiger Antwerpen en Limburg",
@@ -1461,7 +1403,8 @@
     ],
     "signal_terms": [
       "prospecten"
-    ]
+    ],
+    "clf": 1
   },
   "https://www.novitan.com/jobs/internal-sales": {
     "title": "Internal Sales",
@@ -1487,7 +1430,8 @@
     ],
     "signal_terms": [
       "hunt"
-    ]
+    ],
+    "clf": 1
   },
   "https://www.novitan.com/jobs/sourcing-specialist": {
     "title": "Sales & Purchase Specialist",
@@ -1514,7 +1458,8 @@
     ],
     "signal_terms": [
       "hunt"
-    ]
+    ],
+    "clf": 1
   },
   "https://www.octopus.be/nl/vacatures/sales-professional-wallonie-2/": {
     "title": "Sales Professional Wallonië",
@@ -1545,7 +1490,8 @@
       "prospectie",
       "prospects",
       "prospect"
-    ]
+    ],
+    "clf": 1
   },
   "https://www.novitan.com/jobs/business-developer-clinical-sourcing-gmp": {
     "title": "Business Development Manager",
@@ -1579,7 +1525,8 @@
       "prospecting",
       "lead generation",
       "hunt"
-    ]
+    ],
+    "clf": 1
   },
   "https://www.routeyou.com/jobs/sales-business-developer-0526": {
     "title": "Sales & Business developer",
@@ -1609,7 +1556,8 @@
       "prospects",
       "new business ",
       "prospecting"
-    ]
+    ],
+    "clf": 1
   },
   "https://www.solvari.be/nl/vacatures/junior-sales-2": {
     "title": "Junior Sales | Locatie: Gent",
@@ -1639,7 +1587,8 @@
     "signal_terms": [
       "new business ",
       "acquisitie"
-    ]
+    ],
+    "clf": 1
   },
   "https://www.solvari.be/nl/vacatures/sales-new-business-vlaanderen-3": {
     "title": "Sales New Business Vlaanderen | Locatie: Gent",
@@ -1675,7 +1624,8 @@
       "prospects",
       "prospecting",
       "acquisitie"
-    ]
+    ],
+    "clf": 1
   },
   "https://teamsunday.com/careers/account-executive": {
     "title": "Account Executive Sales Belgium / Hybrid Full-time View details",
@@ -1703,28 +1653,8 @@
       "build your own pipeline",
       "prospect",
       "outreach"
-    ]
-  },
-  "https://br.industria.be/over-industria-business-relations/": {
-    "title": "Bedrijvenrelaties",
-    "url": "https://br.industria.be/over-industria-business-relations/",
-    "company": "STUDENTENVERENIGING INDUSTRIA",
-    "source": "https://industria.be/",
-    "first_seen": "2026-08-26",
-    "snippet": "Over Industria Business Relations – Bedrijven Relaties Login NL Home Events Voor Studenten Voor bedrijven Jobs & Stages Onze Partners Over Industria Business Relations Door studenten, voor studenten Voor onze studenten Voor onze studenten bieden we een verscheidenheid aan evenementen aan. Deze kunnen variëren van onze jaarlijkse jobbeurs en sector nights, tot grootse en creatieve atriumevenementen. Deze evenementen zijn allemaal gericht op het creëren van mogelijkheden voor jou om beter geïnformeerd te raken en contacten te leggen met bedrijven die jouw toekomst kunnen worden. Jouw (toekomstige) baan is erg belangrijk en we willen de kans zo groot mogelijk maken dat jij je droombaan vindt. Daarom moedigen we je aan om op de hoogte te blijven van onze Facebook- en LinkedIn-pagina’s. Dit zijn de platformen waar je onze evenementen kan vinden en mensen kan ontmoeten die deuren voor je zullen openen! Voor Studenten Voor onze partners Als Industria willen we u de beste kansen geven om uw droomwerknemer te vinden, maar onze focus zal altijd liggen op het creëren van de beste activiteiten voor onze studenten. Daarom werken we graag samen om nieuwe en interessante activiteiten te creëren w",
-    "stack": [
-      "B2B",
-      "student recruitment",
-      "networking"
     ],
-    "experience": null,
-    "in_belgium": true,
-    "contact": {
-      "name": "Victor Vaes",
-      "email": "victor.vaes@industria.be"
-    },
-    "signals": [],
-    "signal_terms": []
+    "clf": 1
   },
   "https://storaenso.wd502.myworkdayjobs.com/nl-NL/Stora_Enso_site_opportunities/job/Mosina/International-Business-Development-Manager_JR112445-1": {
     "title": "International Business Development Manager",
@@ -1744,7 +1674,8 @@
     "experience": null,
     "in_belgium": null,
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   "https://teamtel.be/jobs/sales-representative/": {
     "title": "Sales Representative",
@@ -1773,7 +1704,8 @@
     ],
     "signal_terms": [
       "prospectie"
-    ]
+    ],
+    "clf": 1
   },
   "https://teamtel.be/jobs/inside-sales-medewerker/": {
     "title": "Inside Sales Medewerker",
@@ -1802,7 +1734,8 @@
     "signal_terms": [
       "prospectie",
       "plant afspraken"
-    ]
+    ],
+    "clf": 1
   },
   "https://teamtel.be/jobs/business-development-manager/": {
     "title": "Business Development Manager",
@@ -1830,7 +1763,8 @@
     ],
     "signal_terms": [
       "prospectie"
-    ]
+    ],
+    "clf": 1
   },
   "https://jobs.timefold.ai/jobs/7912444-enterprise-account-executive-emea": {
     "title": "Enterprise Account Executive EMEA",
@@ -1854,7 +1788,8 @@
     "signal_terms": [
       "prospect",
       "outreach"
-    ]
+    ],
+    "clf": 1
   },
   "https://www.kachelsvandenberge.be/vacatures/interieurvormgeverster": {
     "title": "Interieurvormgever/ster kachels en haarden met commerciële flair",
@@ -1876,7 +1811,8 @@
       "email": "davy@kachelsvandenberge.be"
     },
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   "https://www.buffl.be/challenges/acquisition-churn": {
     "title": "Acquisition & Churn Deciding what’s next for acquiring and retaining customers.",
@@ -1901,7 +1837,8 @@
     ],
     "signal_terms": [
       "lead generation"
-    ]
+    ],
+    "clf": 1
   },
   "https://www.tyles.be/nl/vacatures/verkoper-adviseur-zellik": {
     "title": "Verkoper / Adviseur Zellik",
@@ -1924,7 +1861,8 @@
       "email": "jobs@tyles.be"
     },
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   "https://www.telsmart.eu/job/account-manager-west-vlaanderen/": {
     "title": "Vacature | Account Manager (regio West-Vlaanderen)",
@@ -1956,7 +1894,8 @@
       "prospectie",
       "hunter",
       "prospecten"
-    ]
+    ],
+    "clf": 1
   },
   "https://www.telsmart.eu/job/account-manager-regio-limburg/": {
     "title": "Vacature | Account Manager (Regio Limburg)",
@@ -1987,7 +1926,8 @@
       "prospectie",
       "hunter",
       "prospecten"
-    ]
+    ],
+    "clf": 1
   },
   "https://www.telsmart.eu/job/account-manager-antwerpen/": {
     "title": "Vacature | Account Manager (Regio Antwerpen)",
@@ -2017,7 +1957,8 @@
       "prospectie",
       "hunter",
       "prospecten"
-    ]
+    ],
+    "clf": 1
   },
   "https://www.telsmart.eu/job/gedreven-accountmanager/": {
     "title": "Account Manager – Oost-Vlaanderen",
@@ -2049,7 +1990,8 @@
       "prospectie",
       "hunter",
       "prospecten"
-    ]
+    ],
+    "clf": 1
   },
   "https://jobs.vltechnics.com/vacatures/insight-electrical-sales-engineer/": {
     "title": "Inside Sales Engineer",
@@ -2072,7 +2014,8 @@
       "email": "jobs@vltechnics.com"
     },
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   "https://www.adremkeukens.be/werken-bij/vacature-verkoper": {
     "title": "Verkoper",
@@ -2094,56 +2037,8 @@
       "email": "melissa@adremkeukens.be"
     },
     "signals": [],
-    "signal_terms": []
-  },
-  "https://www.vdk.be/nl/overzicht-vacatures/commercieel-medewerker": {
-    "title": "Commercieel medewerker",
-    "url": "https://www.vdk.be/nl/overzicht-vacatures/commercieel-medewerker",
-    "company": "vdk bank",
-    "source": "https://www.vdk.be/nl/particulieren/werken-bij-vdk-bank",
-    "first_seen": "2026-08-26",
-    "snippet": "Commercieel medewerker | vdk bank Overslaan en naar de inhoud gaan Particulieren Professionelen Vind je kantoor Vragen? Maak een afspraak Nieuws Online banking Select your language nl Laat dit veld leeg vdk bank Dagelijks bankieren Hoofdmenu Dagelijks bankieren Alles over dagelijks bankieren Betaalrekeningen Betaalrekeningen Flux betaalrekening You Count zichtrekening Meer over betaalrekeningen Betaalmiddelen Betaalmiddelen De mobile@vdk-app Online bankieren via online@vdk Betaalkaarten Meer over betaalmiddelen Snel naar Snel naar Stap over naar vdk bank Open online je rekening Phishing Sparen en beleggen Hoofdmenu Sparen en beleggen Alles over sparen en beleggen Sparen Sparen Sparen op je eigen ritme Sparen met maatschappelijk engagement Klassiek sparen Sparen als jongere Kortetermijnrekening Termijnrekening Meer over sparen Beleggen Beleggen Beleggen vanaf 50 euro per maand Beleggen met een impact Pensioensparen Kasbons & depositocertificaten Spaarverzekering - Tak 21 Staatsbons Gestructureerde obligaties Meer over beleggen Snel naar Snel naar Ons ethisch spaargeldbeleid Vind de spaarrekening die bij je past Onze beleggingsaanpak Simuleer je rendement Alles over de meerwaardebela",
-    "stack": [
-      "B2B",
-      "banking",
-      "Flanders",
-      "NL"
-    ],
-    "experience": null,
-    "in_belgium": true,
-    "contact": {
-      "name": "De Coninck Björn",
-      "email": null
-    },
-    "signals": [],
-    "signal_terms": []
-  },
-  "https://www.vdk.be/nl/overzicht-vacatures/relatiebeheerder-oostende": {
-    "title": "Relatiebeheerder Oostende",
-    "url": "https://www.vdk.be/nl/overzicht-vacatures/relatiebeheerder-oostende",
-    "company": "vdk bank",
-    "source": "https://www.vdk.be/nl/particulieren/werken-bij-vdk-bank",
-    "first_seen": "2026-08-26",
-    "snippet": "Relatiebeheerder Oostende | vdk bank Overslaan en naar de inhoud gaan Particulieren Professionelen Vind je kantoor Vragen? Maak een afspraak Nieuws Online banking Select your language nl Laat dit veld leeg vdk bank Dagelijks bankieren Hoofdmenu Dagelijks bankieren Alles over dagelijks bankieren Betaalrekeningen Betaalrekeningen Flux betaalrekening You Count zichtrekening Meer over betaalrekeningen Betaalmiddelen Betaalmiddelen De mobile@vdk-app Online bankieren via online@vdk Betaalkaarten Meer over betaalmiddelen Snel naar Snel naar Stap over naar vdk bank Open online je rekening Phishing Sparen en beleggen Hoofdmenu Sparen en beleggen Alles over sparen en beleggen Sparen Sparen Sparen op je eigen ritme Sparen met maatschappelijk engagement Klassiek sparen Sparen als jongere Kortetermijnrekening Termijnrekening Meer over sparen Beleggen Beleggen Beleggen vanaf 50 euro per maand Beleggen met een impact Pensioensparen Kasbons & depositocertificaten Spaarverzekering - Tak 21 Staatsbons Gestructureerde obligaties Meer over beleggen Snel naar Snel naar Ons ethisch spaargeldbeleid Vind de spaarrekening die bij je past Onze beleggingsaanpak Simuleer je rendement Alles over de meerwaardeb",
-    "stack": [
-      "B2B",
-      "Banking",
-      "Flanders",
-      "NL/FR",
-      "farmer"
-    ],
-    "experience": "3+ yrs",
-    "in_belgium": true,
-    "contact": {
-      "name": "Deweirdt Nancy",
-      "email": null
-    },
-    "signals": [
-      "Je bouwt jouw netwerk uit, prospecteert en detecteert commerciële opportuniteiten."
-    ],
-    "signal_terms": [
-      "prospecteert"
-    ]
+    "signal_terms": [],
+    "clf": 1
   },
   "https://www.vdk.be/nl/overzicht-vacatures/commercieel-medewerker-cluster-waregem": {
     "title": "Commercieel medewerker cluster Waregem",
@@ -2165,7 +2060,8 @@
       "email": null
     },
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   "https://www.vdk.be/nl/overzicht-vacatures/commercieel-regio-medewerker-vlaanderen": {
     "title": "Commercieel regio medewerker Vlaanderen",
@@ -2188,7 +2084,8 @@
       "email": null
     },
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   "https://www.vdk.be/nl/overzicht-vacatures/commercieel-regio-medewerker-brusselwallonie": {
     "title": "Commercieel regio medewerker Brussel/Wallonië",
@@ -2211,7 +2108,8 @@
       "email": null
     },
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   "https://www.vdk.be/nl/overzicht-vacatures/relatiebeheerder-turnhout": {
     "title": "Relatiebeheerder Turnhout",
@@ -2238,140 +2136,8 @@
     ],
     "signal_terms": [
       "prospecteert"
-    ]
-  },
-  "https://www.vdk.be/nl/overzicht-vacatures/relatiebeheerder-leuven": {
-    "title": "Relatiebeheerder Leuven",
-    "url": "https://www.vdk.be/nl/overzicht-vacatures/relatiebeheerder-leuven",
-    "company": "vdk bank",
-    "source": "https://www.vdk.be/nl/particulieren/werken-bij-vdk-bank",
-    "first_seen": "2026-08-26",
-    "snippet": "Relatiebeheerder Leuven | vdk bank Overslaan en naar de inhoud gaan Particulieren Professionelen Vind je kantoor Vragen? Maak een afspraak Nieuws Online banking Select your language nl Laat dit veld leeg vdk bank Dagelijks bankieren Hoofdmenu Dagelijks bankieren Alles over dagelijks bankieren Betaalrekeningen Betaalrekeningen Flux betaalrekening You Count zichtrekening Meer over betaalrekeningen Betaalmiddelen Betaalmiddelen De mobile@vdk-app Online bankieren via online@vdk Betaalkaarten Meer over betaalmiddelen Snel naar Snel naar Stap over naar vdk bank Open online je rekening Phishing Sparen en beleggen Hoofdmenu Sparen en beleggen Alles over sparen en beleggen Sparen Sparen Sparen op je eigen ritme Sparen met maatschappelijk engagement Klassiek sparen Sparen als jongere Kortetermijnrekening Termijnrekening Meer over sparen Beleggen Beleggen Beleggen vanaf 50 euro per maand Beleggen met een impact Pensioensparen Kasbons & depositocertificaten Spaarverzekering - Tak 21 Staatsbons Gestructureerde obligaties Meer over beleggen Snel naar Snel naar Ons ethisch spaargeldbeleid Vind de spaarrekening die bij je past Onze beleggingsaanpak Simuleer je rendement Alles over de meerwaardebel",
-    "stack": [
-      "B2B",
-      "banking",
-      "NL",
-      "farmer"
     ],
-    "experience": "3+ yrs",
-    "in_belgium": true,
-    "contact": {
-      "name": "Deweirdt Nancy",
-      "email": null
-    },
-    "signals": [
-      "Je bouwt jouw netwerk uit, prospecteert en detecteert commerciële opportuniteiten."
-    ],
-    "signal_terms": [
-      "prospecteert"
-    ]
-  },
-  "https://www.vdk.be/nl/overzicht-vacatures/relatiebeheerder-cluster-drongen": {
-    "title": "Relatiebeheerder cluster Drongen",
-    "url": "https://www.vdk.be/nl/overzicht-vacatures/relatiebeheerder-cluster-drongen",
-    "company": "vdk bank",
-    "source": "https://www.vdk.be/nl/particulieren/werken-bij-vdk-bank",
-    "first_seen": "2026-08-26",
-    "snippet": "Relatiebeheerder cluster Drongen | vdk bank Overslaan en naar de inhoud gaan Particulieren Professionelen Vind je kantoor Vragen? Maak een afspraak Nieuws Online banking Select your language nl Laat dit veld leeg vdk bank Dagelijks bankieren Hoofdmenu Dagelijks bankieren Alles over dagelijks bankieren Betaalrekeningen Betaalrekeningen Flux betaalrekening You Count zichtrekening Meer over betaalrekeningen Betaalmiddelen Betaalmiddelen De mobile@vdk-app Online bankieren via online@vdk Betaalkaarten Meer over betaalmiddelen Snel naar Snel naar Stap over naar vdk bank Open online je rekening Phishing Sparen en beleggen Hoofdmenu Sparen en beleggen Alles over sparen en beleggen Sparen Sparen Sparen op je eigen ritme Sparen met maatschappelijk engagement Klassiek sparen Sparen als jongere Kortetermijnrekening Termijnrekening Meer over sparen Beleggen Beleggen Beleggen vanaf 50 euro per maand Beleggen met een impact Pensioensparen Kasbons & depositocertificaten Spaarverzekering - Tak 21 Staatsbons Gestructureerde obligaties Meer over beleggen Snel naar Snel naar Ons ethisch spaargeldbeleid Vind de spaarrekening die bij je past Onze beleggingsaanpak Simuleer je rendement Alles over de meer",
-    "stack": [
-      "B2B",
-      "Banking",
-      "Farmer",
-      "NL/FR"
-    ],
-    "experience": "3+ yrs",
-    "in_belgium": true,
-    "contact": {
-      "name": "Deweirdt Nancy",
-      "email": null
-    },
-    "signals": [
-      "Je bouwt jouw netwerk uit, prospecteert en detecteert commerciële opportuniteiten."
-    ],
-    "signal_terms": [
-      "prospecteert"
-    ]
-  },
-  "https://www.vdk.be/nl/overzicht-vacatures/relatiebeheerder-kantoor-op-afstand": {
-    "title": "Relatiebeheerder Kantoor op afstand",
-    "url": "https://www.vdk.be/nl/overzicht-vacatures/relatiebeheerder-kantoor-op-afstand",
-    "company": "vdk bank",
-    "source": "https://www.vdk.be/nl/particulieren/werken-bij-vdk-bank",
-    "first_seen": "2026-08-26",
-    "snippet": "Relatiebeheerder Kantoor op afstand | vdk bank Overslaan en naar de inhoud gaan Particulieren Professionelen Vind je kantoor Vragen? Maak een afspraak Nieuws Online banking Select your language nl Laat dit veld leeg vdk bank Dagelijks bankieren Hoofdmenu Dagelijks bankieren Alles over dagelijks bankieren Betaalrekeningen Betaalrekeningen Flux betaalrekening You Count zichtrekening Meer over betaalrekeningen Betaalmiddelen Betaalmiddelen De mobile@vdk-app Online bankieren via online@vdk Betaalkaarten Meer over betaalmiddelen Snel naar Snel naar Stap over naar vdk bank Open online je rekening Phishing Sparen en beleggen Hoofdmenu Sparen en beleggen Alles over sparen en beleggen Sparen Sparen Sparen op je eigen ritme Sparen met maatschappelijk engagement Klassiek sparen Sparen als jongere Kortetermijnrekening Termijnrekening Meer over sparen Beleggen Beleggen Beleggen vanaf 50 euro per maand Beleggen met een impact Pensioensparen Kasbons & depositocertificaten Spaarverzekering - Tak 21 Staatsbons Gestructureerde obligaties Meer over beleggen Snel naar Snel naar Ons ethisch spaargeldbeleid Vind de spaarrekening die bij je past Onze beleggingsaanpak Simuleer je rendement Alles over de m",
-    "stack": [
-      "B2B",
-      "Banking",
-      "NL",
-      "Farmer",
-      "Senior"
-    ],
-    "experience": "3+ yrs",
-    "in_belgium": true,
-    "contact": {
-      "name": "Deweirdt Nancy",
-      "email": null
-    },
-    "signals": [
-      "Je bouwt jouw netwerk uit, prospecteert en detecteert commerciële opportuniteiten."
-    ],
-    "signal_terms": [
-      "prospecteert"
-    ]
-  },
-  "https://www.vdk.be/nl/overzicht-vacatures/relatiebeheerder-oostakker": {
-    "title": "Relatiebeheerder Oostakker",
-    "url": "https://www.vdk.be/nl/overzicht-vacatures/relatiebeheerder-oostakker",
-    "company": "vdk bank",
-    "source": "https://www.vdk.be/nl/particulieren/werken-bij-vdk-bank",
-    "first_seen": "2026-08-26",
-    "snippet": "Relatiebeheerder Oostakker | vdk bank Overslaan en naar de inhoud gaan Particulieren Professionelen Vind je kantoor Vragen? Maak een afspraak Nieuws Online banking Select your language nl Laat dit veld leeg vdk bank Dagelijks bankieren Hoofdmenu Dagelijks bankieren Alles over dagelijks bankieren Betaalrekeningen Betaalrekeningen Flux betaalrekening You Count zichtrekening Meer over betaalrekeningen Betaalmiddelen Betaalmiddelen De mobile@vdk-app Online bankieren via online@vdk Betaalkaarten Meer over betaalmiddelen Snel naar Snel naar Stap over naar vdk bank Open online je rekening Phishing Sparen en beleggen Hoofdmenu Sparen en beleggen Alles over sparen en beleggen Sparen Sparen Sparen op je eigen ritme Sparen met maatschappelijk engagement Klassiek sparen Sparen als jongere Kortetermijnrekening Termijnrekening Meer over sparen Beleggen Beleggen Beleggen vanaf 50 euro per maand Beleggen met een impact Pensioensparen Kasbons & depositocertificaten Spaarverzekering - Tak 21 Staatsbons Gestructureerde obligaties Meer over beleggen Snel naar Snel naar Ons ethisch spaargeldbeleid Vind de spaarrekening die bij je past Onze beleggingsaanpak Simuleer je rendement Alles over de meerwaarde",
-    "stack": [
-      "B2B",
-      "Banking",
-      "NL",
-      "Farmer",
-      "Flanders"
-    ],
-    "experience": "3+ yrs",
-    "in_belgium": true,
-    "contact": {
-      "name": "Deweirdt Nancy",
-      "email": null
-    },
-    "signals": [
-      "Je bouwt jouw netwerk uit, prospecteert en detecteert commerciële opportuniteiten."
-    ],
-    "signal_terms": [
-      "prospecteert"
-    ]
-  },
-  "https://www.vdk.be/nl/overzicht-vacatures/relatiebeheerder-hasselt": {
-    "title": "Relatiebeheerder Hasselt",
-    "url": "https://www.vdk.be/nl/overzicht-vacatures/relatiebeheerder-hasselt",
-    "company": "vdk bank",
-    "source": "https://www.vdk.be/nl/particulieren/werken-bij-vdk-bank",
-    "first_seen": "2026-08-26",
-    "snippet": "Relatiebeheerder Hasselt | vdk bank Overslaan en naar de inhoud gaan Particulieren Professionelen Vind je kantoor Vragen? Maak een afspraak Nieuws Online banking Select your language nl Laat dit veld leeg vdk bank Dagelijks bankieren Hoofdmenu Dagelijks bankieren Alles over dagelijks bankieren Betaalrekeningen Betaalrekeningen Flux betaalrekening You Count zichtrekening Meer over betaalrekeningen Betaalmiddelen Betaalmiddelen De mobile@vdk-app Online bankieren via online@vdk Betaalkaarten Meer over betaalmiddelen Snel naar Snel naar Stap over naar vdk bank Open online je rekening Phishing Sparen en beleggen Hoofdmenu Sparen en beleggen Alles over sparen en beleggen Sparen Sparen Sparen op je eigen ritme Sparen met maatschappelijk engagement Klassiek sparen Sparen als jongere Kortetermijnrekening Termijnrekening Meer over sparen Beleggen Beleggen Beleggen vanaf 50 euro per maand Beleggen met een impact Pensioensparen Kasbons & depositocertificaten Spaarverzekering - Tak 21 Staatsbons Gestructureerde obligaties Meer over beleggen Snel naar Snel naar Ons ethisch spaargeldbeleid Vind de spaarrekening die bij je past Onze beleggingsaanpak Simuleer je rendement Alles over de meerwaardebe",
-    "stack": [
-      "B2B",
-      "Banking",
-      "NL",
-      "Farmer",
-      "Flanders"
-    ],
-    "experience": "3+ yrs",
-    "in_belgium": true,
-    "contact": {
-      "name": "Deweirdt Nancy",
-      "email": null
-    },
-    "signals": [
-      "Je bouwt jouw netwerk uit, prospecteert en detecteert commerciële opportuniteiten."
-    ],
-    "signal_terms": [
-      "prospecteert"
-    ]
+    "clf": 1
   },
   "https://www.vdk.be/nl/overzicht-vacatures/relatiebeheerder-kortrijk": {
     "title": "Relatiebeheerder Kortrijk",
@@ -2398,7 +2164,8 @@
     ],
     "signal_terms": [
       "prospecteert"
-    ]
+    ],
+    "clf": 1
   },
   "https://dakplus.be/velux-commercial/": {
     "title": "VELUX Commercial",
@@ -2415,7 +2182,8 @@
     "experience": null,
     "in_belgium": true,
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   "https://ensys.be/jobs/freelance-sales-advisor/": {
     "title": "Freelance Sales Advisor",
@@ -2437,7 +2205,8 @@
       "email": "info@ensys.be"
     },
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   "https://ensys.be/jobs/vacature-sales-advisor-hvac/": {
     "title": "Sales Advisor HVAC",
@@ -2461,7 +2230,8 @@
       "email": "info@ensys.be"
     },
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   "https://ensys.be/jobs/vacature-sales-advisor-zonnepanelen/": {
     "title": "Sales Advisor Zonnepanelen",
@@ -2483,7 +2253,8 @@
       "email": "info@ensys.be"
     },
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   "https://www.frigro.be/nl/vacatures/technical-inside-sales-koel-en-vriescellen/": {
     "title": "Technical inside sales Koel- en vriescellen Creëer totaaloplossingen met een focus op koel- en vriescellen Meer info",
@@ -2505,31 +2276,8 @@
       "email": "info@frigro.be"
     },
     "signals": [],
-    "signal_terms": []
-  },
-  "https://www.frigro.be/nl/vacatures/technical-inside-sales-regeltechniek/": {
-    "title": "Technical inside sales Regeltechniek Sta klanten bij met slimme regeltechniek Meer info",
-    "url": "https://www.frigro.be/nl/vacatures/technical-inside-sales-regeltechniek/",
-    "company": "Frigro Services",
-    "source": "https://www.frigro.be/nl/vacatures/",
-    "first_seen": "2026-08-26",
-    "snippet": "Vacature technical inside sales warmtepompen - www.frigro.be Menu nl nl en fr Over Ons Frigro Frigro Services Referentieprojecten Nieuwsarchief Frigro Cares Aanbod Producten Diensten Opleidingen Verhuur Export Documentatie Coolcomponents catalogus Aircomponents catalogus Isocomponents catalogus Commerciële documentatie Jobs Partners Leveranciers Integraties Contact Contacteer Frigro Contacteer Frigro Services Klant worden? Goederen terugbezorgen Probleem? Technical inside sales Sta klanten bij met slimme regeltechniek Frigro Werken bij Frigro Technical inside sales Technical inside sales - Regeltechniek Bij Frigro groei je uit tot expert in regeltechniek. Je adviseert klanten, maakt offertes, ondersteunt collega’s en deelt je kennis. Samen met je team zorg je voor de beste oplossingen binnen het gamma regeltechniek. Wat mag je van jouw job bij Frigro verwachten? We leiden je op tot specialist in regeltechniek . Dan duik je in het productgamma van sondes, schakelborden, koelregelaars en meer. Je bent verantwoordelijk voor het opmaken van offertes die scoren . Jij selecteert de juiste oplossing volgens de vraag van de klant. Je bent, samen met je collega, het aanspreekpunt van de lev",
-    "stack": [
-      "B2B",
-      "Industrial",
-      "Benelux",
-      "NL/FR/EN",
-      "Junior",
-      "Farmer"
-    ],
-    "experience": null,
-    "in_belgium": true,
-    "contact": {
-      "name": null,
-      "email": "info@frigro.be"
-    },
-    "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   "https://www.frigro.be/nl/vacatures/sales-representative/": {
     "title": "Sales Representative HVAC – regio Wallonië Sales representative HVAC",
@@ -2551,7 +2299,8 @@
       "email": "info@frigro.be"
     },
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   "https://www.soprema.be/nl/vacatures/commercieel-bediende": {
     "title": "Commercieel bediende",
@@ -2569,7 +2318,8 @@
     "experience": null,
     "in_belgium": true,
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   "https://geotracer.be/nl/vacatures/geotracer-zoekt-account-manager-it-consultant/": {
     "title": "2025/10/01 Vacature: Account Manager IT consultant GeoTracer zoekt : Account Manager IT Consultant",
@@ -2598,7 +2348,8 @@
     "signal_terms": [
       "leadgeneratie",
       "prospectie"
-    ]
+    ],
+    "clf": 1
   },
   "https://www.ramenhuis.be/vacatures/commercieel-adviseur-ramen-deuren/": {
     "title": "Commercieel Adviseur Ramen & Deuren",
@@ -2625,7 +2376,8 @@
     ],
     "signal_terms": [
       "prospecten"
-    ]
+    ],
+    "clf": 1
   },
   "https://www.hearsee.be/vacatures/sales-account-manager-security-solutions-b2b-mvx": {
     "title": "Sales Account Manager Security Solutions B2B m/v/x",
@@ -2652,7 +2404,8 @@
     ],
     "signal_terms": [
       "prospecteren"
-    ]
+    ],
+    "clf": 1
   },
   "https://interpres.be/vacatures/confidentieel-commercieel-directeur-met-operationele-orientatie/": {
     "title": "Confidentieel – Commercieel Directeur met operationele oriëntatie",
@@ -2675,7 +2428,8 @@
       "email": "patrick@interpres.be"
     },
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   "https://www.kwadro.be/nl/job/commercieel-adviseur-kwadro-leuven": {
     "title": "Commercieel adviseur | KwadrO Leuven",
@@ -2699,7 +2453,8 @@
       "email": "stefan.thomas@kwadro.be"
     },
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   "https://www.kwadro.be/nl/job/commercieel-adviseur-kwadro-herentals": {
     "title": "Commercieel adviseur | KwadrO Herentals",
@@ -2723,7 +2478,8 @@
       "email": "stefan.thomas@kwadro.be"
     },
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   "https://www.tuin-en-boomwerken-gs.be/vacatures/business-developer": {
     "title": "BUSINESS DEVELOPER",
@@ -2754,7 +2510,8 @@
       "prospecteren",
       "afspraken inplannen",
       "prospectie"
-    ]
+    ],
+    "clf": 1
   },
   "https://www.geveldesign.be/vacatures/vacature-verkoper/": {
     "title": "Verkopers gevelwerken",
@@ -2781,7 +2538,8 @@
     ],
     "signal_terms": [
       "prospectie"
-    ]
+    ],
+    "clf": 1
   },
   "https://www.geveldesign.be/vacatures/raam-en-deur-adviseur/": {
     "title": "Verkopers ramen en deuren",
@@ -2800,7 +2558,8 @@
     "experience": null,
     "in_belgium": true,
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   "https://www.geveldesign.be/vacatures/dakadviseur/": {
     "title": "Verkopers dakwerken",
@@ -2827,7 +2586,8 @@
     ],
     "signal_terms": [
       "prospectie"
-    ]
+    ],
+    "clf": 1
   },
   "https://www.mentall.be/jobs/accountmanager-met-grafische-achtergrond": {
     "title": "Accountmanager met grafische achtergrond Fulltime",
@@ -2850,7 +2610,8 @@
       "email": "hi@mentall.be"
     },
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   "https://www.merco-machines.com/jobs/technical-inside-sales-gent/": {
     "title": "Technical Inside Sales | Regio Gent",
@@ -12604,6 +12365,731 @@
     "stack": [],
     "experience": null,
     "in_belgium": null,
+    "signals": [],
+    "signal_terms": []
+  },
+  "https://msc.csod.com/ux/ats/careersite/4/home/requisition/3753?c=msc": {
+    "title": "Booking Care Executive - Export",
+    "url": "https://msc.csod.com/ux/ats/careersite/4/home/requisition/3753?c=msc",
+    "company": "MSC",
+    "source": "https://msc.csod.com/ux/ats/careersite/4/home?c=msc&country=be",
+    "first_seen": "2026-08-27",
+    "snippet": "Booking Care Executive - Export | Job details Sign in Create Profile English (US) English (UK) Booking Care Executive - Export ANTWERP, Belgium | req3753 Apply now Share Save Job Posted on: 06/08/2026 Back to Search Booking Care Executive - Export Wat ga je doen? Als Booking Care Executive ben je verantwoordelijk voor een kwalitatieve en snelle registratie van de inkomende boekingen van klanten en de bijbehorende administratieve opstart van de dossiers. Jouw doel is om de klant volledig doorheen het boekingproces te begeleiden, dat wil zeggen: bevestiging, bijkomende acties bij gevaarlijke goederen of speciale vereisten, aanvraag voortransport samen met ons eigen transportbedrijf, etc. Daarbij controleer je natuurlijke de kwaliteit van de inkomende gegevens en signaleer je optimalisaties waar mogelijk, allemaal in overleg met onze andere interne en externe diensten. Rekening houden met onze bedrijfsprocedures en een zorgvuldige administratie horen hier natuurlijk ook bij! Ten slotte zal je onze klanten begeleiden in nieuwe digitale toepassingen. In deze functie rapporteer je aan de Booking Care Teamlead. Wie ben je? Je hebt een bachelordiploma (bij voorkeur een logistieke opleiding",
+    "stack": [
+      "B2B",
+      "logistics",
+      "Flanders",
+      "NL/EN",
+      "junior"
+    ],
+    "experience": null,
+    "in_belgium": true,
+    "signals": [],
+    "signal_terms": []
+  },
+  "https://cartamundi.com/en/career/397710/": {
+    "title": "Global Cutting/ Die-Cutting/ Print Finishing Technology Expert (Remote Based Europe)",
+    "url": "https://cartamundi.com/en/career/397710/",
+    "company": "Cartamundi",
+    "source": "https://cartamundi.com/careers",
+    "first_seen": "2026-08-27",
+    "snippet": "Cartamundi Cartamundi - Cartamundi Playing card brands Card & Boardgame Solutions Trading card/game solutions Promotional solutions Custom Playing Cards About Who we are Meet the Cartamundians Our locations Corporate Governance Corporate Social Responsibility Speak Up! Code of conduct Jobs Technical Press Area Search International Search for: Jobs Technical Press Area Search International Cartamundi Playing card brands Card & Boardgame Solutions Trading card/game solutions Promotional solutions Custom Playing Cards About Who we are Meet the Cartamundians Our locations Corporate Governance Corporate Social Responsibility Speak Up! Code of conduct X Visit cartamundi.com Or choose your country Belgium Cartamundi Turnhout NV Belgium Cartamundi Services NV/SA – Headquarters Belgium Cartamundi – Digital NV Belgium Cartamundi NV/SA – Headquarters Brazil France Germany Königsfurt Urania Verlag GmbH Germany Spielkartenfabrik Altenburg GmbH Hungary India Italy Japan Netherlands Poland Singapore Spain Naipes Heraclio Fournier, S.A. Spain Cartamundi España, S.L. Sweden Switzerland United Kingdom North America The United States Playing Card Company North America Cartamundi North America East Lo",
+    "stack": [
+      "B2B",
+      "FMCG",
+      "industrial",
+      "EMEA",
+      "senior",
+      "hunter"
+    ],
+    "experience": "10+ yrs",
+    "in_belgium": true,
+    "signals": [],
+    "signal_terms": []
+  },
+  "https://www.jobs.paesmans.be/jobs/verkoper-byd-2026": {
+    "title": "Vlinder Verkoper BYD Jij vindt telkens weer de juiste wagen voor jouw klant",
+    "url": "https://www.jobs.paesmans.be/jobs/verkoper-byd-2026",
+    "company": "AUTOCENTER PAESMANS",
+    "source": "https://www.jobs.paesmans.be/",
+    "first_seen": "2026-08-27",
+    "snippet": "Verkoper BYD — Jobs — Paesmans Autogroep Werken bij ons Jobs Onze mensen Verhalen Contact Werken bij ons Jobs Onze mensen Verhalen Contact Vragen? We helpen je graag verder! [email protected] +32 11 24 09 00 Verkoper BYD Vlinder Ontdek de vacature Vacature Verkoper BYD Wij zijn op zoek naar een BYD verkoper met zin in succes! Je krijgt de kans om op verschillende locaties het verschil te maken, klanten te begeleiden tijdens hun aankooptraject en mee te bouwen aan de verdere groei van BYD in Limburg. Jouw rol Als BYD-verkoper ben jij het vertrouwde gezicht van onze showroom. Je verwelkomt klanten met een glimlach, luistert naar hun verhaal en begeleidt hen naar de BYD die perfect aansluit bij hun wensen en levensstijl. Omdat je als vlinder actief bent in Hasselt, Lommel en Dilsen-Stokkem, werk je samen met verschillende teams en leer je onze vestigingen van dichtbij kennen. Geen enkele dag is dezelfde. Daarnaast: Begeleid je klanten doorheen het volledige aankoopproces, van eerste kennismaking tot aflevering. Adviseer je klanten over het volledige BYD-gamma, opties en accessoires. Stel je offertes op en werk je verkoopdossiers nauwkeurig af. Volg je leads en opportuniteiten actief o",
+    "stack": [
+      "B2C",
+      "automotive",
+      "Flanders",
+      "NL",
+      "hunter"
+    ],
+    "experience": null,
+    "in_belgium": true,
+    "signals": [],
+    "signal_terms": []
+  },
+  "https://br.industria.be/over-industria-business-relations/": {
+    "title": "Bedrijvenrelaties",
+    "url": "https://br.industria.be/over-industria-business-relations/",
+    "company": "STUDENTENVERENIGING INDUSTRIA",
+    "source": "https://industria.be/",
+    "first_seen": "2026-08-27",
+    "snippet": "Over Industria Business Relations – Bedrijven Relaties Login NL Home Events Voor Studenten Voor bedrijven Jobs & Stages Onze Partners Over Industria Business Relations Door studenten, voor studenten Voor onze studenten Voor onze studenten bieden we een verscheidenheid aan evenementen aan. Deze kunnen variëren van onze jaarlijkse jobbeurs en sector nights, tot grootse en creatieve atriumevenementen. Deze evenementen zijn allemaal gericht op het creëren van mogelijkheden voor jou om beter geïnformeerd te raken en contacten te leggen met bedrijven die jouw toekomst kunnen worden. Jouw (toekomstige) baan is erg belangrijk en we willen de kans zo groot mogelijk maken dat jij je droombaan vindt. Daarom moedigen we je aan om op de hoogte te blijven van onze Facebook- en LinkedIn-pagina’s. Dit zijn de platformen waar je onze evenementen kan vinden en mensen kan ontmoeten die deuren voor je zullen openen! Voor Studenten Voor onze partners Als Industria willen we u de beste kansen geven om uw droomwerknemer te vinden, maar onze focus zal altijd liggen op het creëren van de beste activiteiten voor onze studenten. Daarom werken we graag samen om nieuwe en interessante activiteiten te creëren w",
+    "stack": [
+      "B2B",
+      "junior"
+    ],
+    "experience": null,
+    "in_belgium": true,
+    "contact": {
+      "name": "Victor Vaes",
+      "email": "victor.vaes@industria.be"
+    },
+    "signals": [],
+    "signal_terms": []
+  },
+  "https://www.vdk.be/nl/overzicht-vacatures/commercieel-medewerker": {
+    "title": "Commercieel medewerker",
+    "url": "https://www.vdk.be/nl/overzicht-vacatures/commercieel-medewerker",
+    "company": "vdk bank",
+    "source": "https://www.vdk.be/nl/particulieren/werken-bij-vdk-bank",
+    "first_seen": "2026-08-27",
+    "snippet": "Commercieel medewerker | vdk bank Overslaan en naar de inhoud gaan Particulieren Professionelen Vind je kantoor Vragen? Maak een afspraak Nieuws Online banking Select your language nl Laat dit veld leeg vdk bank Dagelijks bankieren Hoofdmenu Dagelijks bankieren Alles over dagelijks bankieren Betaalrekeningen Betaalrekeningen Flux betaalrekening You Count zichtrekening Meer over betaalrekeningen Betaalmiddelen Betaalmiddelen De mobile@vdk-app Online bankieren via online@vdk Betaalkaarten Meer over betaalmiddelen Snel naar Snel naar Stap over naar vdk bank Open online je rekening Phishing Sparen en beleggen Hoofdmenu Sparen en beleggen Alles over sparen en beleggen Sparen Sparen Sparen op je eigen ritme Sparen met maatschappelijk engagement Klassiek sparen Sparen als jongere Kortetermijnrekening Termijnrekening Meer over sparen Beleggen Beleggen Beleggen vanaf 50 euro per maand Beleggen met een impact Pensioensparen Kasbons & depositocertificaten Spaarverzekering - Tak 21 Staatsbons Gestructureerde obligaties Meer over beleggen Snel naar Snel naar Ons ethisch spaargeldbeleid Vind de spaarrekening die bij je past Onze beleggingsaanpak Simuleer je rendement Alles over de meerwaardebela",
+    "stack": [
+      "B2B",
+      "Financial Services",
+      "Benelux",
+      "NL",
+      "junior"
+    ],
+    "experience": null,
+    "in_belgium": true,
+    "contact": {
+      "name": "De Coninck Björn",
+      "email": null
+    },
+    "signals": [],
+    "signal_terms": []
+  },
+  "https://www.vdk.be/nl/overzicht-vacatures/relatiebeheerder-namen": {
+    "title": "Relatiebeheerder Namen",
+    "url": "https://www.vdk.be/nl/overzicht-vacatures/relatiebeheerder-namen",
+    "company": "vdk bank",
+    "source": "https://www.vdk.be/nl/particulieren/werken-bij-vdk-bank",
+    "first_seen": "2026-08-27",
+    "snippet": "Relatiebeheerder Namen | vdk bank Overslaan en naar de inhoud gaan Particulieren Professionelen Vind je kantoor Vragen? Maak een afspraak Nieuws Online banking Select your language nl Laat dit veld leeg vdk bank Dagelijks bankieren Hoofdmenu Dagelijks bankieren Alles over dagelijks bankieren Betaalrekeningen Betaalrekeningen Flux betaalrekening You Count zichtrekening Meer over betaalrekeningen Betaalmiddelen Betaalmiddelen De mobile@vdk-app Online bankieren via online@vdk Betaalkaarten Meer over betaalmiddelen Snel naar Snel naar Stap over naar vdk bank Open online je rekening Phishing Sparen en beleggen Hoofdmenu Sparen en beleggen Alles over sparen en beleggen Sparen Sparen Sparen op je eigen ritme Sparen met maatschappelijk engagement Klassiek sparen Sparen als jongere Kortetermijnrekening Termijnrekening Meer over sparen Beleggen Beleggen Beleggen vanaf 50 euro per maand Beleggen met een impact Pensioensparen Kasbons & depositocertificaten Spaarverzekering - Tak 21 Staatsbons Gestructureerde obligaties Meer over beleggen Snel naar Snel naar Ons ethisch spaargeldbeleid Vind de spaarrekening die bij je past Onze beleggingsaanpak Simuleer je rendement Alles over de meerwaardebela",
+    "stack": [
+      "B2B",
+      "Banking",
+      "Wallonia",
+      "NL/FR",
+      "farmer"
+    ],
+    "experience": "3+ yrs",
+    "in_belgium": true,
+    "contact": {
+      "name": "Deweirdt Nancy",
+      "email": null
+    },
+    "signals": [
+      "Je bouwt jouw netwerk uit, prospecteert en detecteert commerciële opportuniteiten."
+    ],
+    "signal_terms": [
+      "prospecteert"
+    ]
+  },
+  "https://www.vdk.be/nl/overzicht-vacatures/relatiebeheerder-oostende": {
+    "title": "Relatiebeheerder Oostende",
+    "url": "https://www.vdk.be/nl/overzicht-vacatures/relatiebeheerder-oostende",
+    "company": "vdk bank",
+    "source": "https://www.vdk.be/nl/particulieren/werken-bij-vdk-bank",
+    "first_seen": "2026-08-27",
+    "snippet": "Relatiebeheerder Oostende | vdk bank Overslaan en naar de inhoud gaan Particulieren Professionelen Vind je kantoor Vragen? Maak een afspraak Nieuws Online banking Select your language nl Laat dit veld leeg vdk bank Dagelijks bankieren Hoofdmenu Dagelijks bankieren Alles over dagelijks bankieren Betaalrekeningen Betaalrekeningen Flux betaalrekening You Count zichtrekening Meer over betaalrekeningen Betaalmiddelen Betaalmiddelen De mobile@vdk-app Online bankieren via online@vdk Betaalkaarten Meer over betaalmiddelen Snel naar Snel naar Stap over naar vdk bank Open online je rekening Phishing Sparen en beleggen Hoofdmenu Sparen en beleggen Alles over sparen en beleggen Sparen Sparen Sparen op je eigen ritme Sparen met maatschappelijk engagement Klassiek sparen Sparen als jongere Kortetermijnrekening Termijnrekening Meer over sparen Beleggen Beleggen Beleggen vanaf 50 euro per maand Beleggen met een impact Pensioensparen Kasbons & depositocertificaten Spaarverzekering - Tak 21 Staatsbons Gestructureerde obligaties Meer over beleggen Snel naar Snel naar Ons ethisch spaargeldbeleid Vind de spaarrekening die bij je past Onze beleggingsaanpak Simuleer je rendement Alles over de meerwaardeb",
+    "stack": [
+      "B2B",
+      "Banking",
+      "Flanders",
+      "NL/FR",
+      "farmer"
+    ],
+    "experience": "3+ yrs",
+    "in_belgium": true,
+    "contact": {
+      "name": "Deweirdt Nancy",
+      "email": null
+    },
+    "signals": [
+      "Je bouwt jouw netwerk uit, prospecteert en detecteert commerciële opportuniteiten."
+    ],
+    "signal_terms": [
+      "prospecteert"
+    ]
+  },
+  "https://www.vdk.be/nl/overzicht-vacatures/relatiebeheerder-leuven": {
+    "title": "Relatiebeheerder Leuven",
+    "url": "https://www.vdk.be/nl/overzicht-vacatures/relatiebeheerder-leuven",
+    "company": "vdk bank",
+    "source": "https://www.vdk.be/nl/particulieren/werken-bij-vdk-bank",
+    "first_seen": "2026-08-27",
+    "snippet": "Relatiebeheerder Leuven | vdk bank Overslaan en naar de inhoud gaan Particulieren Professionelen Vind je kantoor Vragen? Maak een afspraak Nieuws Online banking Select your language nl Laat dit veld leeg vdk bank Dagelijks bankieren Hoofdmenu Dagelijks bankieren Alles over dagelijks bankieren Betaalrekeningen Betaalrekeningen Flux betaalrekening You Count zichtrekening Meer over betaalrekeningen Betaalmiddelen Betaalmiddelen De mobile@vdk-app Online bankieren via online@vdk Betaalkaarten Meer over betaalmiddelen Snel naar Snel naar Stap over naar vdk bank Open online je rekening Phishing Sparen en beleggen Hoofdmenu Sparen en beleggen Alles over sparen en beleggen Sparen Sparen Sparen op je eigen ritme Sparen met maatschappelijk engagement Klassiek sparen Sparen als jongere Kortetermijnrekening Termijnrekening Meer over sparen Beleggen Beleggen Beleggen vanaf 50 euro per maand Beleggen met een impact Pensioensparen Kasbons & depositocertificaten Spaarverzekering - Tak 21 Staatsbons Gestructureerde obligaties Meer over beleggen Snel naar Snel naar Ons ethisch spaargeldbeleid Vind de spaarrekening die bij je past Onze beleggingsaanpak Simuleer je rendement Alles over de meerwaardebel",
+    "stack": [
+      "B2B",
+      "Banking",
+      "Farmer",
+      "NL/FR"
+    ],
+    "experience": "3+ yrs",
+    "in_belgium": true,
+    "contact": {
+      "name": "Deweirdt Nancy",
+      "email": null
+    },
+    "signals": [
+      "Je bouwt jouw netwerk uit, prospecteert en detecteert commerciële opportuniteiten."
+    ],
+    "signal_terms": [
+      "prospecteert"
+    ]
+  },
+  "https://www.vdk.be/nl/overzicht-vacatures/relatiebeheerder-cluster-drongen": {
+    "title": "Relatiebeheerder cluster Drongen",
+    "url": "https://www.vdk.be/nl/overzicht-vacatures/relatiebeheerder-cluster-drongen",
+    "company": "vdk bank",
+    "source": "https://www.vdk.be/nl/particulieren/werken-bij-vdk-bank",
+    "first_seen": "2026-08-27",
+    "snippet": "Relatiebeheerder cluster Drongen | vdk bank Overslaan en naar de inhoud gaan Particulieren Professionelen Vind je kantoor Vragen? Maak een afspraak Nieuws Online banking Select your language nl Laat dit veld leeg vdk bank Dagelijks bankieren Hoofdmenu Dagelijks bankieren Alles over dagelijks bankieren Betaalrekeningen Betaalrekeningen Flux betaalrekening You Count zichtrekening Meer over betaalrekeningen Betaalmiddelen Betaalmiddelen De mobile@vdk-app Online bankieren via online@vdk Betaalkaarten Meer over betaalmiddelen Snel naar Snel naar Stap over naar vdk bank Open online je rekening Phishing Sparen en beleggen Hoofdmenu Sparen en beleggen Alles over sparen en beleggen Sparen Sparen Sparen op je eigen ritme Sparen met maatschappelijk engagement Klassiek sparen Sparen als jongere Kortetermijnrekening Termijnrekening Meer over sparen Beleggen Beleggen Beleggen vanaf 50 euro per maand Beleggen met een impact Pensioensparen Kasbons & depositocertificaten Spaarverzekering - Tak 21 Staatsbons Gestructureerde obligaties Meer over beleggen Snel naar Snel naar Ons ethisch spaargeldbeleid Vind de spaarrekening die bij je past Onze beleggingsaanpak Simuleer je rendement Alles over de meer",
+    "stack": [
+      "B2B",
+      "Banking",
+      "Flanders",
+      "NL/FR",
+      "farmer"
+    ],
+    "experience": "3+ yrs",
+    "in_belgium": true,
+    "contact": {
+      "name": "Deweirdt Nancy",
+      "email": null
+    },
+    "signals": [
+      "Je bouwt jouw netwerk uit, prospecteert en detecteert commerciële opportuniteiten."
+    ],
+    "signal_terms": [
+      "prospecteert"
+    ]
+  },
+  "https://www.vdk.be/nl/overzicht-vacatures/relatiebeheerder-kantoor-op-afstand": {
+    "title": "Relatiebeheerder Kantoor op afstand",
+    "url": "https://www.vdk.be/nl/overzicht-vacatures/relatiebeheerder-kantoor-op-afstand",
+    "company": "vdk bank",
+    "source": "https://www.vdk.be/nl/particulieren/werken-bij-vdk-bank",
+    "first_seen": "2026-08-27",
+    "snippet": "Relatiebeheerder Kantoor op afstand | vdk bank Overslaan en naar de inhoud gaan Particulieren Professionelen Vind je kantoor Vragen? Maak een afspraak Nieuws Online banking Select your language nl Laat dit veld leeg vdk bank Dagelijks bankieren Hoofdmenu Dagelijks bankieren Alles over dagelijks bankieren Betaalrekeningen Betaalrekeningen Flux betaalrekening You Count zichtrekening Meer over betaalrekeningen Betaalmiddelen Betaalmiddelen De mobile@vdk-app Online bankieren via online@vdk Betaalkaarten Meer over betaalmiddelen Snel naar Snel naar Stap over naar vdk bank Open online je rekening Phishing Sparen en beleggen Hoofdmenu Sparen en beleggen Alles over sparen en beleggen Sparen Sparen Sparen op je eigen ritme Sparen met maatschappelijk engagement Klassiek sparen Sparen als jongere Kortetermijnrekening Termijnrekening Meer over sparen Beleggen Beleggen Beleggen vanaf 50 euro per maand Beleggen met een impact Pensioensparen Kasbons & depositocertificaten Spaarverzekering - Tak 21 Staatsbons Gestructureerde obligaties Meer over beleggen Snel naar Snel naar Ons ethisch spaargeldbeleid Vind de spaarrekening die bij je past Onze beleggingsaanpak Simuleer je rendement Alles over de m",
+    "stack": [
+      "B2B",
+      "Banking",
+      "NL",
+      "Farmer",
+      "Senior"
+    ],
+    "experience": "3+ yrs",
+    "in_belgium": true,
+    "contact": {
+      "name": "Deweirdt Nancy",
+      "email": null
+    },
+    "signals": [
+      "Je bouwt jouw netwerk uit, prospecteert en detecteert commerciële opportuniteiten."
+    ],
+    "signal_terms": [
+      "prospecteert"
+    ]
+  },
+  "https://www.vdk.be/nl/overzicht-vacatures/relatiebeheerder-oostakker": {
+    "title": "Relatiebeheerder Oostakker",
+    "url": "https://www.vdk.be/nl/overzicht-vacatures/relatiebeheerder-oostakker",
+    "company": "vdk bank",
+    "source": "https://www.vdk.be/nl/particulieren/werken-bij-vdk-bank",
+    "first_seen": "2026-08-27",
+    "snippet": "Relatiebeheerder Oostakker | vdk bank Overslaan en naar de inhoud gaan Particulieren Professionelen Vind je kantoor Vragen? Maak een afspraak Nieuws Online banking Select your language nl Laat dit veld leeg vdk bank Dagelijks bankieren Hoofdmenu Dagelijks bankieren Alles over dagelijks bankieren Betaalrekeningen Betaalrekeningen Flux betaalrekening You Count zichtrekening Meer over betaalrekeningen Betaalmiddelen Betaalmiddelen De mobile@vdk-app Online bankieren via online@vdk Betaalkaarten Meer over betaalmiddelen Snel naar Snel naar Stap over naar vdk bank Open online je rekening Phishing Sparen en beleggen Hoofdmenu Sparen en beleggen Alles over sparen en beleggen Sparen Sparen Sparen op je eigen ritme Sparen met maatschappelijk engagement Klassiek sparen Sparen als jongere Kortetermijnrekening Termijnrekening Meer over sparen Beleggen Beleggen Beleggen vanaf 50 euro per maand Beleggen met een impact Pensioensparen Kasbons & depositocertificaten Spaarverzekering - Tak 21 Staatsbons Gestructureerde obligaties Meer over beleggen Snel naar Snel naar Ons ethisch spaargeldbeleid Vind de spaarrekening die bij je past Onze beleggingsaanpak Simuleer je rendement Alles over de meerwaarde",
+    "stack": [
+      "B2B",
+      "financial services",
+      "NL",
+      "farmer",
+      "Flanders"
+    ],
+    "experience": "3+ yrs",
+    "in_belgium": true,
+    "contact": {
+      "name": "Deweirdt Nancy",
+      "email": null
+    },
+    "signals": [
+      "Je bouwt jouw netwerk uit, prospecteert en detecteert commerciële opportuniteiten."
+    ],
+    "signal_terms": [
+      "prospecteert"
+    ]
+  },
+  "https://www.vdk.be/nl/overzicht-vacatures/relatiebeheerder-hasselt": {
+    "title": "Relatiebeheerder Hasselt",
+    "url": "https://www.vdk.be/nl/overzicht-vacatures/relatiebeheerder-hasselt",
+    "company": "vdk bank",
+    "source": "https://www.vdk.be/nl/particulieren/werken-bij-vdk-bank",
+    "first_seen": "2026-08-27",
+    "snippet": "Relatiebeheerder Hasselt | vdk bank Overslaan en naar de inhoud gaan Particulieren Professionelen Vind je kantoor Vragen? Maak een afspraak Nieuws Online banking Select your language nl Laat dit veld leeg vdk bank Dagelijks bankieren Hoofdmenu Dagelijks bankieren Alles over dagelijks bankieren Betaalrekeningen Betaalrekeningen Flux betaalrekening You Count zichtrekening Meer over betaalrekeningen Betaalmiddelen Betaalmiddelen De mobile@vdk-app Online bankieren via online@vdk Betaalkaarten Meer over betaalmiddelen Snel naar Snel naar Stap over naar vdk bank Open online je rekening Phishing Sparen en beleggen Hoofdmenu Sparen en beleggen Alles over sparen en beleggen Sparen Sparen Sparen op je eigen ritme Sparen met maatschappelijk engagement Klassiek sparen Sparen als jongere Kortetermijnrekening Termijnrekening Meer over sparen Beleggen Beleggen Beleggen vanaf 50 euro per maand Beleggen met een impact Pensioensparen Kasbons & depositocertificaten Spaarverzekering - Tak 21 Staatsbons Gestructureerde obligaties Meer over beleggen Snel naar Snel naar Ons ethisch spaargeldbeleid Vind de spaarrekening die bij je past Onze beleggingsaanpak Simuleer je rendement Alles over de meerwaardebe",
+    "stack": [
+      "B2C",
+      "banking",
+      "farmer",
+      "NL/FR"
+    ],
+    "experience": "3+ yrs",
+    "in_belgium": true,
+    "contact": {
+      "name": "Deweirdt Nancy",
+      "email": null
+    },
+    "signals": [
+      "Je bouwt jouw netwerk uit, prospecteert en detecteert commerciële opportuniteiten."
+    ],
+    "signal_terms": [
+      "prospecteert"
+    ]
+  },
+  "https://www.frigro.be/nl/vacatures/technical-inside-sales-regeltechniek/": {
+    "title": "Technical inside sales Regeltechniek Sta klanten bij met slimme regeltechniek Meer info",
+    "url": "https://www.frigro.be/nl/vacatures/technical-inside-sales-regeltechniek/",
+    "company": "Frigro Services",
+    "source": "https://www.frigro.be/nl/vacatures/",
+    "first_seen": "2026-08-27",
+    "snippet": "Vacature technical inside sales warmtepompen - www.frigro.be Menu nl nl en fr Over Ons Frigro Frigro Services Referentieprojecten Nieuwsarchief Frigro Cares Aanbod Producten Diensten Opleidingen Verhuur Export Documentatie Coolcomponents catalogus Aircomponents catalogus Isocomponents catalogus Commerciële documentatie Jobs Partners Leveranciers Integraties Contact Contacteer Frigro Contacteer Frigro Services Klant worden? Goederen terugbezorgen Probleem? Technical inside sales Sta klanten bij met slimme regeltechniek Frigro Werken bij Frigro Technical inside sales Technical inside sales - Regeltechniek Bij Frigro groei je uit tot expert in regeltechniek. Je adviseert klanten, maakt offertes, ondersteunt collega’s en deelt je kennis. Samen met je team zorg je voor de beste oplossingen binnen het gamma regeltechniek. Wat mag je van jouw job bij Frigro verwachten? We leiden je op tot specialist in regeltechniek . Dan duik je in het productgamma van sondes, schakelborden, koelregelaars en meer. Je bent verantwoordelijk voor het opmaken van offertes die scoren . Jij selecteert de juiste oplossing volgens de vraag van de klant. Je bent, samen met je collega, het aanspreekpunt van de lev",
+    "stack": [
+      "B2B",
+      "Industrial",
+      "NL/FR/EN",
+      "Farmer"
+    ],
+    "experience": null,
+    "in_belgium": true,
+    "contact": {
+      "name": null,
+      "email": "info@frigro.be"
+    },
+    "signals": [],
+    "signal_terms": []
+  },
+  "https://www.tieltr.be/vacatures/junior-business-developer": {
+    "title": "Junior Business Developer IT Provider",
+    "url": "https://www.tieltr.be/vacatures/junior-business-developer",
+    "company": "TIELTR",
+    "source": "https://www.tieltr.be/vacatures",
+    "first_seen": "2026-08-27",
+    "snippet": "Junior Business Developer | Tieltr Stad Tielt Werken Wonen Beleven Partner worden Junior Business Developer IT Provider Bij ITP Group geloven we dat IT niet complex hoeft te zijn. Onze ambitie? Klanten helpen om technologie slimmer te gebruiken, complexe IT te vereenvoudigen en hen klaar te stomen voor de toekomst. Om onze groei verder te ondersteunen zoeken we een Junior Business Developer . In deze rol ben jij vaak het eerste aanspreekpunt voor nieuwe klanten en leg je de basis voor sterke en duurzame samenwerkingen. Jij zorgt ervoor dat potentiële klanten ons leren kennen en dat waardevolle gesprekken ontstaan met ons sales team. Jouw missie Als Junior Business Developer zorg jij voor een sterke instroom van nieuwe opportuniteiten. Actief prospecteren naar nieuwe klanten via e-mail, telefoon en LinkedIn Genereren van kwalitatieve leads via outbound prospectie Opvolgen van inkomende leads en deze omzetten naar concrete afspraken Online kwalificatiemeetings uitvoeren om noden en opportuniteiten te detecteren Alle interacties correct registreren in het CRM-systeem Samenwerken met sales en marketing om campagnes en opvolging te optimaliseren Rapporteren van voortgang, resultaten en ",
+    "stack": [
+      "B2B",
+      "IT",
+      "junior",
+      "hunter",
+      "NL"
+    ],
+    "experience": "1+ yrs",
+    "in_belgium": true,
+    "signals": [
+      "Actief prospecteren naar nieuwe klanten via e-mail, telefoon en LinkedIn Genereren van kwalitatieve leads via outbound prospectie Opvolgen van inkomende leads en deze omzetten naar concrete afspraken Online kwalificatiemeetings uitvoeren om…",
+      "…e in een groeiend en ambitieus bedrijf Een trainingstraject om je verder te ontwikkelen in sales en prospectie Flexibiliteit en ruimte voor eigen initiatief Een sterk team dat samenwerkt om doelen te behalen Hopelijk tot snel?…"
+    ],
+    "signal_terms": [
+      "prospecteren",
+      "outbound prospectie",
+      "prospectie via telefoon",
+      "prospectie"
+    ]
+  },
+  "https://www.tieltr.be/vacatures/vastgoed-makelaar-aan-de-westkust": {
+    "title": "Nieuw Vastgoed makelaar aan de westkust Vlaemynck",
+    "url": "https://www.tieltr.be/vacatures/vastgoed-makelaar-aan-de-westkust",
+    "company": "TIELTR",
+    "source": "https://www.tieltr.be/vacatures",
+    "first_seen": "2026-08-27",
+    "snippet": "Vastgoed makelaar aan de westkust | Tieltr Stad Tielt Werken Wonen Beleven Partner worden Vastgoed makelaar aan de westkust Vlaemynck Group Vlaemynck - Wegens uitbreiding van ons kantorennetwerk en omdat wij de dienstverlening voor onze klanten wensen te verbeteren, willen wij ons dynamisch team aan de westkust te versterken. Ben je helemaal gepassioneerd door vastgoed en leef je volgens het principe “Work hard, play hard” ? Streef jij ernaar om elke maand de beste commerciële resultaten te boeken en hiervoor beloond te worden? Dan ben jij de persoon die wij zoeken! WAT BIEDEN WIJ JOU? Bij Vlaemynck westkust vind je een enthousiast en gemotiveerd team dat elke dag met veel passie werkt. Je kan rekenen op veel variatie en bent veel op de baan in regio westkust. Jouw commerciële talenten zullen volledig benut worden in een dynamische werkomgeving. Dankzij interne opleiding en ondersteuning krijg je elke dag de kans om te groeien. Bovendien geniet je van een competitief salaris en groeimogelijkheden binnen ons snelgroeiend bedrijf. WIE BEN JIJ? Commercieel ingesteld met een passie voor vastgoed Zelfstandig en stressbestendig Gedreven om klanten te adviseren en begeleiden bij hun vastg",
+    "stack": [
+      "B2B",
+      "Real Estate",
+      "hunter",
+      "NL/FR"
+    ],
+    "experience": null,
+    "in_belgium": true,
+    "contact": {
+      "name": "Isabelle",
+      "email": "isabelle@vlaemynck.be"
+    },
+    "signals": [],
+    "signal_terms": []
+  },
+  "https://www.stepstone.be/jobs--Sales-Proposal-Officer-OLEN-Intersoft-Electronics-NV--2233859-inline.html": {
+    "title": "Sales & Proposal Officer",
+    "url": "https://www.stepstone.be/jobs--Sales-Proposal-Officer-OLEN-Intersoft-Electronics-NV--2233859-inline.html",
+    "company": "t Soetekint - de Levensboom",
+    "source": "https://www.stepstone.be/jobs",
+    "first_seen": "2026-08-27",
+    "snippet": "Sales & Proposal Officer - Job at Intersoft Electronics NV in OLEN Find Jobs Find Jobs Sales & Proposal Officer Intersoft Electronics NV OLEN Published: 47 minutes ago Be an early applicant Sales & Proposal Officer Intersoft Electronics NV Introductie Intersoft Electronics is een Belgisch bedrijf dat producten en diensten ontwikkelt en aanbiedt om het luchtverkeer in goed banen te leiden en te bewaken. Het is onze missie om baanbrekende oplossingen te creëren en onze klanten in staat te stellen om hun taken als luchtverkeersleiders en bewakers van het luchtruim goed uit te voeren. Onze producten en diensten worden wereldwijd gebruikt! Om ons team te versterken, zijn we op zoek naar een gemotiveerde Sales & Proposal Officer. Jouw verantwoordelijkheden Jouw rol: Als Sales & Proposal Officer speel je een cruciale rol in het onderhouden van relaties met klanten, accountmanagers, businesspartners en interne technische teams. Je coördineert commerciële activiteiten en staat in voor de voorbereiding van voorstellen, offertes en aanbestedingsdossiers. Je voelt je thuis in een internationale omgeving, bouwt graag duurzame klantrelaties op en bent bereid om te reizen wanneer dit vereist is. ",
+    "stack": [
+      "B2B",
+      "industrial",
+      "engineering",
+      "EMEA",
+      "NL/EN"
+    ],
+    "experience": null,
+    "in_belgium": true,
+    "signals": [],
+    "signal_terms": []
+  },
+  "https://www.stepstone.be/jobs--Verkoper-IT-Telecom-en-multimedia-Heist-op-den-Berg-HEIST-OP-DEN-BERG-Spot-Group-BVBA--2234344-inline.html": {
+    "title": "Verkoper IT, Telecom en multimedia (Heist-op-den-Berg)",
+    "url": "https://www.stepstone.be/jobs--Verkoper-IT-Telecom-en-multimedia-Heist-op-den-Berg-HEIST-OP-DEN-BERG-Spot-Group-BVBA--2234344-inline.html",
+    "company": "t Soetekint - de Levensboom",
+    "source": "https://www.stepstone.be/jobs",
+    "first_seen": "2026-08-27",
+    "snippet": "Verkoper IT, Telecom en multimedia (Heist-op-den-Berg) - Job at Spot Group BVBA in HEIST-OP-DEN-BERG Find Jobs Find Jobs Verkoper IT, Telecom en multimedia (Heist-op-den-Berg) Spot Group BVBA HEIST-OP-DEN-BERG Published: 47 minutes ago Be an early applicant Easy apply Verkoper IT, Telecom en multimedia (Heist-op-den-Berg) Spot Group BVBA Introductie Spot Group is een snelgroeiend bedrijf binnen de IT-sector. Verkoop, service en hardware-herstellingen van computers, tablets en smartphones met de ondersteuning en installatie op locatie maar ook opleidingen, webdevelopment, applicatieontwikkeling, servers, hosting, domeinnamen, Microsoft 365, ... niets is ons vreemd. Wij helpen dagelijks onze B2B en B2C klanten met een grote glimlach. Omdat wij continu blijven groeien en uitbreiden, zijn wij op zoek naar extra versterking voor ons team. Ben jij een gepassioneerde IT, Telecom en multimedia verkoper/verkoopster? Wij zoeken iemand met een commerciele ingesteldheid en de nodige ervaring om ons te komen ondersteunen in onze winkel. Jouw verantwoordelijkheden jouw eigen product aanbrengen met passie en deze aanprijzen; de klant verder helpen met aanpassingen en/of problemen; prospecteren bi",
+    "stack": [
+      "B2B",
+      "B2C",
+      "IT",
+      "Telecom",
+      "hunter"
+    ],
+    "experience": "2+ yrs",
+    "in_belgium": true,
+    "signals": [
+      "prospecteren bij bedrijven en particulieren;",
+      "inspelen op het verhaal van een prospect;"
+    ],
+    "signal_terms": [
+      "prospecteren",
+      "prospect"
+    ]
+  },
+  "https://jobs.keysight.com/external/jobs/53912?lang=en-us": {
+    "title": "Solutions Engineer (Recent Graduate)",
+    "url": "https://jobs.keysight.com/external/jobs/53912?lang=en-us",
+    "company": "EASICS",
+    "source": "https://jobs.keysight.com/external/jobs",
+    "first_seen": "2026-08-27",
+    "snippet": "Solutions Engineer (Recent Graduate) in Multiple Locations | Keysight Technologies, Inc. Skip to Main Content Careers Search Jobs Why Keysight Our Culture Our Benefits Employer Awards Locations Americas United States Brazil Canada Mexico EMEA Austria Belgium Denmark Finland France Germany Israel Italy Romania Spain Sweden Switzerland The Netherlands United Kingdom APAC Malaysia Australia India Japan Korea Singapore Vietnam Greater China China Hong Kong, China Taiwan, China Students & Graduates Login Global Applicants U.S. Applicants Keysight Employees Manage Job Alerts Know Your Rights: Workplace Discrimination is Illegal . View all US Notices . Follow @KeysightCareers © Keysight Technologies 2000–2026 Privacy Terms Feedback Contact Keysight Cookies are used on this site to assist in continually improving the candidate experience and all the interaction data we store of our visitors is anonymous. Learn more about your rights on our Privacy Policy page. Okay x",
+    "stack": [
+      "B2B",
+      "EMEA",
+      "junior"
+    ],
+    "experience": null,
+    "in_belgium": null,
+    "signals": [],
+    "signal_terms": []
+  },
+  "https://careers.agsolutiongroup.com/jobs/8279784-mes-data-consultant-pre-sales": {
+    "title": "MES & Data Consultant – Pre-Sales",
+    "url": "https://careers.agsolutiongroup.com/jobs/8279784-mes-data-consultant-pre-sales",
+    "company": "AG SOLUTION",
+    "source": "https://careers.agsolutiongroup.com/",
+    "first_seen": "2026-08-27",
+    "snippet": "MES & Data Consultant – Pre-Sales - AG SOLUTION This website uses cookies to ensure you get the best experience. AG SOLUTION and our selected partners use cookies and similar technologies (together “cookies”) that are necessary to present this website, and to ensure you get the best experience of it. If you consent to it, we will also use cookies for analytics purposes. See our Cookie Policy to read more about the cookies we set. You can withdraw and manage your consent at any time, by clicking “Manage cookies” at the bottom of each website page. Accept all cookies Decline all non-necessary cookies Cookie preferences Select which cookies you accept On this site, we always set cookies that are strictly necessary, meaning they are necessary for the site to function properly. If you consent to it, we will also set other types of cookies. You can provide or withdraw your consent to the different types of cookies using the toggles below. You can change or withdraw your consent at any time, by clicking the link “Manage Cookies”, which is always available at the bottom of the site. To learn more about what the different types of cookies do, how your data is used when they are set etc, see",
+    "stack": [
+      "B2B",
+      "Industrial",
+      "MES/Manufacturing",
+      "EMEA",
+      "FR/EN",
+      "Pre-Sales"
+    ],
+    "experience": "3+ yrs",
+    "in_belgium": true,
+    "signals": [
+      "On the commercial side: winning the trust of a prospect before a single line of code gets configured.",
+      "Run discovery workshops with prospects to map current-state processes and surface the gap MES or a data platform closes.",
+      "Comfortable hearing \"no\" or \"not yet\" from a prospect and adjusting the pitch, rather than only delivering a scripted demo.",
+      "equally comfortable pitching value to a prospect's steering committee and explaining MES logic to an operator on the floor."
+    ],
+    "signal_terms": [
+      "prospect",
+      "prospects"
+    ]
+  },
+  "https://corporate.tomandco.com/vacancies/collaborateur-de-vente-20h-tomco-hornu-6a901404f9ee9f548fe1caf7-fr/": {
+    "title": "Collaborateur de vente (20h) - Tom&Co Hornu Belgium Hornu",
+    "url": "https://corporate.tomandco.com/vacancies/collaborateur-de-vente-20h-tomco-hornu-6a901404f9ee9f548fe1caf7-fr/",
+    "company": "BARQ EUROPE",
+    "source": "https://corporate.tomandco.com/jobs/",
+    "first_seen": "2026-08-27",
+    "snippet": "collaborateur-de-vente-20h-tomco-hornu-6a901404f9ee9f548fe1caf7-fr - Corporate TomAndCo Aller au contenu Happy pets Happy people Happy world Nederlands (België) Nederlands (België) Trouver un job Devenez franchisé Historique Board Press releases Vers le webshop Aniserco S.A. Noordkustlaan 16A, B3 - 1702 Groot-Bijgaarden © 2026 Corporate TomAndCo Cookies Policy Privacy Policy Terms and conditions B2B 2026 Sitemap Collaborateur de vente (20h) - Tom&Co Hornu Êtes-vous prêt à relever un défi professionnel varié où votre amour des animaux et votre passion pour le service client se rencontrent ? Rejoignez l'équipe de Tom & Co Hornu en tant que Collaborateur de vente ! Ce que nous vous proposons : Chaque journée est différente : Vous êtes le premier point de contact de nos clients. Vous les accueillez avec le sourire, leur apportez des conseils avisés et les aidez à trouver les produits idéaux pour leurs animaux de compagnie. Caisse et bien plus encore : En plus d'assurer les encaissements, vous veillez au bon déroulement de chaque transaction. Votre sens du détail et votre orientation client font toute la différence. Un magasin dont vous pouvez être fier : Avec vos collègues, vous veille",
+    "stack": [
+      "B2C",
+      "Retail",
+      "Junior",
+      "Farmer"
+    ],
+    "experience": null,
+    "in_belgium": true,
+    "signals": [],
+    "signal_terms": []
+  },
+  "https://www.homeproved.com/nl/vacatures/sales-representative": {
+    "title": "Sales representative Gepubliceerd op 11/01",
+    "url": "https://www.homeproved.com/nl/vacatures/sales-representative",
+    "company": "COMEPLAST-CARPACO",
+    "source": "https://www.homeproved.com/jobs",
+    "first_seen": "2026-08-27",
+    "snippet": "Homeproved.com Reviews om op te bouwen Gebruiksvoorwaarden Privacybeleid Cookieverklaring Contact Over ons Vragen? De Homeproved score Realisaties Voor bedrijven Copyright 2026 Homeproved.com - Alle rechten voorbehouden",
+    "stack": [],
+    "experience": null,
+    "in_belgium": null,
+    "signals": [],
+    "signal_terms": []
+  },
+  "https://impact.be/nl/kandidaten/werken-bouw/werfleiding-jobs/": {
+    "title": "Werfleiding",
+    "url": "https://impact.be/nl/kandidaten/werken-bouw/werfleiding-jobs/",
+    "company": "IMPACT",
+    "source": "https://impact.be/nl/kandidaten/alle-vacatures/",
+    "first_seen": "2026-08-27",
+    "snippet": "Werfleiding jobs in de bouw | Vacatures, loon en doorgroeikansen IMPACT Kandidaten Werkgevers Werken bij IMPACT Onze missie Mijn IMPACT Contact Nederlands nl Français fr English en Polski pl Română ro Alle vacatures Bouw Functiedomeinen Beton Landbouw Operationeel leidinggevend Projectleiding Ruwbouw Schrijnwerkerij & Decoratie Tuinbouw Wegenbouw Werfleiding Alle domeinen Functies Grondwerker Handlanger Kraanbestuurder Monteur Ploegbaas Projectleider Schrijnwerker Tuinman Werfleider Alle functies Provincies Antwerpen Brussels Hoofdstedelijk Gewest Limburg Oost-Vlaanderen Vlaams-Brabant West-Vlaanderen Alle jobs in bouw Experts in de bouw Experts in de bouw Ontdek hoe IMPACT je kan helpen met je zoektocht naar een job in de bouwsector. Ontdek meer over bouw Techniek Functiedomeinen Automobiel Elektriciteit Elektrotechniek Engineering HVAC & Koeling Mechanica Metaal Productie & Onderhoud Andere Alle domeinen Functies Automechanicien Elektricien HVAC-technieker Lasser Mecanicien Monteur Onderhoudstechnieker Servicetechnieker Technieker Vrachtwagenmechanicien Alle functies Provincies Antwerpen Brussels Hoofdstedelijk Gewest Limburg Oost-Vlaanderen Vlaams-Brabant West-Vlaanderen Alle jo",
+    "stack": [
+      "construction",
+      "B2B",
+      "Belgium",
+      "NL/FR"
+    ],
+    "experience": null,
+    "in_belgium": true,
+    "signals": [],
+    "signal_terms": []
+  },
+  "https://belgievacature.be/vacature/verkoopadviseur-badkamer-keuken-opberging-in-brugge/264118/": {
+    "title": "Verkoopadviseur Badkamer, Keuken & Opberging",
+    "url": "https://belgievacature.be/vacature/verkoopadviseur-badkamer-keuken-opberging-in-brugge/264118/",
+    "company": "J. VAN DER ELST",
+    "source": "https://belgievacature.be/vacature/zoeken/",
+    "first_seen": "2026-08-27",
+    "snippet": "Vacature Verkoopadviseur Badkamer, Keuken & Opberging BRUGGE; Start People 🏆 EUROPEAN SEARCH AWARD 🏆 🏆 EUROPEAN SEARCH AWARD 🏆 Hulp nodig? werkvinden@BelgieVacatureGroep.be Het sollicitatiegesprek Over Ons Contact Voor Werkgevers Eerste keer hier? Jobs zoeken Werkgevers zoeken Mijn job alerts Registreren Inloggen Zoek jobs Verder zoeken Verkoopadviseur Badkamer, Keuken & Opberging Start People | BRUGGE Solliciteer later Bekijk woon-werkafstand Wij vragen 38 uur Reguliere job Gemotiveerd zijn om bij te leren en nieuwe vaardigheden te ontwikkelen. Tonen van inzet op de werkvloer. Zich betrokken voelen bij het werk en de impact ervan op het team of bedrijf. Wij bieden Jobs in uiteenlopende sectoren, voor interim én vast werk, op elk niveau. Waarom onze organisatie Nummer 2 op de Belgische uitzendmarkt. Dagelijks meer dan 10.000 mensen aan het werk. Zowel voor tijdelijke opdrachten via interim als voor vaste aanwervingen. Taken en verantwoordelijkheden Description Taakinhoud Je staat klanten vriendelijk te woord en ondersteunt hen tijdens hun aankoopproces. Je geeft gericht en professioneel advies, en helpt bij het invoeren van bestellingen, waaronder maatwerk zoals gordijnen, stores e",
+    "stack": [
+      "B2C",
+      "Retail",
+      "FMCG",
+      "Flanders",
+      "NL",
+      "farmer"
+    ],
+    "experience": null,
+    "in_belgium": true,
+    "contact": {
+      "name": null,
+      "email": "werkvinden@belgievacaturegroep.be"
+    },
+    "signals": [],
+    "signal_terms": []
+  },
+  "https://belgievacature.be/vacature/commercial-advisor-agency-sint-niklaas-in-sint-niklaas/264036/": {
+    "title": "Commercial Advisor - Agency Sint-Niklaas",
+    "url": "https://belgievacature.be/vacature/commercial-advisor-agency-sint-niklaas-in-sint-niklaas/264036/",
+    "company": "J. VAN DER ELST",
+    "source": "https://belgievacature.be/vacature/zoeken/",
+    "first_seen": "2026-08-27",
+    "snippet": "Vacature Commercial Advisor - Agency Sint-Niklaas Sint-Niklaas; Ethias NV 🏆 EUROPEAN SEARCH AWARD 🏆 🏆 EUROPEAN SEARCH AWARD 🏆 Hulp nodig? werkvinden@BelgieVacatureGroep.be Het sollicitatiegesprek Over Ons Contact Voor Werkgevers Eerste keer hier? Jobs zoeken Werkgevers zoeken Mijn job alerts Registreren Inloggen Zoek jobs Verder zoeken Commercial Advisor - Agency Sint-Niklaas Ethias NV | Sint-Niklaas Solliciteer later Bekijk woon-werkafstand Wij vragen Bachelor, Universitair / Master Reguliere job Klantgerichtheid Flexibiliteit Collegialiteit Wij bieden Vergoeding internetkosten Lease auto Opleidingsbudget Waarom onze organisatie Een Belgische speler, maar toch dichtbij. Ga ervoor, op je werk én thuis. Kies voor groei, ontwikkel je talenten. Onze recruiter Benji Commers benji.commers@ethias.be Taken en verantwoordelijkheden Een blik op jouw volgende uitdaging … Bij Ethias hebben we allemaal hetzelfde doel: een positieve invloed hebben op het leven van mensen. En daar werkt echt iedereen binnen onze organisatie aan mee. Als adviseur in ons kantoor in Sint-Niklaas ben jij dé partner in het dagelijks leven van onze klanten. Jij begeleidt hier klanten naar de juiste verzekeringen. Maar",
+    "stack": [
+      "B2B",
+      "Insurance",
+      "Farmer",
+      "NL/FR"
+    ],
+    "experience": null,
+    "in_belgium": true,
+    "contact": {
+      "name": "Benji Commers",
+      "email": "benji.commers@ethias.be"
+    },
+    "signals": [],
+    "signal_terms": []
+  },
+  "https://www.jobsonline.be/vacature/technisch-account-manager-poperinge/": {
+    "title": "Technisch Account Manager",
+    "url": "https://www.jobsonline.be/vacature/technisch-account-manager-poperinge/",
+    "company": "NAVIGLOBE",
+    "source": "https://www.jobsonline.be/vacatures",
+    "first_seen": "2026-08-27",
+    "snippet": "Vacature Technisch Account Manager bij Bright Potentials in Poperinge Zoek vacatures Bekijk bedrijven Plaats gratis je cv Inloggen Voor werkgevers Jobsonline Vacatures Vacature Technisch Account Manager Solliciteer direct Technisch Account Manager Bright Potentials - Poperinge Vandaag Onze partner is een sterke technische speler die bedrijven ondersteunt bij uiteenlopende industriële uitdagingen. Met een ervaren team en een uitgesproken hands-on mentaliteit bieden ze hun klanten technische oplossingen op maat , waarbij kwaliteit en een persoonlijke aanpak centraal staan. Om de verdere commerciële groei te ondersteunen, zijn we op zoek naar een ervaren Technisch Account Manager voor de regio West-Vlaanderen en Noord-Frankrijk . Je bouwt duurzame klantenrelaties uit, detecteert nieuwe commerciële opportuniteiten en denkt vanuit jouw technische achtergrond actief mee met de klant. Jouw functie als Technisch Account Manager Als Technisch Account Manager ben je verantwoordelijk voor het verder ontwikkelen van de klantenportefeuille . Je onderhoudt bestaande klantenrelaties en gaat tegelijkertijd actief op zoek naar nieuwe klanten en commerciële opportuniteiten. Je luistert naar de techn",
+    "stack": [
+      "Industrial",
+      "B2B",
+      "Belgium",
+      "NL/FR",
+      "Senior",
+      "Farmer"
+    ],
+    "experience": "5+ yrs",
+    "in_belgium": true,
+    "contact": {
+      "name": "Virginie Labaere",
+      "email": null
+    },
+    "signals": [
+      "Je bent voornamelijk op de baan bij klanten en prospecten : gemiddeld spendeer je vier dagen per week extern en één dag intern voor commerciële opvolging, overleg, offertes en administratie.",
+      "Je hebt een sterke commerciële drive en krijgt energie van zowel klantenbeheer als actieve prospectie ."
+    ],
+    "signal_terms": [
+      "prospecten",
+      "prospectie"
+    ]
+  },
+  "https://www.jobsonline.be/vacature/bankadviseur-oostende/": {
+    "title": "Bankadviseur",
+    "url": "https://www.jobsonline.be/vacature/bankadviseur-oostende/",
+    "company": "NAVIGLOBE",
+    "source": "https://www.jobsonline.be/vacatures",
+    "first_seen": "2026-08-27",
+    "snippet": "Vacature Bankadviseur bij Bright Potentials in Oostende Zoek vacatures Bekijk bedrijven Plaats gratis je cv Inloggen Voor werkgevers Jobsonline Vacatures Vacature Bankadviseur Solliciteer direct Bankadviseur Bright Potentials - Oostende Vandaag Met bijna 70 collega's verspreid over 7 bankkantoren in regio Brugge, Oostende en Knokke zijn zij een gevestigde waarde in de streek. Zij zetten hun dagelijks vol enthousiasme in voor hun klanten en streven ernaar om dichtbij hen te blijven staan. Word jij één van de collega's voor in het kantoor te Oostende of Bredene ? Dan kom je terecht in een hecht team waar samenwerken centraal staat en mooie resultaten worden behaald. Klaar om samen met hen te groeien? Jouw functie als Bankadviseur Als Bankadviseur sta je in voor het eerste onthaal van de klanten in het kantoor en via verschillende afstandskanalen (telefoon, chat, mail, …). Je biedt hen producten en diensten aan die nauw aansluiten bij hun behoeften en ondersteunt hen in het gebruik van digitale kanalen. Daarnaast detecteer je commerciële opportuniteiten en begeleid je klanten op belangrijke momenten in hun leven, zodat zij hun projecten kunnen realiseren. Wanneer je specifieke noden o",
+    "stack": [
+      "B2B",
+      "Banking",
+      "Flanders",
+      "NL/FR",
+      "junior",
+      "farmer"
+    ],
+    "experience": null,
+    "in_belgium": true,
+    "contact": {
+      "name": "Virginie Labaere",
+      "email": null
+    },
+    "signals": [],
+    "signal_terms": []
+  },
+  "https://www.jobsonline.be/vacature/bankadviseur-bredene/": {
+    "title": "Bankadviseur",
+    "url": "https://www.jobsonline.be/vacature/bankadviseur-bredene/",
+    "company": "NAVIGLOBE",
+    "source": "https://www.jobsonline.be/vacatures",
+    "first_seen": "2026-08-27",
+    "snippet": "Vacature Bankadviseur bij Bright Potentials in Bredene Zoek vacatures Bekijk bedrijven Plaats gratis je cv Inloggen Voor werkgevers Jobsonline Vacatures Vacature Bankadviseur Solliciteer direct Bankadviseur Bright Potentials - Bredene Vandaag Met bijna 70 collega's verspreid over 7 bankkantoren in regio Brugge, Oostende en Knokke zijn zij een gevestigde waarde in de streek. Zij zetten hun dagelijks vol enthousiasme in voor hun klanten en streven ernaar om dichtbij hen te blijven staan. Word jij één van de collega's voor in het kantoor te Oostende of Bredene ? Dan kom je terecht in een hecht team waar samenwerken centraal staat en mooie resultaten worden behaald. Klaar om samen met hen te groeien? Jouw functie als Bankadviseur Als Bankadviseur sta je in voor het eerste onthaal van de klanten in het kantoor en via verschillende afstandskanalen (telefoon, chat, mail, …). Je biedt hen producten en diensten aan die nauw aansluiten bij hun behoeften en ondersteunt hen in het gebruik van digitale kanalen. Daarnaast detecteer je commerciële opportuniteiten en begeleid je klanten op belangrijke momenten in hun leven, zodat zij hun projecten kunnen realiseren. Wanneer je specifieke noden of ",
+    "stack": [
+      "B2B",
+      "Banking",
+      "Benelux",
+      "NL/FR",
+      "junior",
+      "farmer"
+    ],
+    "experience": null,
+    "in_belgium": true,
+    "contact": {
+      "name": "Virginie Labaere",
+      "email": null
+    },
+    "signals": [],
+    "signal_terms": []
+  },
+  "https://www.randstad.be:443/werknemers/jobs/verkoopmedewerker-23-u-edegem_sint-truiden_4344c8a9-38d7-432b-bcf7-3aba034ae0f1/": {
+    "title": "verkoopmedewerker 23 u edegem",
+    "url": "https://www.randstad.be:443/werknemers/jobs/verkoopmedewerker-23-u-edegem_sint-truiden_4344c8a9-38d7-432b-bcf7-3aba034ae0f1/",
+    "company": "RANDSTAD HR SOLUTIONS",
+    "source": "https://www.randstad.be:443/werknemers/jobs/",
+    "first_seen": "2026-08-27",
+    "snippet": "vacature voor verkoopmedewerker 23 u EDEGEM in Sint-Truiden, Limburg | Randstad kantoren NL FR EN randstad een job zoeken alle jobs flexijob studentenjob studiegerelateerde job tijdelijke jobs tijdelijke jobs optie vast vast contract jobs per stad Aalst Antwerpen Brugge Brussel Genk Gent Hasselt Mechelen populaire bedrijven BD Circle K Distrilog H.Essers Kuehne+nagel Plopsa Soudal Volvo Cars profiel aanmaken werknemers mijn carrière beroepen carrièretips opleidingen sollicitatietips terug aan het werk waarom kiezen voor randstad operational construct contact center horeca industry logistics retail technics transport professional engineering finance en accounting healthcare HR life sciences office en admin sales en marketing studenten alle studentenjobs studierelevante job digital werkgevers onze oplossingen inhouse interim management online tools opleidingen overheid payrolling personeel aanwerven vaste aanwerving operational construct contact center horeca industry logistics retail technics transport professional engineering finance en accounting healthcare HR life sciences office en admin support sales en marketing digital enterprise career development employability MSP outplacem",
+    "stack": [
+      "retail",
+      "B2C",
+      "Flanders",
+      "NL/FR/EN",
+      "junior"
+    ],
+    "experience": null,
+    "in_belgium": true,
+    "contact": {
+      "name": null,
+      "email": "sint-truiden@randstad.be"
+    },
+    "signals": [],
+    "signal_terms": []
+  },
+  "https://www.metropoolverzekeringen.be/vacatures/adviseur-levensverzekeringen": {
+    "title": "Adviseur Levensverzekeringen Meer info",
+    "url": "https://www.metropoolverzekeringen.be/vacatures/adviseur-levensverzekeringen",
+    "company": "VERZEKERINGSKANTOOR ANTWERPEN METROPOOL",
+    "source": "https://www.metropoolverzekeringen.be/vacatures",
+    "first_seen": "2026-08-27",
+    "snippet": "Verzekeringskantoor Antwerpen Metropool NV Ondernemers Verenigingen Particulieren Over ons Metropool Nieuws Vacatures Veelgestelde vragen Contact Schade? Facebook LinkedIn Instagram 03 221 06 70 metropoolverzekeringen@verz.kbc.be Metropool Nieuws Vacatures FAQ Facebook LinkedIn Instagram Adviseur Levensverzekeringen Adviseur Levensverzekeringen Geef je carrière een boost en ga voor een uitdagende functie als ADVISEUR LEVENSVERZEKERINGEN! Wie is Metropool Verzekeringen? Sinds 1999 zijn wij een professionele partner voor alle ondernemingsrisico’s, waarbij onze gespecialiseerde kennis en doorgedreven service centraal staan. We willen onze klanten een unieke bijstand bezorgen door onze jarenlange ervaring in verzekeringen. In alles wat we doen, staat onze klant centraal en garanderen wij een kwaliteitsvolle service & relevante oplossingen. Dit alles kunnen we enkel, dankzij een gemotiveerd team van specialisten met kennis van zaken. Bij Metropool Verzekeringen zijn onze medewerkers de belangrijkste bouwsteen van ons kantoor. De afgelopen jaren kende ons kantoor een sterke groei. Om deze groei verder te ondersteunen zoeken wij een gedreven “ ADVISEUR LEVENSVERZEKERINGEN” . Wat verwachte",
+    "stack": [
+      "B2B",
+      "Insurance",
+      "Flanders",
+      "NL/EN",
+      "farmer"
+    ],
+    "experience": null,
+    "in_belgium": true,
+    "contact": {
+      "name": "Astrid Koslowski",
+      "email": "astrid.koslowski@verz.kbc.be"
+    },
+    "signals": [],
+    "signal_terms": []
+  },
+  "https://www.ordevanvlaamsebalies.be/nl/vacatures/vacature-advocaat-medewerker-commercial-litigation": {
+    "title": "Advocatenkantoor Racine zoekt advocaat-medewerker Commercial - litigation",
+    "url": "https://www.ordevanvlaamsebalies.be/nl/vacatures/vacature-advocaat-medewerker-commercial-litigation",
+    "company": "BALIES",
+    "source": "https://www.ordevanvlaamsebalies.be/nl/vacatures",
+    "first_seen": "2026-08-27",
+    "snippet": "Orde van Vlaamse Balies | Advocatenkantoor Racine zoekt… Sluit cookie instellingen Cookie-instellingen Onze website bewaart vier soorten cookies. Je kan zelf op elk moment kiezen welke je aanvaardt en welke niet. Meer informatie over wat cookies zijn en welke types cookies we verzamelen kan je lezen in ons cookie policy . Alle cookies aanvaarden Je voorkeuren aanpassen Essentiële cookies zijn om technische redenen noodzakelijk voor de goede werking. Zonder deze cookies zou het kunnen dat de website niet naar behoren functioneert. Functionele cookies zijn noodzakelijk voor bepaalde functies op de website. Zonder deze cookies kunnen sommige onderdelen onbruikbaar worden. Analytische cookies laten ons toe om het gebruik van de website anoniem te analyseren en de gebruikservaring te verbeteren. Mijn keuze bewaren Deze website gebruikt cookies Deze website maakt onder meer gebruik van cookies om uw surfervaring te verbeteren en om de website beter af te stemmen op uw behoeften en voorkeuren. Sommige cookies zijn noodzakelijk om de website goed te doen functioneren en kan u niet weigeren als u de website wilt bezoeken. Voor meer informatie over cookies en de lijst van cookies die op deze",
+    "stack": [
+      "B2B",
+      "Legal/Commercial",
+      "Belgium"
+    ],
+    "experience": "3-5 yrs",
+    "in_belgium": true,
+    "contact": {
+      "name": "Lieven Van Besien",
+      "email": "lvanbesien@be.racine.eu"
+    },
+    "signals": [],
+    "signal_terms": []
+  },
+  "https://allesover03.be/vacatures/business-developer-project-business-belgi-antwerpen-be-0km-dcd9a4/": {
+    "title": "Fulltime Business Developer - Project Business (België) M 1u · 17:26",
+    "url": "https://allesover03.be/vacatures/business-developer-project-business-belgi-antwerpen-be-0km-dcd9a4/",
+    "company": "G.A.P. Vassilopoulos Benelux Network NV",
+    "source": "https://allesover03.be/vacatures/",
+    "first_seen": "2026-08-27",
+    "snippet": "Business Developer – Project Business (… in Antwerpen — Direct Solliciteren | Alles Over 03 alles over 03 Nieuws Agenda Wijken Bedrijven Vacatures 📷 Foto's Woningmarkt Direct Voor toeristen NL EN DE ES IT FR Mijn 03 Nieuws Agenda Wijken Bedrijven Vacatures 📷 Antwerpen in beeld 📷 Foto uploaden Woningmarkt 🛵 Deelvervoer Direct Voor toeristen Mijn 03 Bedrijf toevoegen 03 › Vacatures › Business Developer - Project Business (België) M Business Developer - Project Business (België) Fulltime 1u · 17:26 Vacaturegegevens Dienstverband Fulltime M is op zoek naar een Business Developer - Project Business (België) — een ICT-functie bij een innovatief bedrijf in de regio Antwerpen. De functie is gebaseerd in Antwerpen . Wat ga je doen? Ontwikkelen, beheren of optimaliseren van systemen en applicaties Analyseren van technische vraagstukken en ontwerpen van oplossingen Samenwerken met andere teams en stakeholders Bijhouden van de nieuwste ontwikkelingen in de technologie Documenteren van technische processen en systemen Wat vragen wij? HBO/WO opleiding in informatica of verwant vakgebied Relevante werkervaring en actuele technische kennis Analytisch denkvermogen en probleemoplossend vermogen Goed",
+    "stack": [
+      "B2B",
+      "ICT",
+      "Belgium"
+    ],
+    "experience": null,
+    "in_belgium": true,
+    "contact": {
+      "name": null,
+      "email": "allesover03@questmediagroup.eu"
+    },
+    "signals": [],
+    "signal_terms": []
+  },
+  "https://jobs.groupbruno.be/nl/people/3621441-claudio-salvaggio": {
+    "title": "Claudio Salvaggio Sales Lead",
+    "url": "https://jobs.groupbruno.be/nl/people/3621441-claudio-salvaggio",
+    "company": "GROUP BRUNO",
+    "source": "https://jobs.groupbruno.be/",
+    "first_seen": "2026-08-27",
+    "snippet": "Claudio Salvaggio - Sales Lead - Group Bruno Deze website maakt gebruik van cookies om je een optimale ervaring te bieden. Group Bruno en onze geselecteerde partners maken gebruik van cookies en soortgelijke technologieën (samen “cookies”) die nodig zijn voor het presenteren van deze website, en om ervoor te zorgen dat je de beste ervaring krijgt. Als je hiermee instemt, gebruiken we ook cookies voor analytische en marketingdoeleinden. Zie ons Cookiebeleid voor meer informatie over de cookies die we gebruiken. Je kunt je toestemming op elk gewenst moment intrekken en beheren door te klikken op \"Cookies beheren\" onder aan elke websitepagina. Alle cookies accepteren Alle niet-noodzakelijke cookies weigeren Cookievoorkeuren Selecteer welke cookies je accepteert Op deze site plaatsen we altijd cookies die strikt noodzakelijk zijn, wat betekent dat ze nodig zijn om de site goed te laten functioneren. Als je hiermee instemt, plaatsen we ook andere soorten cookies. Je kunt je toestemming voor de verschillende soorten cookies geven of intrekken met behulp van de onderstaande knoppen. Je kunt je toestemming op elk gewenst moment wijzigen of intrekken door te klikken op de link \"Cookies behe",
+    "stack": [
+      "B2B",
+      "FMCG"
+    ],
+    "experience": null,
+    "in_belgium": true,
     "signals": [],
     "signal_terms": []
   }

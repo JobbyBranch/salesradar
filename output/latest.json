@@ -1,5 +1,698 @@
 [
   {
+    "title": "Booking Care Executive - Export",
+    "url": "https://msc.csod.com/ux/ats/careersite/4/home/requisition/3753?c=msc",
+    "company": "MSC",
+    "source": "https://msc.csod.com/ux/ats/careersite/4/home?c=msc&country=be",
+    "first_seen": "2026-08-27",
+    "stack": [
+      "B2B",
+      "logistics",
+      "Flanders",
+      "NL/EN",
+      "junior"
+    ],
+    "experience": null,
+    "in_belgium": true,
+    "signals": [],
+    "signal_terms": []
+  },
+  {
+    "title": "Global Cutting/ Die-Cutting/ Print Finishing Technology Expert (Remote Based Europe)",
+    "url": "https://cartamundi.com/en/career/397710/",
+    "company": "Cartamundi",
+    "source": "https://cartamundi.com/careers",
+    "first_seen": "2026-08-27",
+    "stack": [
+      "B2B",
+      "FMCG",
+      "industrial",
+      "EMEA",
+      "senior",
+      "hunter"
+    ],
+    "experience": "10+ yrs",
+    "in_belgium": true,
+    "signals": [],
+    "signal_terms": []
+  },
+  {
+    "title": "Vlinder Verkoper BYD Jij vindt telkens weer de juiste wagen voor jouw klant",
+    "url": "https://www.jobs.paesmans.be/jobs/verkoper-byd-2026",
+    "company": "AUTOCENTER PAESMANS",
+    "source": "https://www.jobs.paesmans.be/",
+    "first_seen": "2026-08-27",
+    "stack": [
+      "B2C",
+      "automotive",
+      "Flanders",
+      "NL",
+      "hunter"
+    ],
+    "experience": null,
+    "in_belgium": true,
+    "signals": [],
+    "signal_terms": []
+  },
+  {
+    "title": "Bedrijvenrelaties",
+    "url": "https://br.industria.be/over-industria-business-relations/",
+    "company": "STUDENTENVERENIGING INDUSTRIA",
+    "source": "https://industria.be/",
+    "first_seen": "2026-08-27",
+    "stack": [
+      "B2B",
+      "junior"
+    ],
+    "experience": null,
+    "in_belgium": true,
+    "contact": {
+      "name": "Victor Vaes",
+      "email": "victor.vaes@industria.be"
+    },
+    "signals": [],
+    "signal_terms": []
+  },
+  {
+    "title": "Commercieel medewerker",
+    "url": "https://www.vdk.be/nl/overzicht-vacatures/commercieel-medewerker",
+    "company": "vdk bank",
+    "source": "https://www.vdk.be/nl/particulieren/werken-bij-vdk-bank",
+    "first_seen": "2026-08-27",
+    "stack": [
+      "B2B",
+      "Financial Services",
+      "Benelux",
+      "NL",
+      "junior"
+    ],
+    "experience": null,
+    "in_belgium": true,
+    "contact": {
+      "name": "De Coninck Björn",
+      "email": null
+    },
+    "signals": [],
+    "signal_terms": []
+  },
+  {
+    "title": "Relatiebeheerder Namen",
+    "url": "https://www.vdk.be/nl/overzicht-vacatures/relatiebeheerder-namen",
+    "company": "vdk bank",
+    "source": "https://www.vdk.be/nl/particulieren/werken-bij-vdk-bank",
+    "first_seen": "2026-08-27",
+    "stack": [
+      "B2B",
+      "Banking",
+      "Wallonia",
+      "NL/FR",
+      "farmer"
+    ],
+    "experience": "3+ yrs",
+    "in_belgium": true,
+    "contact": {
+      "name": "Deweirdt Nancy",
+      "email": null
+    },
+    "signals": [
+      "Je bouwt jouw netwerk uit, prospecteert en detecteert commerciële opportuniteiten."
+    ],
+    "signal_terms": [
+      "prospecteert"
+    ]
+  },
+  {
+    "title": "Relatiebeheerder Oostende",
+    "url": "https://www.vdk.be/nl/overzicht-vacatures/relatiebeheerder-oostende",
+    "company": "vdk bank",
+    "source": "https://www.vdk.be/nl/particulieren/werken-bij-vdk-bank",
+    "first_seen": "2026-08-27",
+    "stack": [
+      "B2B",
+      "Banking",
+      "Flanders",
+      "NL/FR",
+      "farmer"
+    ],
+    "experience": "3+ yrs",
+    "in_belgium": true,
+    "contact": {
+      "name": "Deweirdt Nancy",
+      "email": null
+    },
+    "signals": [
+      "Je bouwt jouw netwerk uit, prospecteert en detecteert commerciële opportuniteiten."
+    ],
+    "signal_terms": [
+      "prospecteert"
+    ]
+  },
+  {
+    "title": "Relatiebeheerder Leuven",
+    "url": "https://www.vdk.be/nl/overzicht-vacatures/relatiebeheerder-leuven",
+    "company": "vdk bank",
+    "source": "https://www.vdk.be/nl/particulieren/werken-bij-vdk-bank",
+    "first_seen": "2026-08-27",
+    "stack": [
+      "B2B",
+      "Banking",
+      "Farmer",
+      "NL/FR"
+    ],
+    "experience": "3+ yrs",
+    "in_belgium": true,
+    "contact": {
+      "name": "Deweirdt Nancy",
+      "email": null
+    },
+    "signals": [
+      "Je bouwt jouw netwerk uit, prospecteert en detecteert commerciële opportuniteiten."
+    ],
+    "signal_terms": [
+      "prospecteert"
+    ]
+  },
+  {
+    "title": "Relatiebeheerder cluster Drongen",
+    "url": "https://www.vdk.be/nl/overzicht-vacatures/relatiebeheerder-cluster-drongen",
+    "company": "vdk bank",
+    "source": "https://www.vdk.be/nl/particulieren/werken-bij-vdk-bank",
+    "first_seen": "2026-08-27",
+    "stack": [
+      "B2B",
+      "Banking",
+      "Flanders",
+      "NL/FR",
+      "farmer"
+    ],
+    "experience": "3+ yrs",
+    "in_belgium": true,
+    "contact": {
+      "name": "Deweirdt Nancy",
+      "email": null
+    },
+    "signals": [
+      "Je bouwt jouw netwerk uit, prospecteert en detecteert commerciële opportuniteiten."
+    ],
+    "signal_terms": [
+      "prospecteert"
+    ]
+  },
+  {
+    "title": "Relatiebeheerder Kantoor op afstand",
+    "url": "https://www.vdk.be/nl/overzicht-vacatures/relatiebeheerder-kantoor-op-afstand",
+    "company": "vdk bank",
+    "source": "https://www.vdk.be/nl/particulieren/werken-bij-vdk-bank",
+    "first_seen": "2026-08-27",
+    "stack": [
+      "B2B",
+      "Banking",
+      "NL",
+      "Farmer",
+      "Senior"
+    ],
+    "experience": "3+ yrs",
+    "in_belgium": true,
+    "contact": {
+      "name": "Deweirdt Nancy",
+      "email": null
+    },
+    "signals": [
+      "Je bouwt jouw netwerk uit, prospecteert en detecteert commerciële opportuniteiten."
+    ],
+    "signal_terms": [
+      "prospecteert"
+    ]
+  },
+  {
+    "title": "Relatiebeheerder Oostakker",
+    "url": "https://www.vdk.be/nl/overzicht-vacatures/relatiebeheerder-oostakker",
+    "company": "vdk bank",
+    "source": "https://www.vdk.be/nl/particulieren/werken-bij-vdk-bank",
+    "first_seen": "2026-08-27",
+    "stack": [
+      "B2B",
+      "financial services",
+      "NL",
+      "farmer",
+      "Flanders"
+    ],
+    "experience": "3+ yrs",
+    "in_belgium": true,
+    "contact": {
+      "name": "Deweirdt Nancy",
+      "email": null
+    },
+    "signals": [
+      "Je bouwt jouw netwerk uit, prospecteert en detecteert commerciële opportuniteiten."
+    ],
+    "signal_terms": [
+      "prospecteert"
+    ]
+  },
+  {
+    "title": "Relatiebeheerder Hasselt",
+    "url": "https://www.vdk.be/nl/overzicht-vacatures/relatiebeheerder-hasselt",
+    "company": "vdk bank",
+    "source": "https://www.vdk.be/nl/particulieren/werken-bij-vdk-bank",
+    "first_seen": "2026-08-27",
+    "stack": [
+      "B2C",
+      "banking",
+      "farmer",
+      "NL/FR"
+    ],
+    "experience": "3+ yrs",
+    "in_belgium": true,
+    "contact": {
+      "name": "Deweirdt Nancy",
+      "email": null
+    },
+    "signals": [
+      "Je bouwt jouw netwerk uit, prospecteert en detecteert commerciële opportuniteiten."
+    ],
+    "signal_terms": [
+      "prospecteert"
+    ]
+  },
+  {
+    "title": "Technical inside sales Regeltechniek Sta klanten bij met slimme regeltechniek Meer info",
+    "url": "https://www.frigro.be/nl/vacatures/technical-inside-sales-regeltechniek/",
+    "company": "Frigro Services",
+    "source": "https://www.frigro.be/nl/vacatures/",
+    "first_seen": "2026-08-27",
+    "stack": [
+      "B2B",
+      "Industrial",
+      "NL/FR/EN",
+      "Farmer"
+    ],
+    "experience": null,
+    "in_belgium": true,
+    "contact": {
+      "name": null,
+      "email": "info@frigro.be"
+    },
+    "signals": [],
+    "signal_terms": []
+  },
+  {
+    "title": "Junior Business Developer IT Provider",
+    "url": "https://www.tieltr.be/vacatures/junior-business-developer",
+    "company": "TIELTR",
+    "source": "https://www.tieltr.be/vacatures",
+    "first_seen": "2026-08-27",
+    "stack": [
+      "B2B",
+      "IT",
+      "junior",
+      "hunter",
+      "NL"
+    ],
+    "experience": "1+ yrs",
+    "in_belgium": true,
+    "signals": [
+      "Actief prospecteren naar nieuwe klanten via e-mail, telefoon en LinkedIn Genereren van kwalitatieve leads via outbound prospectie Opvolgen van inkomende leads en deze omzetten naar concrete afspraken Online kwalificatiemeetings uitvoeren om…",
+      "…e in een groeiend en ambitieus bedrijf Een trainingstraject om je verder te ontwikkelen in sales en prospectie Flexibiliteit en ruimte voor eigen initiatief Een sterk team dat samenwerkt om doelen te behalen Hopelijk tot snel?…"
+    ],
+    "signal_terms": [
+      "prospecteren",
+      "outbound prospectie",
+      "prospectie via telefoon",
+      "prospectie"
+    ]
+  },
+  {
+    "title": "Nieuw Vastgoed makelaar aan de westkust Vlaemynck",
+    "url": "https://www.tieltr.be/vacatures/vastgoed-makelaar-aan-de-westkust",
+    "company": "TIELTR",
+    "source": "https://www.tieltr.be/vacatures",
+    "first_seen": "2026-08-27",
+    "stack": [
+      "B2B",
+      "Real Estate",
+      "hunter",
+      "NL/FR"
+    ],
+    "experience": null,
+    "in_belgium": true,
+    "contact": {
+      "name": "Isabelle",
+      "email": "isabelle@vlaemynck.be"
+    },
+    "signals": [],
+    "signal_terms": []
+  },
+  {
+    "title": "Sales & Proposal Officer",
+    "url": "https://www.stepstone.be/jobs--Sales-Proposal-Officer-OLEN-Intersoft-Electronics-NV--2233859-inline.html",
+    "company": "t Soetekint - de Levensboom",
+    "source": "https://www.stepstone.be/jobs",
+    "first_seen": "2026-08-27",
+    "stack": [
+      "B2B",
+      "industrial",
+      "engineering",
+      "EMEA",
+      "NL/EN"
+    ],
+    "experience": null,
+    "in_belgium": true,
+    "signals": [],
+    "signal_terms": []
+  },
+  {
+    "title": "Verkoper IT, Telecom en multimedia (Heist-op-den-Berg)",
+    "url": "https://www.stepstone.be/jobs--Verkoper-IT-Telecom-en-multimedia-Heist-op-den-Berg-HEIST-OP-DEN-BERG-Spot-Group-BVBA--2234344-inline.html",
+    "company": "t Soetekint - de Levensboom",
+    "source": "https://www.stepstone.be/jobs",
+    "first_seen": "2026-08-27",
+    "stack": [
+      "B2B",
+      "B2C",
+      "IT",
+      "Telecom",
+      "hunter"
+    ],
+    "experience": "2+ yrs",
+    "in_belgium": true,
+    "signals": [
+      "prospecteren bij bedrijven en particulieren;",
+      "inspelen op het verhaal van een prospect;"
+    ],
+    "signal_terms": [
+      "prospecteren",
+      "prospect"
+    ]
+  },
+  {
+    "title": "Solutions Engineer (Recent Graduate)",
+    "url": "https://jobs.keysight.com/external/jobs/53912?lang=en-us",
+    "company": "EASICS",
+    "source": "https://jobs.keysight.com/external/jobs",
+    "first_seen": "2026-08-27",
+    "stack": [
+      "B2B",
+      "EMEA",
+      "junior"
+    ],
+    "experience": null,
+    "in_belgium": null,
+    "signals": [],
+    "signal_terms": []
+  },
+  {
+    "title": "MES & Data Consultant – Pre-Sales",
+    "url": "https://careers.agsolutiongroup.com/jobs/8279784-mes-data-consultant-pre-sales",
+    "company": "AG SOLUTION",
+    "source": "https://careers.agsolutiongroup.com/",
+    "first_seen": "2026-08-27",
+    "stack": [
+      "B2B",
+      "Industrial",
+      "MES/Manufacturing",
+      "EMEA",
+      "FR/EN",
+      "Pre-Sales"
+    ],
+    "experience": "3+ yrs",
+    "in_belgium": true,
+    "signals": [
+      "On the commercial side: winning the trust of a prospect before a single line of code gets configured.",
+      "Run discovery workshops with prospects to map current-state processes and surface the gap MES or a data platform closes.",
+      "Comfortable hearing \"no\" or \"not yet\" from a prospect and adjusting the pitch, rather than only delivering a scripted demo.",
+      "equally comfortable pitching value to a prospect's steering committee and explaining MES logic to an operator on the floor."
+    ],
+    "signal_terms": [
+      "prospect",
+      "prospects"
+    ]
+  },
+  {
+    "title": "Collaborateur de vente (20h) - Tom&Co Hornu Belgium Hornu",
+    "url": "https://corporate.tomandco.com/vacancies/collaborateur-de-vente-20h-tomco-hornu-6a901404f9ee9f548fe1caf7-fr/",
+    "company": "BARQ EUROPE",
+    "source": "https://corporate.tomandco.com/jobs/",
+    "first_seen": "2026-08-27",
+    "stack": [
+      "B2C",
+      "Retail",
+      "Junior",
+      "Farmer"
+    ],
+    "experience": null,
+    "in_belgium": true,
+    "signals": [],
+    "signal_terms": []
+  },
+  {
+    "title": "Sales representative Gepubliceerd op 11/01",
+    "url": "https://www.homeproved.com/nl/vacatures/sales-representative",
+    "company": "COMEPLAST-CARPACO",
+    "source": "https://www.homeproved.com/jobs",
+    "first_seen": "2026-08-27",
+    "stack": [],
+    "experience": null,
+    "in_belgium": null,
+    "signals": [],
+    "signal_terms": []
+  },
+  {
+    "title": "Werfleiding",
+    "url": "https://impact.be/nl/kandidaten/werken-bouw/werfleiding-jobs/",
+    "company": "IMPACT",
+    "source": "https://impact.be/nl/kandidaten/alle-vacatures/",
+    "first_seen": "2026-08-27",
+    "stack": [
+      "construction",
+      "B2B",
+      "Belgium",
+      "NL/FR"
+    ],
+    "experience": null,
+    "in_belgium": true,
+    "signals": [],
+    "signal_terms": []
+  },
+  {
+    "title": "Verkoopadviseur Badkamer, Keuken & Opberging",
+    "url": "https://belgievacature.be/vacature/verkoopadviseur-badkamer-keuken-opberging-in-brugge/264118/",
+    "company": "J. VAN DER ELST",
+    "source": "https://belgievacature.be/vacature/zoeken/",
+    "first_seen": "2026-08-27",
+    "stack": [
+      "B2C",
+      "Retail",
+      "FMCG",
+      "Flanders",
+      "NL",
+      "farmer"
+    ],
+    "experience": null,
+    "in_belgium": true,
+    "contact": {
+      "name": null,
+      "email": "werkvinden@belgievacaturegroep.be"
+    },
+    "signals": [],
+    "signal_terms": []
+  },
+  {
+    "title": "Commercial Advisor - Agency Sint-Niklaas",
+    "url": "https://belgievacature.be/vacature/commercial-advisor-agency-sint-niklaas-in-sint-niklaas/264036/",
+    "company": "J. VAN DER ELST",
+    "source": "https://belgievacature.be/vacature/zoeken/",
+    "first_seen": "2026-08-27",
+    "stack": [
+      "B2B",
+      "Insurance",
+      "Farmer",
+      "NL/FR"
+    ],
+    "experience": null,
+    "in_belgium": true,
+    "contact": {
+      "name": "Benji Commers",
+      "email": "benji.commers@ethias.be"
+    },
+    "signals": [],
+    "signal_terms": []
+  },
+  {
+    "title": "Technisch Account Manager",
+    "url": "https://www.jobsonline.be/vacature/technisch-account-manager-poperinge/",
+    "company": "NAVIGLOBE",
+    "source": "https://www.jobsonline.be/vacatures",
+    "first_seen": "2026-08-27",
+    "stack": [
+      "Industrial",
+      "B2B",
+      "Belgium",
+      "NL/FR",
+      "Senior",
+      "Farmer"
+    ],
+    "experience": "5+ yrs",
+    "in_belgium": true,
+    "contact": {
+      "name": "Virginie Labaere",
+      "email": null
+    },
+    "signals": [
+      "Je bent voornamelijk op de baan bij klanten en prospecten : gemiddeld spendeer je vier dagen per week extern en één dag intern voor commerciële opvolging, overleg, offertes en administratie.",
+      "Je hebt een sterke commerciële drive en krijgt energie van zowel klantenbeheer als actieve prospectie ."
+    ],
+    "signal_terms": [
+      "prospecten",
+      "prospectie"
+    ]
+  },
+  {
+    "title": "Bankadviseur",
+    "url": "https://www.jobsonline.be/vacature/bankadviseur-oostende/",
+    "company": "NAVIGLOBE",
+    "source": "https://www.jobsonline.be/vacatures",
+    "first_seen": "2026-08-27",
+    "stack": [
+      "B2B",
+      "Banking",
+      "Flanders",
+      "NL/FR",
+      "junior",
+      "farmer"
+    ],
+    "experience": null,
+    "in_belgium": true,
+    "contact": {
+      "name": "Virginie Labaere",
+      "email": null
+    },
+    "signals": [],
+    "signal_terms": []
+  },
+  {
+    "title": "Bankadviseur",
+    "url": "https://www.jobsonline.be/vacature/bankadviseur-bredene/",
+    "company": "NAVIGLOBE",
+    "source": "https://www.jobsonline.be/vacatures",
+    "first_seen": "2026-08-27",
+    "stack": [
+      "B2B",
+      "Banking",
+      "Benelux",
+      "NL/FR",
+      "junior",
+      "farmer"
+    ],
+    "experience": null,
+    "in_belgium": true,
+    "contact": {
+      "name": "Virginie Labaere",
+      "email": null
+    },
+    "signals": [],
+    "signal_terms": []
+  },
+  {
+    "title": "verkoopmedewerker 23 u edegem",
+    "url": "https://www.randstad.be:443/werknemers/jobs/verkoopmedewerker-23-u-edegem_sint-truiden_4344c8a9-38d7-432b-bcf7-3aba034ae0f1/",
+    "company": "RANDSTAD HR SOLUTIONS",
+    "source": "https://www.randstad.be:443/werknemers/jobs/",
+    "first_seen": "2026-08-27",
+    "stack": [
+      "retail",
+      "B2C",
+      "Flanders",
+      "NL/FR/EN",
+      "junior"
+    ],
+    "experience": null,
+    "in_belgium": true,
+    "contact": {
+      "name": null,
+      "email": "sint-truiden@randstad.be"
+    },
+    "signals": [],
+    "signal_terms": []
+  },
+  {
+    "title": "Adviseur Levensverzekeringen Meer info",
+    "url": "https://www.metropoolverzekeringen.be/vacatures/adviseur-levensverzekeringen",
+    "company": "VERZEKERINGSKANTOOR ANTWERPEN METROPOOL",
+    "source": "https://www.metropoolverzekeringen.be/vacatures",
+    "first_seen": "2026-08-27",
+    "stack": [
+      "B2B",
+      "Insurance",
+      "Flanders",
+      "NL/EN",
+      "farmer"
+    ],
+    "experience": null,
+    "in_belgium": true,
+    "contact": {
+      "name": "Astrid Koslowski",
+      "email": "astrid.koslowski@verz.kbc.be"
+    },
+    "signals": [],
+    "signal_terms": []
+  },
+  {
+    "title": "Advocatenkantoor Racine zoekt advocaat-medewerker Commercial - litigation",
+    "url": "https://www.ordevanvlaamsebalies.be/nl/vacatures/vacature-advocaat-medewerker-commercial-litigation",
+    "company": "BALIES",
+    "source": "https://www.ordevanvlaamsebalies.be/nl/vacatures",
+    "first_seen": "2026-08-27",
+    "stack": [
+      "B2B",
+      "Legal/Commercial",
+      "Belgium"
+    ],
+    "experience": "3-5 yrs",
+    "in_belgium": true,
+    "contact": {
+      "name": "Lieven Van Besien",
+      "email": "lvanbesien@be.racine.eu"
+    },
+    "signals": [],
+    "signal_terms": []
+  },
+  {
+    "title": "Fulltime Business Developer - Project Business (België) M 1u · 17:26",
+    "url": "https://allesover03.be/vacatures/business-developer-project-business-belgi-antwerpen-be-0km-dcd9a4/",
+    "company": "G.A.P. Vassilopoulos Benelux Network NV",
+    "source": "https://allesover03.be/vacatures/",
+    "first_seen": "2026-08-27",
+    "stack": [
+      "B2B",
+      "ICT",
+      "Belgium"
+    ],
+    "experience": null,
+    "in_belgium": true,
+    "contact": {
+      "name": null,
+      "email": "allesover03@questmediagroup.eu"
+    },
+    "signals": [],
+    "signal_terms": []
+  },
+  {
+    "title": "Claudio Salvaggio Sales Lead",
+    "url": "https://jobs.groupbruno.be/nl/people/3621441-claudio-salvaggio",
+    "company": "GROUP BRUNO",
+    "source": "https://jobs.groupbruno.be/",
+    "first_seen": "2026-08-27",
+    "stack": [
+      "B2B",
+      "FMCG"
+    ],
+    "experience": null,
+    "in_belgium": true,
+    "signals": [],
+    "signal_terms": []
+  },
+  {
     "title": "Business Development Manager",
     "url": "https://pionira.be/vacatures/business-development-manager/",
     "company": "Pionira",
@@ -25,7 +718,8 @@
     "signal_terms": [
       "prospectie",
       "prospects"
-    ]
+    ],
+    "clf": 1
   },
   {
     "title": "Business Developer Digital Platforms - publieke sector",
@@ -48,7 +742,8 @@
     ],
     "signal_terms": [
       "hunter"
-    ]
+    ],
+    "clf": 1
   },
   {
     "title": "Territory Sales Manager Safety & Visual Workplace",
@@ -65,7 +760,8 @@
     "experience": null,
     "in_belgium": null,
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   {
     "title": "Commercial Executive - Export",
@@ -84,7 +780,8 @@
     "experience": null,
     "in_belgium": true,
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   {
     "title": "External sales (B2B)",
@@ -100,7 +797,8 @@
     "experience": null,
     "in_belgium": true,
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   {
     "title": "Vertegenwoordiger B2B",
@@ -126,7 +824,8 @@
     ],
     "signal_terms": [
       "prospectie"
-    ]
+    ],
+    "clf": 1
   },
   {
     "title": "Account Manager Sales · Hooglede",
@@ -153,7 +852,8 @@
       "outbound sales",
       "hunting",
       "prospects"
-    ]
+    ],
+    "clf": 1
   },
   {
     "title": "Accountmanager Projects Hooglede-Gits, België Bediende",
@@ -175,25 +875,8 @@
       "email": "werken@deceuninck.com"
     },
     "signals": [],
-    "signal_terms": []
-  },
-  {
-    "title": "Global Cutting/ Die-Cutting/ Print Finishing Technology Expert (Remote Based Europe)",
-    "url": "https://cartamundi.com/en/career/397710/",
-    "company": "Cartamundi",
-    "source": "https://cartamundi.com/careers",
-    "first_seen": "2026-08-26",
-    "stack": [
-      "B2B",
-      "manufacturing",
-      "EMEA",
-      "senior",
-      "hunter"
-    ],
-    "experience": "10+ yrs",
-    "in_belgium": true,
-    "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   {
     "title": "Business Developer Sales · Hooglede",
@@ -219,43 +902,8 @@
     ],
     "signal_terms": [
       "prospecten"
-    ]
-  },
-  {
-    "title": "Technical Business Consultant Customer Success · Hooglede",
-    "url": "https://jobs.brightanalytics.eu/nl/jobs/7444675-technical-business-consultant",
-    "company": "BrightAnalytics",
-    "source": "https://jobs.brightanalytics.eu/jobs?query=&country=Belgium",
-    "first_seen": "2026-08-26",
-    "stack": [
-      "SaaS",
-      "Fintech",
-      "B2B",
-      "NL/EN",
-      "farmer"
     ],
-    "experience": null,
-    "in_belgium": true,
-    "signals": [],
-    "signal_terms": []
-  },
-  {
-    "title": "Booking Care Executive - Export",
-    "url": "https://msc.csod.com/ux/ats/careersite/4/home/requisition/3753?c=msc",
-    "company": "MSC",
-    "source": "https://msc.csod.com/ux/ats/careersite/4/home?c=msc&country=be",
-    "first_seen": "2026-08-26",
-    "stack": [
-      "logistics",
-      "B2B",
-      "Belgium",
-      "NL/EN",
-      "junior"
-    ],
-    "experience": null,
-    "in_belgium": true,
-    "signals": [],
-    "signal_terms": []
+    "clf": 1
   },
   {
     "title": "Account Manager Collectibles",
@@ -282,7 +930,8 @@
     ],
     "signal_terms": [
       "prospecten"
-    ]
+    ],
+    "clf": 1
   },
   {
     "title": "Product Sales Engineer AD&S",
@@ -300,7 +949,8 @@
     "experience": null,
     "in_belgium": true,
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   {
     "title": "Account Executive Sales · Hooglede",
@@ -328,7 +978,8 @@
     "signal_terms": [
       "new business ",
       "prospects"
-    ]
+    ],
+    "clf": 1
   },
   {
     "title": "Business Developer Sales · Hooglede, Lille",
@@ -355,7 +1006,8 @@
     ],
     "signal_terms": [
       "prospects"
-    ]
+    ],
+    "clf": 1
   },
   {
     "title": "BE Country Sales Manager Sales · Hooglede",
@@ -374,7 +1026,8 @@
     "experience": "5+ yrs",
     "in_belgium": true,
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   {
     "title": "Commercial Executive - Project Cargo",
@@ -392,7 +1045,8 @@
     "experience": "3+ yrs",
     "in_belgium": true,
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   {
     "title": "Strategic Partnership Manager (Roeselare) Sales · Hooglede",
@@ -410,7 +1064,8 @@
     "experience": "2-5 yrs",
     "in_belgium": true,
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   {
     "title": "Business Consultant (Customer Success) Customer Success · Hooglede",
@@ -427,7 +1082,8 @@
     "experience": null,
     "in_belgium": true,
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   {
     "title": "Business Developer Sales · Hooglede",
@@ -455,7 +1111,8 @@
     "signal_terms": [
       "prospects",
       "outbound sales"
-    ]
+    ],
+    "clf": 1
   },
   {
     "title": "ACCOUNTMANAGER (M/V)",
@@ -476,7 +1133,8 @@
     ],
     "signal_terms": [
       "acquisitie"
-    ]
+    ],
+    "clf": 1
   },
   {
     "title": "Accountmanager Beringen",
@@ -499,7 +1157,8 @@
       "email": null
     },
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   {
     "title": "Verkopers",
@@ -520,25 +1179,8 @@
       "email": "info@paesmans.be"
     },
     "signals": [],
-    "signal_terms": []
-  },
-  {
-    "title": "Vlinder Verkoper BYD Jij vindt telkens weer de juiste wagen voor jouw klant",
-    "url": "https://www.jobs.paesmans.be/jobs/verkoper-byd-2026",
-    "company": "AUTOCENTER PAESMANS",
-    "source": "https://www.jobs.paesmans.be/",
-    "first_seen": "2026-08-26",
-    "stack": [
-      "B2C",
-      "automotive",
-      "Flanders",
-      "NL",
-      "hunter"
-    ],
-    "experience": null,
-    "in_belgium": true,
-    "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   {
     "title": "(Key) Account Manager (1)",
@@ -555,7 +1197,8 @@
     "experience": null,
     "in_belgium": true,
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   {
     "title": "Business Development/Key Account Manager",
@@ -584,7 +1227,8 @@
     ],
     "signal_terms": [
       "new business "
-    ]
+    ],
+    "clf": 1
   },
   {
     "title": "Sales Advisor met ervaring",
@@ -606,7 +1250,8 @@
       "email": "klaas.lagrou@autobedrijflagrou.be"
     },
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   {
     "title": "Technical Sales Representative",
@@ -623,7 +1268,8 @@
     "experience": null,
     "in_belgium": null,
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   {
     "title": "Vacature VERKOPER KNIKMOPSGAMMA",
@@ -649,7 +1295,8 @@
     ],
     "signal_terms": [
       "prospecteren"
-    ]
+    ],
+    "clf": 1
   },
   {
     "title": "Vacature VERKOPER MERLOGAMMA",
@@ -675,7 +1322,8 @@
     ],
     "signal_terms": [
       "prospecteren"
-    ]
+    ],
+    "clf": 1
   },
   {
     "title": "accountmanagers Aalter (bouwmaterialen) Avelgem Eeklo Gent Lier Oostrozebeke Ronse Functie Sales",
@@ -698,7 +1346,8 @@
     ],
     "signal_terms": [
       "prospectie"
-    ]
+    ],
+    "clf": 1
   },
   {
     "title": "internal sales medewerkers Oostrozebeke Functie Administratie Sales",
@@ -717,7 +1366,8 @@
     "experience": null,
     "in_belgium": true,
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   {
     "title": "commercieel medewerker bouwshop Lier Functie Administratie Sales",
@@ -736,24 +1386,8 @@
     "experience": null,
     "in_belgium": true,
     "signals": [],
-    "signal_terms": []
-  },
-  {
-    "title": "Customer Service Supervisor Kruisum, Belgium",
-    "url": "https://www.bleckmann.com/nl/vacatures/customer-service-supervisor",
-    "company": "BLECKMANN BELGIË NV",
-    "source": "https://www.bleckmann.com/nl/vacatures",
-    "first_seen": "2026-08-26",
-    "stack": [
-      "logistics",
-      "B2B",
-      "fashion/lifestyle",
-      "Belgium"
-    ],
-    "experience": null,
-    "in_belgium": true,
-    "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   {
     "title": "Sales Specialist Mobile Applications (M/V/X)",
@@ -783,7 +1417,8 @@
       "prospecten",
       "afspraken maken",
       "hunter"
-    ]
+    ],
+    "clf": 1
   },
   {
     "title": "Business developer Wallonie",
@@ -811,7 +1446,8 @@
       "prospectiemindset",
       "prospectie",
       "hunter"
-    ]
+    ],
+    "clf": 1
   },
   {
     "title": "Key account manager",
@@ -834,7 +1470,8 @@
     ],
     "signal_terms": [
       "prospectie"
-    ]
+    ],
+    "clf": 1
   },
   {
     "title": "Accountmanager provincie Limburg",
@@ -860,7 +1497,8 @@
     ],
     "signal_terms": [
       "prospecteren"
-    ]
+    ],
+    "clf": 1
   },
   {
     "title": "Eerste verkoper",
@@ -879,7 +1517,8 @@
     "experience": null,
     "in_belgium": true,
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   {
     "title": "Business Developer België (Internationale rekrutering) Link2Europe Gent & Antwerpen",
@@ -902,7 +1541,8 @@
       "email": "igor@link2europe.be"
     },
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   {
     "title": "Voltijds verkoopmedewerkster",
@@ -922,7 +1562,8 @@
       "email": "sales@delsport.be"
     },
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   {
     "title": "Commercieel Medewerker - Gent",
@@ -944,7 +1585,8 @@
       "email": "karel.mortier@dvv.be"
     },
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   {
     "title": "Tweetalige klantenbegeleider Sales Brussel Luik Waals-Brabant Voltijds",
@@ -962,7 +1604,8 @@
     "experience": null,
     "in_belgium": true,
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   {
     "title": "Sales Advisor Brugge Sales West-Vlaanderen Voltijds, Freelance",
@@ -980,7 +1623,8 @@
     "experience": null,
     "in_belgium": true,
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   {
     "title": "Commercieel binnenhuisarchitect Sales Antwerpen Oost-Vlaanderen Voltijds",
@@ -998,7 +1642,8 @@
     "experience": null,
     "in_belgium": true,
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   {
     "title": "Project Accountmanager Sales Hoofdkantoor Voltijds",
@@ -1020,7 +1665,8 @@
     ],
     "signal_terms": [
       "plant afspraken"
-    ]
+    ],
+    "clf": 1
   },
   {
     "title": "Sales Advisor Kuurne Sales West-Vlaanderen Voltijds, Freelance",
@@ -1038,7 +1684,8 @@
     "experience": null,
     "in_belgium": true,
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   {
     "title": "Tweetalige Sales Advisor regio Zaventem Sales Brussel Voltijds, Freelance",
@@ -1056,7 +1703,8 @@
     "experience": null,
     "in_belgium": true,
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   {
     "title": "Sales Advisor Oudenaarde Sales Oost-Vlaanderen Voltijds, Freelance",
@@ -1074,7 +1722,8 @@
     "experience": null,
     "in_belgium": true,
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   {
     "title": "Sales Advisor Erembodgem Sales Oost-Vlaanderen Voltijds, Freelance",
@@ -1092,7 +1741,8 @@
     "experience": null,
     "in_belgium": true,
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   {
     "title": "Sales Representative (Limburg & Antwerpen)",
@@ -1113,7 +1763,8 @@
       "email": "sander@eventpay.be"
     },
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   {
     "title": "Sales Advisor Sint-Niklaas Sales Oost-Vlaanderen Voltijds, Freelance",
@@ -1131,7 +1782,8 @@
     "experience": null,
     "in_belgium": true,
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   {
     "title": "Sales Advisor Oostende Sales West-Vlaanderen Voltijds, Freelance",
@@ -1149,7 +1801,8 @@
     "experience": null,
     "in_belgium": true,
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   {
     "title": "Tweetalige Sales Advisor Drogenbos Sales Vlaams-Brabant Voltijds, Freelance",
@@ -1167,7 +1820,8 @@
     "experience": null,
     "in_belgium": true,
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   {
     "title": "Sales Advisor Kampenhout Sales Vlaams-Brabant Voltijds, Freelance",
@@ -1185,7 +1839,8 @@
     "experience": null,
     "in_belgium": true,
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   {
     "title": "Sales Engineer",
@@ -1206,7 +1861,8 @@
       "email": "magaly@enervice.be"
     },
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   {
     "title": "Sales Advisor Roeselare Sales West-Vlaanderen Voltijds, Freelance",
@@ -1224,7 +1880,8 @@
     "experience": null,
     "in_belgium": true,
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   {
     "title": "Sales Advisor Schoten Sales Antwerpen Voltijds, Freelance",
@@ -1242,29 +1899,8 @@
     "experience": null,
     "in_belgium": true,
     "signals": [],
-    "signal_terms": []
-  },
-  {
-    "title": "Solution engineer",
-    "url": "https://elogautomation.com/job/solution-engineer/",
-    "company": "E’Log Automation",
-    "source": "https://elogautomation.com/jobs/",
-    "first_seen": "2026-08-26",
-    "stack": [
-      "B2B",
-      "logistics",
-      "industrial",
-      "NL/EN/FR",
-      "senior"
-    ],
-    "experience": "Several years",
-    "in_belgium": true,
-    "contact": {
-      "name": null,
-      "email": "info@elogautomation.be"
-    },
-    "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   {
     "title": "Sales Advisor Olen Sales Antwerpen Voltijds, Freelance",
@@ -1281,7 +1917,8 @@
     "experience": null,
     "in_belgium": true,
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   {
     "title": "Sales Advisor Hasselt Sales Limburg Voltijds, Freelance",
@@ -1299,7 +1936,8 @@
     "experience": null,
     "in_belgium": true,
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   {
     "title": "Medewerker Commerciële Binnendienst",
@@ -1321,7 +1959,8 @@
       "email": "info@sivafrost.be"
     },
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   {
     "title": "Sales & Relations Manager",
@@ -1343,7 +1982,8 @@
       "email": "info@sivafrost.be"
     },
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   {
     "title": "Technisch vertegenwoordiger Oost- en West-Vlaanderen",
@@ -1369,7 +2009,8 @@
     ],
     "signal_terms": [
       "prospecten"
-    ]
+    ],
+    "clf": 1
   },
   {
     "title": "Technisch vertegenwoordiger Antwerpen en Limburg",
@@ -1395,7 +2036,8 @@
     ],
     "signal_terms": [
       "prospecten"
-    ]
+    ],
+    "clf": 1
   },
   {
     "title": "Internal Sales",
@@ -1420,7 +2062,8 @@
     ],
     "signal_terms": [
       "hunt"
-    ]
+    ],
+    "clf": 1
   },
   {
     "title": "Sales & Purchase Specialist",
@@ -1446,7 +2089,8 @@
     ],
     "signal_terms": [
       "hunt"
-    ]
+    ],
+    "clf": 1
   },
   {
     "title": "Sales Professional Wallonië",
@@ -1476,7 +2120,8 @@
       "prospectie",
       "prospects",
       "prospect"
-    ]
+    ],
+    "clf": 1
   },
   {
     "title": "Business Development Manager",
@@ -1509,7 +2154,8 @@
       "prospecting",
       "lead generation",
       "hunt"
-    ]
+    ],
+    "clf": 1
   },
   {
     "title": "Sales & Business developer",
@@ -1538,7 +2184,8 @@
       "prospects",
       "new business ",
       "prospecting"
-    ]
+    ],
+    "clf": 1
   },
   {
     "title": "Junior Sales | Locatie: Gent",
@@ -1567,7 +2214,8 @@
     "signal_terms": [
       "new business ",
       "acquisitie"
-    ]
+    ],
+    "clf": 1
   },
   {
     "title": "Sales New Business Vlaanderen | Locatie: Gent",
@@ -1602,7 +2250,8 @@
       "prospects",
       "prospecting",
       "acquisitie"
-    ]
+    ],
+    "clf": 1
   },
   {
     "title": "Account Executive Sales Belgium / Hybrid Full-time View details",
@@ -1629,27 +2278,8 @@
       "build your own pipeline",
       "prospect",
       "outreach"
-    ]
-  },
-  {
-    "title": "Bedrijvenrelaties",
-    "url": "https://br.industria.be/over-industria-business-relations/",
-    "company": "STUDENTENVERENIGING INDUSTRIA",
-    "source": "https://industria.be/",
-    "first_seen": "2026-08-26",
-    "stack": [
-      "B2B",
-      "student recruitment",
-      "networking"
     ],
-    "experience": null,
-    "in_belgium": true,
-    "contact": {
-      "name": "Victor Vaes",
-      "email": "victor.vaes@industria.be"
-    },
-    "signals": [],
-    "signal_terms": []
+    "clf": 1
   },
   {
     "title": "International Business Development Manager",
@@ -1668,7 +2298,8 @@
     "experience": null,
     "in_belgium": null,
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   {
     "title": "Sales Representative",
@@ -1696,7 +2327,8 @@
     ],
     "signal_terms": [
       "prospectie"
-    ]
+    ],
+    "clf": 1
   },
   {
     "title": "Inside Sales Medewerker",
@@ -1724,7 +2356,8 @@
     "signal_terms": [
       "prospectie",
       "plant afspraken"
-    ]
+    ],
+    "clf": 1
   },
   {
     "title": "Business Development Manager",
@@ -1751,7 +2384,8 @@
     ],
     "signal_terms": [
       "prospectie"
-    ]
+    ],
+    "clf": 1
   },
   {
     "title": "Enterprise Account Executive EMEA",
@@ -1774,7 +2408,8 @@
     "signal_terms": [
       "prospect",
       "outreach"
-    ]
+    ],
+    "clf": 1
   },
   {
     "title": "Interieurvormgever/ster kachels en haarden met commerciële flair",
@@ -1795,7 +2430,8 @@
       "email": "davy@kachelsvandenberge.be"
     },
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   {
     "title": "Acquisition & Churn Deciding what’s next for acquiring and retaining customers.",
@@ -1819,7 +2455,8 @@
     ],
     "signal_terms": [
       "lead generation"
-    ]
+    ],
+    "clf": 1
   },
   {
     "title": "Verkoper / Adviseur Zellik",
@@ -1841,7 +2478,8 @@
       "email": "jobs@tyles.be"
     },
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   {
     "title": "Vacature | Account Manager (regio West-Vlaanderen)",
@@ -1872,7 +2510,8 @@
       "prospectie",
       "hunter",
       "prospecten"
-    ]
+    ],
+    "clf": 1
   },
   {
     "title": "Vacature | Account Manager (Regio Limburg)",
@@ -1902,7 +2541,8 @@
       "prospectie",
       "hunter",
       "prospecten"
-    ]
+    ],
+    "clf": 1
   },
   {
     "title": "Vacature | Account Manager (Regio Antwerpen)",
@@ -1931,7 +2571,8 @@
       "prospectie",
       "hunter",
       "prospecten"
-    ]
+    ],
+    "clf": 1
   },
   {
     "title": "Account Manager – Oost-Vlaanderen",
@@ -1962,7 +2603,8 @@
       "prospectie",
       "hunter",
       "prospecten"
-    ]
+    ],
+    "clf": 1
   },
   {
     "title": "Inside Sales Engineer",
@@ -1984,7 +2626,8 @@
       "email": "jobs@vltechnics.com"
     },
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   {
     "title": "Verkoper",
@@ -2005,54 +2648,8 @@
       "email": "melissa@adremkeukens.be"
     },
     "signals": [],
-    "signal_terms": []
-  },
-  {
-    "title": "Commercieel medewerker",
-    "url": "https://www.vdk.be/nl/overzicht-vacatures/commercieel-medewerker",
-    "company": "vdk bank",
-    "source": "https://www.vdk.be/nl/particulieren/werken-bij-vdk-bank",
-    "first_seen": "2026-08-26",
-    "stack": [
-      "B2B",
-      "banking",
-      "Flanders",
-      "NL"
-    ],
-    "experience": null,
-    "in_belgium": true,
-    "contact": {
-      "name": "De Coninck Björn",
-      "email": null
-    },
-    "signals": [],
-    "signal_terms": []
-  },
-  {
-    "title": "Relatiebeheerder Oostende",
-    "url": "https://www.vdk.be/nl/overzicht-vacatures/relatiebeheerder-oostende",
-    "company": "vdk bank",
-    "source": "https://www.vdk.be/nl/particulieren/werken-bij-vdk-bank",
-    "first_seen": "2026-08-26",
-    "stack": [
-      "B2B",
-      "Banking",
-      "Flanders",
-      "NL/FR",
-      "farmer"
-    ],
-    "experience": "3+ yrs",
-    "in_belgium": true,
-    "contact": {
-      "name": "Deweirdt Nancy",
-      "email": null
-    },
-    "signals": [
-      "Je bouwt jouw netwerk uit, prospecteert en detecteert commerciële opportuniteiten."
-    ],
-    "signal_terms": [
-      "prospecteert"
-    ]
+    "signal_terms": [],
+    "clf": 1
   },
   {
     "title": "Commercieel medewerker cluster Waregem",
@@ -2073,7 +2670,8 @@
       "email": null
     },
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   {
     "title": "Commercieel regio medewerker Vlaanderen",
@@ -2095,7 +2693,8 @@
       "email": null
     },
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   {
     "title": "Commercieel regio medewerker Brussel/Wallonië",
@@ -2117,7 +2716,8 @@
       "email": null
     },
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   {
     "title": "Relatiebeheerder Turnhout",
@@ -2143,135 +2743,8 @@
     ],
     "signal_terms": [
       "prospecteert"
-    ]
-  },
-  {
-    "title": "Relatiebeheerder Leuven",
-    "url": "https://www.vdk.be/nl/overzicht-vacatures/relatiebeheerder-leuven",
-    "company": "vdk bank",
-    "source": "https://www.vdk.be/nl/particulieren/werken-bij-vdk-bank",
-    "first_seen": "2026-08-26",
-    "stack": [
-      "B2B",
-      "banking",
-      "NL",
-      "farmer"
     ],
-    "experience": "3+ yrs",
-    "in_belgium": true,
-    "contact": {
-      "name": "Deweirdt Nancy",
-      "email": null
-    },
-    "signals": [
-      "Je bouwt jouw netwerk uit, prospecteert en detecteert commerciële opportuniteiten."
-    ],
-    "signal_terms": [
-      "prospecteert"
-    ]
-  },
-  {
-    "title": "Relatiebeheerder cluster Drongen",
-    "url": "https://www.vdk.be/nl/overzicht-vacatures/relatiebeheerder-cluster-drongen",
-    "company": "vdk bank",
-    "source": "https://www.vdk.be/nl/particulieren/werken-bij-vdk-bank",
-    "first_seen": "2026-08-26",
-    "stack": [
-      "B2B",
-      "Banking",
-      "Farmer",
-      "NL/FR"
-    ],
-    "experience": "3+ yrs",
-    "in_belgium": true,
-    "contact": {
-      "name": "Deweirdt Nancy",
-      "email": null
-    },
-    "signals": [
-      "Je bouwt jouw netwerk uit, prospecteert en detecteert commerciële opportuniteiten."
-    ],
-    "signal_terms": [
-      "prospecteert"
-    ]
-  },
-  {
-    "title": "Relatiebeheerder Kantoor op afstand",
-    "url": "https://www.vdk.be/nl/overzicht-vacatures/relatiebeheerder-kantoor-op-afstand",
-    "company": "vdk bank",
-    "source": "https://www.vdk.be/nl/particulieren/werken-bij-vdk-bank",
-    "first_seen": "2026-08-26",
-    "stack": [
-      "B2B",
-      "Banking",
-      "NL",
-      "Farmer",
-      "Senior"
-    ],
-    "experience": "3+ yrs",
-    "in_belgium": true,
-    "contact": {
-      "name": "Deweirdt Nancy",
-      "email": null
-    },
-    "signals": [
-      "Je bouwt jouw netwerk uit, prospecteert en detecteert commerciële opportuniteiten."
-    ],
-    "signal_terms": [
-      "prospecteert"
-    ]
-  },
-  {
-    "title": "Relatiebeheerder Oostakker",
-    "url": "https://www.vdk.be/nl/overzicht-vacatures/relatiebeheerder-oostakker",
-    "company": "vdk bank",
-    "source": "https://www.vdk.be/nl/particulieren/werken-bij-vdk-bank",
-    "first_seen": "2026-08-26",
-    "stack": [
-      "B2B",
-      "Banking",
-      "NL",
-      "Farmer",
-      "Flanders"
-    ],
-    "experience": "3+ yrs",
-    "in_belgium": true,
-    "contact": {
-      "name": "Deweirdt Nancy",
-      "email": null
-    },
-    "signals": [
-      "Je bouwt jouw netwerk uit, prospecteert en detecteert commerciële opportuniteiten."
-    ],
-    "signal_terms": [
-      "prospecteert"
-    ]
-  },
-  {
-    "title": "Relatiebeheerder Hasselt",
-    "url": "https://www.vdk.be/nl/overzicht-vacatures/relatiebeheerder-hasselt",
-    "company": "vdk bank",
-    "source": "https://www.vdk.be/nl/particulieren/werken-bij-vdk-bank",
-    "first_seen": "2026-08-26",
-    "stack": [
-      "B2B",
-      "Banking",
-      "NL",
-      "Farmer",
-      "Flanders"
-    ],
-    "experience": "3+ yrs",
-    "in_belgium": true,
-    "contact": {
-      "name": "Deweirdt Nancy",
-      "email": null
-    },
-    "signals": [
-      "Je bouwt jouw netwerk uit, prospecteert en detecteert commerciële opportuniteiten."
-    ],
-    "signal_terms": [
-      "prospecteert"
-    ]
+    "clf": 1
   },
   {
     "title": "Relatiebeheerder Kortrijk",
@@ -2297,7 +2770,8 @@
     ],
     "signal_terms": [
       "prospecteert"
-    ]
+    ],
+    "clf": 1
   },
   {
     "title": "VELUX Commercial",
@@ -2313,7 +2787,8 @@
     "experience": null,
     "in_belgium": true,
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   {
     "title": "Freelance Sales Advisor",
@@ -2334,7 +2809,8 @@
       "email": "info@ensys.be"
     },
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   {
     "title": "Sales Advisor HVAC",
@@ -2357,7 +2833,8 @@
       "email": "info@ensys.be"
     },
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   {
     "title": "Sales Advisor Zonnepanelen",
@@ -2378,7 +2855,8 @@
       "email": "info@ensys.be"
     },
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   {
     "title": "Technical inside sales Koel- en vriescellen Creëer totaaloplossingen met een focus op koel- en vriescellen Meer info",
@@ -2399,30 +2877,8 @@
       "email": "info@frigro.be"
     },
     "signals": [],
-    "signal_terms": []
-  },
-  {
-    "title": "Technical inside sales Regeltechniek Sta klanten bij met slimme regeltechniek Meer info",
-    "url": "https://www.frigro.be/nl/vacatures/technical-inside-sales-regeltechniek/",
-    "company": "Frigro Services",
-    "source": "https://www.frigro.be/nl/vacatures/",
-    "first_seen": "2026-08-26",
-    "stack": [
-      "B2B",
-      "Industrial",
-      "Benelux",
-      "NL/FR/EN",
-      "Junior",
-      "Farmer"
-    ],
-    "experience": null,
-    "in_belgium": true,
-    "contact": {
-      "name": null,
-      "email": "info@frigro.be"
-    },
-    "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   {
     "title": "Sales Representative HVAC – regio Wallonië Sales representative HVAC",
@@ -2443,7 +2899,8 @@
       "email": "info@frigro.be"
     },
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   {
     "title": "Commercieel bediende",
@@ -2460,7 +2917,8 @@
     "experience": null,
     "in_belgium": true,
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   {
     "title": "2025/10/01 Vacature: Account Manager IT consultant GeoTracer zoekt : Account Manager IT Consultant",
@@ -2488,7 +2946,8 @@
     "signal_terms": [
       "leadgeneratie",
       "prospectie"
-    ]
+    ],
+    "clf": 1
   },
   {
     "title": "Commercieel Adviseur Ramen & Deuren",
@@ -2514,7 +2973,8 @@
     ],
     "signal_terms": [
       "prospecten"
-    ]
+    ],
+    "clf": 1
   },
   {
     "title": "Sales Account Manager Security Solutions B2B m/v/x",
@@ -2540,7 +3000,8 @@
     ],
     "signal_terms": [
       "prospecteren"
-    ]
+    ],
+    "clf": 1
   },
   {
     "title": "Confidentieel – Commercieel Directeur met operationele oriëntatie",
@@ -2562,7 +3023,8 @@
       "email": "patrick@interpres.be"
     },
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   {
     "title": "Commercieel adviseur | KwadrO Leuven",
@@ -2585,7 +3047,8 @@
       "email": "stefan.thomas@kwadro.be"
     },
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   {
     "title": "Commercieel adviseur | KwadrO Herentals",
@@ -2608,7 +3071,8 @@
       "email": "stefan.thomas@kwadro.be"
     },
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   {
     "title": "BUSINESS DEVELOPER",
@@ -2638,7 +3102,8 @@
       "prospecteren",
       "afspraken inplannen",
       "prospectie"
-    ]
+    ],
+    "clf": 1
   },
   {
     "title": "Verkopers gevelwerken",
@@ -2664,7 +3129,8 @@
     ],
     "signal_terms": [
       "prospectie"
-    ]
+    ],
+    "clf": 1
   },
   {
     "title": "Verkopers ramen en deuren",
@@ -2682,7 +3148,8 @@
     "experience": null,
     "in_belgium": true,
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   {
     "title": "Verkopers dakwerken",
@@ -2708,7 +3175,8 @@
     ],
     "signal_terms": [
       "prospectie"
-    ]
+    ],
+    "clf": 1
   },
   {
     "title": "Accountmanager met grafische achtergrond Fulltime",
@@ -2730,7 +3198,8 @@
       "email": "hi@mentall.be"
     },
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   {
     "title": "Technical Inside Sales | Regio Gent",
