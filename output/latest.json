@@ -1,5 +1,547 @@
 [
   {
+    "title": "Product Sales Engineer (Defense)",
+    "url": "https://scioteq.recruitee.com/o/product-sales-engineer-defense",
+    "company": "ScioTeq",
+    "source": "https://scioteq.recruitee.com/",
+    "first_seen": "2026-08-31",
+    "stack": [
+      "B2B",
+      "Defense",
+      "Flanders",
+      "EN/NL",
+      "senior"
+    ],
+    "experience": null,
+    "in_belgium": true,
+    "signals": [],
+    "signal_terms": []
+  },
+  {
+    "title": "Zelfstandig Directeur Bankagentschap",
+    "url": "https://www.stepstone.be/jobs--Zelfstandig-Directeur-Bankagentschap-Antwerpen-Beobank-Reseau-agents-independants-Zelfstandig-agenten-netwerk--2238720-inline.html",
+    "company": "t Soetekint - de Levensboom",
+    "source": "https://www.stepstone.be/jobs",
+    "first_seen": "2026-08-31",
+    "stack": [
+      "B2B",
+      "B2C",
+      "Financial Services",
+      "Franchise",
+      "Senior",
+      "Farmer"
+    ],
+    "experience": null,
+    "in_belgium": true,
+    "signals": [
+      "…KEN Stadsbader NV Antwerpen 1 day ago Senior Business Manager Sander Antwerpen Antwerpen 3 days ago New Business Developer Dixon Sales & Marketing Antwerpen 6 days ago Sales & Growth Specialist Intelect Berchem Antwerpen 4 days ago Directeu…"
+    ],
+    "signal_terms": [
+      "new business "
+    ]
+  },
+  {
+    "title": "Zelfstandig Directeur Bankagentschap",
+    "url": "https://www.stepstone.be/jobs--Zelfstandig-Directeur-Bankagentschap-Limburg-Beobank-Reseau-agents-independants-Zelfstandig-agenten-netwerk--2238718-inline.html",
+    "company": "t Soetekint - de Levensboom",
+    "source": "https://www.stepstone.be/jobs",
+    "first_seen": "2026-08-31",
+    "stack": [
+      "B2B",
+      "B2C",
+      "Banking",
+      "Benelux",
+      "NL/FR",
+      "Senior"
+    ],
+    "experience": null,
+    "in_belgium": true,
+    "signals": [],
+    "signal_terms": []
+  },
+  {
+    "title": "Junior Commercial Talent",
+    "url": "https://www.stepstone.be/jobs--Junior-Commercial-Talent-Willebroek-Beobank-Reseau-agents-independants-Zelfstandig-agenten-netwerk--2238663-inline.html",
+    "company": "t Soetekint - de Levensboom",
+    "source": "https://www.stepstone.be/jobs",
+    "first_seen": "2026-08-31",
+    "stack": [
+      "B2B",
+      "B2C",
+      "Banking",
+      "Insurance",
+      "junior",
+      "farmer"
+    ],
+    "experience": null,
+    "in_belgium": true,
+    "signals": [],
+    "signal_terms": []
+  },
+  {
+    "title": "Lijnverantwoordelijke/teamleader (Gasbottling nv)",
+    "url": "https://www.antargaz.be/nl/particulieren/vacature-lijnverantwoordelijke-teamleader-gasbottling-nv",
+    "company": "ANTARGAZ BELGIUM",
+    "source": "https://www.antargaz.be/nl/particulieren/werken-bij-antargaz",
+    "first_seen": "2026-08-31",
+    "stack": [
+      "B2B",
+      "industrial",
+      "Flanders",
+      "NL/EN/FR",
+      "senior"
+    ],
+    "experience": null,
+    "in_belgium": true,
+    "contact": {
+      "name": "Wim Willems",
+      "email": "wim.willems@gasbottling.be"
+    },
+    "signals": [],
+    "signal_terms": []
+  },
+  {
+    "title": "SolarToday Verkoop Adviseur Binnendienst Beernem (België) Fulltime (40 uur)",
+    "url": "https://solarmagazine.nl/vacatures/i44495/verkoop-adviseur-binnendienst",
+    "company": "7c Solarparken",
+    "source": "https://solarmagazine.nl/vacatures",
+    "first_seen": "2026-08-31",
+    "stack": [
+      "B2B",
+      "renewable energy",
+      "Flanders",
+      "NL/FR/EN",
+      "farmer"
+    ],
+    "experience": null,
+    "in_belgium": true,
+    "contact": {
+      "name": "A. van der Kloot",
+      "email": "a.vanderkloot@solartoday.nl"
+    },
+    "signals": [],
+    "signal_terms": []
+  },
+  {
+    "title": "CommerciÃ«le Redacteur/ Accountmanager",
+    "url": "https://www.freshpublishers.com/vacature/31/Commerciele-Redacteur-Accountmanager",
+    "company": "ADW Fresh Trade",
+    "source": "https://www.freshpublishers.com/p/2/Vacatures",
+    "first_seen": "2026-08-31",
+    "stack": [
+      "B2B",
+      "FMCG",
+      "hunter",
+      "farmer",
+      "NL"
+    ],
+    "experience": null,
+    "in_belgium": true,
+    "contact": {
+      "name": null,
+      "email": "info@freshpublishers.com"
+    },
+    "signals": [],
+    "signal_terms": []
+  },
+  {
+    "title": "Assistent winkelmanager (M/V/X)",
+    "url": "https://www.creamoda.be/nl/jobs/item/assistent-winkelmanager",
+    "company": "AMERICAN CLOTHING DISTRIBUTION",
+    "source": "https://www.creamoda.be/nl/jobs",
+    "first_seen": "2026-08-31",
+    "stack": [
+      "B2C",
+      "Retail",
+      "Fashion",
+      "Belgium"
+    ],
+    "experience": null,
+    "in_belgium": true,
+    "contact": {
+      "name": null,
+      "email": "job.be@bellerose.be"
+    },
+    "signals": [],
+    "signal_terms": []
+  },
+  {
+    "title": "Administratief Medewerker – Commerciële Binnendienst",
+    "url": "https://www.vansteenberge.com/vacature/administratief-medewerker-commerciele-binnendienst/",
+    "company": "BROUWERIJ VAN STEENBERGE",
+    "source": "https://www.vansteenberge.com/jobs/",
+    "first_seen": "2026-08-31",
+    "stack": [
+      "FMCG",
+      "B2B",
+      "Flanders",
+      "NL/FR/EN",
+      "farmer"
+    ],
+    "experience": "3+ yrs",
+    "in_belgium": true,
+    "contact": {
+      "name": "Theresa",
+      "email": "theresa@vansteenberge.com"
+    },
+    "signals": [],
+    "signal_terms": []
+  },
+  {
+    "title": "Drankadviseur / Verkoopsmedewerker",
+    "url": "https://www.drankenshop.be/vacature-job-drankadviseur-juli-2020/",
+    "company": "DRANKENSHOP BROEKMANS",
+    "source": "https://www.drankenshop.be/werken-bij-broekmans/",
+    "first_seen": "2026-08-31",
+    "stack": [
+      "B2C",
+      "FMCG",
+      "Flanders",
+      "farmer"
+    ],
+    "experience": null,
+    "in_belgium": true,
+    "contact": {
+      "name": "Ann Mechelmans",
+      "email": "ann@drankenshop.be"
+    },
+    "signals": [],
+    "signal_terms": []
+  },
+  {
+    "title": "Distributiemanager",
+    "url": "https://www.deli-home.com/nl/vacature/distributiemanager/",
+    "company": "Deli Home Belgium",
+    "source": "https://www.deli-home.com/nl/vacatures/",
+    "first_seen": "2026-08-31",
+    "stack": [
+      "B2B",
+      "logistics",
+      "Benelux",
+      "NL/FR",
+      "senior",
+      "farmer"
+    ],
+    "experience": null,
+    "in_belgium": null,
+    "signals": [],
+    "signal_terms": []
+  },
+  {
+    "title": "Medewerker Verkoop Binnendienst",
+    "url": "https://www.deli-home.com/nl/vacature/medewerker-verkoop-binnendienst/",
+    "company": "Deli Home Belgium",
+    "source": "https://www.deli-home.com/nl/vacatures/",
+    "first_seen": "2026-08-31",
+    "stack": [
+      "B2B",
+      "inside sales",
+      "Flanders",
+      "NL/FR"
+    ],
+    "experience": null,
+    "in_belgium": null,
+    "signals": [],
+    "signal_terms": []
+  },
+  {
+    "title": "Commercial, Marketing & Sales",
+    "url": "https://careers.grunenthal.com/go/Commercial%2C-Marketing-&-Sales/4704701/",
+    "company": "GRUNENTHAL",
+    "source": "https://careers.grunenthal.com/?locale=en_GB",
+    "first_seen": "2026-08-31",
+    "stack": [
+      "B2B",
+      "pharma",
+      "EMEA",
+      "hunter"
+    ],
+    "experience": null,
+    "in_belgium": null,
+    "signals": [],
+    "signal_terms": []
+  },
+  {
+    "title": "Technisch Vertegenwoordiger Las- en Werkplaatsmaterialen",
+    "url": "https://www.lasservice.be/vacature-technisch-vertegenwoordiger",
+    "company": "LAS - SERVICE",
+    "source": "https://www.lasservice.be/vacancies",
+    "first_seen": "2026-08-31",
+    "stack": [],
+    "experience": null,
+    "in_belgium": null,
+    "signals": [],
+    "signal_terms": []
+  },
+  {
+    "title": "Vacature Private Banker",
+    "url": "https://www.merciervanlanschot.be/nl-be/werken-bij-mercier-van-lanschot/vacature-private-banker",
+    "company": "MercLan",
+    "source": "https://www.merciervanlanschot.be/nl-be/werken-bij-mercier-van-lanschot/vacature-accountant",
+    "first_seen": "2026-08-31",
+    "stack": [
+      "B2B",
+      "Private Banking",
+      "Benelux",
+      "NL/FR",
+      "senior",
+      "farmer"
+    ],
+    "experience": "15+ yrs",
+    "in_belgium": null,
+    "signals": [],
+    "signal_terms": []
+  },
+  {
+    "title": "Sales Engineer West-Vlaanderen (personenwagen voor privégebruik)",
+    "url": "https://www.jobsonline.be/vacature/sales-engineer-west-vlaanderen-personenwagen-voor-privegebruik--diksmuide/",
+    "company": "NAVIGLOBE",
+    "source": "https://www.jobsonline.be/vacatures",
+    "first_seen": "2026-08-31",
+    "stack": [
+      "B2B",
+      "Industrial",
+      "NL/EN",
+      "Senior",
+      "Farmer"
+    ],
+    "experience": "3+ yrs",
+    "in_belgium": true,
+    "contact": {
+      "name": "Quentin Suys",
+      "email": "quentin.suys@apexcareers.be"
+    },
+    "signals": [
+      "Je bent verantwoordelijk voor prospectie, technisch advies en projectopvolging, en denkt actief mee over hoe klanten hun procesinstallaties efficiënter, veiliger en duurzamer kunnen maken."
+    ],
+    "signal_terms": [
+      "prospectie"
+    ]
+  },
+  {
+    "title": "Sales Engineer West-Vlaanderen (tot €70.000 per jaar)",
+    "url": "https://www.jobsonline.be/vacature/sales-engineer-west-vlaanderen-tot-yy70-000-per-jaar--kortrijk/",
+    "company": "NAVIGLOBE",
+    "source": "https://www.jobsonline.be/vacatures",
+    "first_seen": "2026-08-31",
+    "stack": [
+      "B2B",
+      "Industrial",
+      "Belgium",
+      "NL/EN",
+      "Senior",
+      "Hunter"
+    ],
+    "experience": "3+ yrs",
+    "in_belgium": true,
+    "contact": {
+      "name": "Quentin Suys",
+      "email": "quentin.suys@apexcareers.be"
+    },
+    "signals": [
+      "Je bent verantwoordelijk voor prospectie, technisch advies en projectopvolging, en denkt actief mee over hoe klanten hun procesinstallaties efficiënter, veiliger en duurzamer kunnen maken."
+    ],
+    "signal_terms": [
+      "prospectie"
+    ]
+  },
+  {
+    "title": "Sales Engineer West-Vlaanderen",
+    "url": "https://www.jobsonline.be/vacature/sales-engineer-west-vlaanderen-brugge/",
+    "company": "NAVIGLOBE",
+    "source": "https://www.jobsonline.be/vacatures",
+    "first_seen": "2026-08-31",
+    "stack": [
+      "B2B",
+      "industrial",
+      "Flanders",
+      "NL/EN",
+      "senior",
+      "hunter"
+    ],
+    "experience": "3+ yrs",
+    "in_belgium": true,
+    "contact": {
+      "name": "Quentin Suys",
+      "email": "quentin.suys@apexcareers.be"
+    },
+    "signals": [
+      "Je bent verantwoordelijk voor prospectie, technisch advies en projectopvolging, en denkt actief mee over hoe klanten hun procesinstallaties efficiënter, veiliger en duurzamer kunnen maken."
+    ],
+    "signal_terms": [
+      "prospectie"
+    ]
+  },
+  {
+    "title": "Internal Sales medewerker",
+    "url": "https://www.jobsonline.be/vacature/internal-sales-medewerker-gent/",
+    "company": "NAVIGLOBE",
+    "source": "https://www.jobsonline.be/vacatures",
+    "first_seen": "2026-08-31",
+    "stack": [
+      "B2B",
+      "Handel/Groothandel",
+      "Flanders",
+      "NL/FR",
+      "farmer"
+    ],
+    "experience": null,
+    "in_belgium": true,
+    "contact": {
+      "name": null,
+      "email": "sollicitaties@edconsult.be"
+    },
+    "signals": [],
+    "signal_terms": []
+  },
+  {
+    "title": "Acquisitie Projectgronden (freelance mogelijk)",
+    "url": "https://www.jobsonline.be/vacature/acquisitie-projectgronden-freelance-mogelijk--duffel/",
+    "company": "NAVIGLOBE",
+    "source": "https://www.jobsonline.be/vacatures",
+    "first_seen": "2026-08-31",
+    "stack": [
+      "B2B",
+      "Real Estate",
+      "Flanders",
+      "NL",
+      "Senior",
+      "Hunter"
+    ],
+    "experience": "10+ yrs",
+    "in_belgium": true,
+    "contact": {
+      "name": null,
+      "email": "info@edconsult.be"
+    },
+    "signals": [
+      "Vacature Acquisitie Projectgronden (freelance mogelijk) bij EdConsult in Duffel Zoek vacatures Bekijk bedrijven Plaats gratis je cv Inloggen Voor werkgevers Jobsonline Vacatures Vacature Acquisitie Projectgronden (freelance mogelijk) Sollic…"
+    ],
+    "signal_terms": [
+      "acquisitie"
+    ]
+  },
+  {
+    "title": "Inside Sales Representative (gas handling equipment)",
+    "url": "https://star-specialists.com/job/inside-sales-representative-gas-handling-equipment/",
+    "company": "S.T.A.R",
+    "source": "https://star-specialists.com/jobs/",
+    "first_seen": "2026-08-31",
+    "stack": [
+      "B2B",
+      "Industrial",
+      "Benelux",
+      "NL/EN/FR",
+      "Junior",
+      "Hunter"
+    ],
+    "experience": "0-3 yrs",
+    "in_belgium": true,
+    "contact": {
+      "name": "Stephanie",
+      "email": "s.depeuter@star-specialists.com"
+    },
+    "signals": [
+      "…“extra mile” to meet sales quota and facilitate future sales Performs basic calculations to provide prospects and customers with accurate prices and quotes Take initiative by informing regular customers of new products or services and price…",
+      "…years work experience) 0-3 years professional experience within a fast paced sales, inside sales or telesales environment (for technical products) Success in creating/chasing cold and warm leads Understanding customer needs and requirements…"
+    ],
+    "signal_terms": [
+      "prospects",
+      "telesales"
+    ]
+  },
+  {
+    "title": "verkoper beenhouwerij - hamme",
+    "url": "https://www.randstad.be:443/werknemers/jobs/verkoper-beenhouwerij-hamme_beringen_f95baa88-0c7d-4557-b5a6-3490c6904647/",
+    "company": "RANDSTAD HR SOLUTIONS",
+    "source": "https://www.randstad.be:443/werknemers/jobs/",
+    "first_seen": "2026-08-31",
+    "stack": [
+      "FMCG",
+      "B2C",
+      "Flanders",
+      "NL",
+      "junior",
+      "farmer"
+    ],
+    "experience": null,
+    "in_belgium": true,
+    "contact": {
+      "name": null,
+      "email": "industry.tessenderlo@randstad.be"
+    },
+    "signals": [],
+    "signal_terms": []
+  },
+  {
+    "title": "flexi-job cold calling",
+    "url": "https://www.randstad.be:443/werknemers/jobs/flexi-job-cold-calling_antwerpen_0f4ae1a3-9228-4cbd-b17b-eba2119dcae8/",
+    "company": "RANDSTAD HR SOLUTIONS",
+    "source": "https://www.randstad.be:443/werknemers/jobs/",
+    "first_seen": "2026-08-31",
+    "stack": [
+      "B2B",
+      "industrial",
+      "hunter",
+      "NL/FR"
+    ],
+    "experience": null,
+    "in_belgium": true,
+    "signals": [
+      "vacature voor Flexi-job cold calling in Antwerpen, Antwerpen | Randstad kantoren NL FR EN randstad een job zoeken alle jobs flexijob studentenjob studiegerelateerde job tijdelijke jobs tijdelijke jobs optie vast vast contract jobs per stad…",
+      "jobdetails Een bedrijf gespecialiseerd in industriële deuren te Wilrijk, is op zoek naar een medewerker voor cold calling.",
+      "Een bedrijf gespecialiseerd in industriële deuren te Wilrijk, is op zoek naar een medewerker voor cold calling.",
+      "Je maakt en plant afspraken in en wordt begeleid door de commerciële dienst."
+    ],
+    "signal_terms": [
+      "cold calling",
+      "plant afspraken"
+    ]
+  },
+  {
+    "title": "Fitness Interne Verkoop — Fitness-divisie Locatie: HQ Wevelgem · Voltijds · 1 positie Bekijk functie",
+    "url": "https://www.valckegroup.com/nl/vacancy-is-fit",
+    "company": "VALCKE GROUP",
+    "source": "https://www.valckegroup.com/nl/jobs",
+    "first_seen": "2026-08-31",
+    "stack": [
+      "B2B",
+      "fitness",
+      "Flanders",
+      "NL/FR/EN",
+      "farmer"
+    ],
+    "experience": null,
+    "in_belgium": true,
+    "contact": {
+      "name": null,
+      "email": "info@valckegroup.com"
+    },
+    "signals": [],
+    "signal_terms": []
+  },
+  {
+    "title": "Verkoopmedewerker fashionboetiek",
+    "url": "https://fiftyfiveplus.be/vacatures/verkoopmedewerker-fashionboetiek-publications-9000-c",
+    "company": "FIFTY",
+    "source": "https://fiftyfiveplus.be/vacatures",
+    "first_seen": "2026-08-31",
+    "stack": [
+      "B2C",
+      "retail",
+      "fashion",
+      "Flanders"
+    ],
+    "experience": null,
+    "in_belgium": true,
+    "contact": {
+      "name": "Amber Vangerven",
+      "email": "amber.vangerven@mail.fiftyfiveplus.be"
+    },
+    "signals": [],
+    "signal_terms": []
+  },
+  {
     "title": "Customer Onboarding Manager (BE) Customer Success · Belgium · Hybrid",
     "url": "https://careers.qargo.com/jobs/7986950-customer-onboarding-manager-be",
     "company": "Qargo",
@@ -6493,7 +7035,8 @@
     ],
     "signal_terms": [
       "prospects"
-    ]
+    ],
+    "clf": 1
   },
   {
     "title": "Alle vacatures Full Time Vacature Accountmanager",
@@ -6515,28 +7058,8 @@
     ],
     "signal_terms": [
       "prospectie"
-    ]
-  },
-  {
-    "title": "Drankadviseur / Verkoopsmedewerker",
-    "url": "https://www.drankenshop.be/vacature-job-drankadviseur-juli-2020/",
-    "company": "DRANKENSHOP BROEKMANS",
-    "source": "https://www.drankenshop.be/werken-bij-broekmans/",
-    "first_seen": "2026-08-26",
-    "stack": [
-      "B2C",
-      "FMCG",
-      "Flanders",
-      "farmer"
     ],
-    "experience": null,
-    "in_belgium": true,
-    "contact": {
-      "name": "Ann Mechelmans",
-      "email": "ann@drankenshop.be"
-    },
-    "signals": [],
-    "signal_terms": []
+    "clf": 1
   },
   {
     "title": "International Sales Manager - Damaco Foods Belgium",
@@ -6564,7 +7087,8 @@
     ],
     "signal_terms": [
       "new business "
-    ]
+    ],
+    "clf": 1
   },
   {
     "title": "Technical Sales Vertegenwoordiger – Industriële afzuigsystemen (Oost- en West- Vlaanderen)",
@@ -6591,7 +7115,8 @@
     ],
     "signal_terms": [
       "prospecteren"
-    ]
+    ],
+    "clf": 1
   },
   {
     "title": "Commercieel adviseur varkenshouderij",
@@ -6612,7 +7137,8 @@
     ],
     "signal_terms": [
       "prospectie"
-    ]
+    ],
+    "clf": 1
   },
   {
     "title": "Key Account Manager Industrie – België & Export",
@@ -6630,7 +7156,8 @@
     "experience": "several years",
     "in_belgium": true,
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   {
     "title": "Michel - Accountmanager field sales",
@@ -6651,7 +7178,8 @@
       "email": "hr@deltawines.eu"
     },
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   {
     "title": "Commercieel Medewerker -Â Aalst",
@@ -6672,7 +7200,8 @@
       "email": "kenny.arys@dvv.be"
     },
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   {
     "title": "Commercieel Medewerker - Aartselaar - Hoboken - Niel - Wilrijk",
@@ -6697,7 +7226,8 @@
     ],
     "signal_terms": [
       "prospectie"
-    ]
+    ],
+    "clf": 1
   },
   {
     "title": "West-Vlaanderen vertegenwoordiger West-Vlaanderen West-Vlaanderen",
@@ -6719,7 +7249,8 @@
       "email": null
     },
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   {
     "title": "Commercieel-Administratief Medewerker - Bellegem",
@@ -6740,7 +7271,8 @@
       "email": "peter.dekimpe@dvv.be"
     },
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   {
     "title": "Verzekeringsadviseur - Particulieren & Ondernemers - Bocholt-Bree-Hamont",
@@ -6762,7 +7294,8 @@
       "email": "michelle.baeten@dvv.be"
     },
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   {
     "title": "Wijnegem commerciële medewerker binnendienst Wijnegem Wijnegem",
@@ -6779,7 +7312,8 @@
     "experience": null,
     "in_belgium": true,
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   {
     "title": "Commercieel Medewerker - Brasschaat",
@@ -6803,7 +7337,8 @@
     ],
     "signal_terms": [
       "prospecten"
-    ]
+    ],
+    "clf": 1
   },
   {
     "title": "Commercieel Medewerker - Duffel",
@@ -6824,7 +7359,8 @@
       "email": "bart.pauwels@dvv.be"
     },
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   {
     "title": "Verkoopadviseur IT & multimedia (Regio Torhout)",
@@ -6845,7 +7381,8 @@
       "email": "info@taelmanhome.be"
     },
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   {
     "title": "Sales Advisor Verzekeringen - Gullegem",
@@ -6863,7 +7400,8 @@
     "experience": null,
     "in_belgium": true,
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   {
     "title": "Account Manager",
@@ -6882,7 +7420,8 @@
       "email": "info@pnvgroup.be"
     },
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   {
     "title": "Commercieel Medewerker - Heusden - Destelbergen - Wachtebeke",
@@ -6903,7 +7442,8 @@
       "email": "dieter.de.rocker@dvv.be"
     },
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   {
     "title": "Flexijob verkoper huishoudelektro en cookware in Hove (m/v/x)",
@@ -6924,7 +7464,8 @@
       "email": "vacatures@elektromic.be"
     },
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   {
     "title": "E&I Installation & KAM Manager",
@@ -6944,7 +7485,8 @@
       "email": "info@pnvgroup.be"
     },
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   {
     "title": "Business Insurance Specialist - Hoogstraten",
@@ -6966,7 +7508,8 @@
       "email": "niels@dvv.be"
     },
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   {
     "title": "Flexijob verkoper TV en huishoudelektro in Lier (m/v/x)",
@@ -6988,7 +7531,8 @@
       "email": "vacatures@elektromic.be"
     },
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   {
     "title": "Commercieel Medewerker - Londerzeel - Kapelle-op-den-Bos - Wolvertem - Merchtem - Opwijk",
@@ -7009,7 +7553,8 @@
       "email": "evy.maebe@dvv.be"
     },
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   {
     "title": "Sales consultant premium huishoud- en inbouwkeukenelektro (m/v/x)",
@@ -7031,7 +7576,8 @@
       "email": "vacatures@elektromic.be"
     },
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   {
     "title": "Accountmanager bodemonderzoek",
@@ -7052,7 +7598,8 @@
       "email": "hr@envirosoil.be"
     },
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   {
     "title": "Business Developer ‍ Je luistert naar onze bestaande en toekomstige klanten en biedt hen een passende oplossing.",
@@ -7067,7 +7614,8 @@
     "experience": null,
     "in_belgium": null,
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   {
     "title": "Accountmanager - Mechelen - Bonheiden - Schriek",
@@ -7091,7 +7639,8 @@
     ],
     "signal_terms": [
       "prospectie"
-    ]
+    ],
+    "clf": 1
   },
   {
     "title": "Commercieel Medewerker - Mechelen - Bonheiden - Schriek",
@@ -7116,7 +7665,8 @@
     ],
     "signal_terms": [
       "prospectie"
-    ]
+    ],
+    "clf": 1
   },
   {
     "title": "Sales Executive - Namur Expo Sales · Namur Expo · Hybride",
@@ -7137,7 +7687,8 @@
     ],
     "signal_terms": [
       "prospection"
-    ]
+    ],
+    "clf": 1
   },
   {
     "title": "Commercieel Medewerker - Ninove Denderleeuw",
@@ -7160,7 +7711,8 @@
       "email": "francoise.van.der.wijk@dvv.be"
     },
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   {
     "title": "Business Development & Startup Manager - Functional & Sustainable Packaging Solutions",
@@ -7183,7 +7735,8 @@
       "email": "info@eocgroup.com"
     },
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   {
     "title": "Flying Sales Executive Sales · Flanders Expo · Hybride",
@@ -7206,7 +7759,8 @@
     "signal_terms": [
       "prospects",
       "prospectie"
-    ]
+    ],
+    "clf": 1
   },
   {
     "title": "Commercieel Medewerker - Ooigem - Tielt",
@@ -7224,7 +7778,8 @@
     "experience": null,
     "in_belgium": true,
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   {
     "title": "Commercieel MedewerkerÂ -Â Oudenaarde",
@@ -7245,7 +7800,8 @@
       "email": "stijn.vandekerckhove1@dvv.be"
     },
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   {
     "title": "CommerciÃ«le duizendpoot met interesse voor verzekeringen - Rijkevorsel",
@@ -7271,7 +7827,8 @@
     ],
     "signal_terms": [
       "prospectie"
-    ]
+    ],
+    "clf": 1
   },
   {
     "title": "Commercieel-Administratief Medewerker - Tienen - Aarschot",
@@ -7297,7 +7854,8 @@
     ],
     "signal_terms": [
       "prospectie"
-    ]
+    ],
+    "clf": 1
   },
   {
     "title": "Verkoop en Klantenservice",
@@ -7309,7 +7867,8 @@
     "experience": null,
     "in_belgium": null,
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   {
     "title": "Commercieel Adviseur - Waregem",
@@ -7331,7 +7890,8 @@
       "email": "stefaan.verheecke@dvv.be"
     },
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   {
     "title": "Commercieel Medewerker - Wuustwezel",
@@ -7357,7 +7917,8 @@
     ],
     "signal_terms": [
       "prospectie"
-    ]
+    ],
+    "clf": 1
   },
   {
     "title": "Vertegenwoordiger landbouw regio Kempen",
@@ -7380,7 +7941,8 @@
       "email": "jobs@luc-pauwels.be"
     },
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   {
     "title": "Sales Engineer – Global Water & Energy",
@@ -7403,7 +7965,8 @@
       "email": "hr@ekopakwater.com"
     },
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   {
     "title": "Business Development Manager met hands-on mindset",
@@ -7432,7 +7995,8 @@
       "lead generation",
       "prospectie",
       "cold calling"
-    ]
+    ],
+    "clf": 1
   },
   {
     "title": "Sales account manager sales",
@@ -7454,7 +8018,8 @@
       "email": "jobs@eribel.com"
     },
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   {
     "title": "Account Manager | Engi Talents",
@@ -7479,7 +8044,8 @@
     ],
     "signal_terms": [
       "prospectie"
-    ]
+    ],
+    "clf": 1
   },
   {
     "title": "Flexibel office Sales Executive",
@@ -7506,7 +8072,8 @@
     ],
     "signal_terms": [
       "prospectie"
-    ]
+    ],
+    "clf": 1
   },
   {
     "title": "Account Manager | Technical Talents",
@@ -7532,7 +8099,8 @@
     ],
     "signal_terms": [
       "prospectie"
-    ]
+    ],
+    "clf": 1
   },
   {
     "title": "Account Manager | Supply Chain Talents",
@@ -7558,7 +8126,8 @@
     ],
     "signal_terms": [
       "prospectie"
-    ]
+    ],
+    "clf": 1
   },
   {
     "title": "Junior Sales Executive",
@@ -7580,7 +8149,8 @@
       "email": "info@fashionclub70.be"
     },
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   {
     "title": "Account Manager | Supply Chain Talents",
@@ -7606,7 +8176,8 @@
     ],
     "signal_terms": [
       "prospectie"
-    ]
+    ],
+    "clf": 1
   },
   {
     "title": "Account Lead | Sales Talents",
@@ -7634,7 +8205,8 @@
     ],
     "signal_terms": [
       "prospectie"
-    ]
+    ],
+    "clf": 1
   },
   {
     "title": "Accountmanager Project Staffing | Food Talents",
@@ -7657,7 +8229,8 @@
       "email": "info@houseoftalents.be"
     },
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   {
     "title": "Internal Sales Medewerker",
@@ -7679,7 +8252,8 @@
       "email": "jobs@dejaeghere.com"
     },
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   {
     "title": "ACCOUNTMANAGER WEST- & OOST-VLAANDEREN",
@@ -7706,7 +8280,8 @@
     ],
     "signal_terms": [
       "prospecteert"
-    ]
+    ],
+    "clf": 1
   },
   {
     "title": "Junior Associate (M/F) – Commercial Practice Junior Associate Full Time FLINN Head Office More Details",
@@ -7726,7 +8301,8 @@
       "email": "joinus@flinn.law"
     },
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   {
     "title": "Sales Manager, Local or International Markets Discover job",
@@ -7753,7 +8329,8 @@
     "signal_terms": [
       "prospect",
       "prospecting"
-    ]
+    ],
+    "clf": 1
   },
   {
     "title": "Sales Advisor",
@@ -7774,7 +8351,8 @@
       "email": "sales@garwig.be"
     },
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   {
     "title": "Account Manager",
@@ -7789,7 +8367,8 @@
     "experience": null,
     "in_belgium": null,
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   {
     "title": "Internal Sales Advisor Vichte , België",
@@ -7811,7 +8390,8 @@
       "email": "jobs@galico.be"
     },
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   {
     "title": "Sales Consultants",
@@ -7835,7 +8415,8 @@
     ],
     "signal_terms": [
       "telesales"
-    ]
+    ],
+    "clf": 1
   },
   {
     "title": "Internal Sales Medewerker (m/v/x)",
@@ -7856,7 +8437,8 @@
       "email": "sales@groupnivelles.com"
     },
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   {
     "title": "Internal Sales",
@@ -7878,7 +8460,8 @@
       "email": "info@handimove.com"
     },
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   {
     "title": "Pre-Sales Engineer Sales & marketing · Ghent HQ · Hybrid",
@@ -7907,7 +8490,8 @@
     "signal_terms": [
       "prospect",
       "prospects"
-    ]
+    ],
+    "clf": 1
   },
   {
     "title": "Sales & Marketing Manager Claas Regio : Fernelmont Meer detail",
@@ -7930,7 +8514,8 @@
       "email": "info@vanderhaeghe.be"
     },
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   {
     "title": "Account Manager Binnendeuren regio Oost",
@@ -7957,7 +8542,8 @@
     ],
     "signal_terms": [
       "hunter"
-    ]
+    ],
+    "clf": 1
   },
   {
     "title": "Technisch Commercieel Bediende Industrie",
@@ -7979,7 +8565,8 @@
       "email": "hr.ton@hormann.be"
     },
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   {
     "title": "Vertegenwoordiger oost- en West Vlaanderen",
@@ -7997,7 +8584,8 @@
     "experience": null,
     "in_belgium": true,
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   {
     "title": "Vertegenwoordiger (2) regio Oost- en West-Vlaanderen",
@@ -8015,7 +8603,8 @@
     "experience": null,
     "in_belgium": true,
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   {
     "title": "Technical Sales Engineer",
@@ -8036,7 +8625,8 @@
       "email": "info@inkonox.be"
     },
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   {
     "title": "Global Key Account Manager (m/w/d)",
@@ -8059,7 +8649,8 @@
       "email": null
     },
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   {
     "title": "Key Account Sales Manager",
@@ -8085,7 +8676,8 @@
     ],
     "signal_terms": [
       "prospectie"
-    ]
+    ],
+    "clf": 1
   },
   {
     "title": "Sales Advisor Landbouw/Groenteteelten regio Zuidwest-Vlaanderen (Voltijds)",
@@ -8103,7 +8695,8 @@
     "experience": null,
     "in_belgium": true,
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   {
     "title": "Accountmanager",
@@ -8127,7 +8720,8 @@
     "signal_terms": [
       "afspraken plannen",
       "prospectie"
-    ]
+    ],
+    "clf": 1
   },
   {
     "title": "Sales Advisor (Glas)Tuinbouw (Hoogstraten/regio Kempen)(Voltijds)",
@@ -8156,7 +8750,8 @@
     "signal_terms": [
       "prospecteert",
       "prospecten"
-    ]
+    ],
+    "clf": 1
   },
   {
     "title": "Commercieel bediende",
@@ -8171,7 +8766,8 @@
     "experience": null,
     "in_belgium": true,
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   {
     "title": "Business Developer België",
@@ -8202,7 +8798,8 @@
       "acquisitie",
       "koude acquisitie",
       "prospects"
-    ]
+    ],
+    "clf": 1
   },
   {
     "title": "Sales engineer Ben jij klaar om jouw technische en commerciële talenten in te zetten bij Intocon? ...",
@@ -8225,7 +8822,8 @@
       "email": "info@intocon.be"
     },
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   {
     "title": "Verkoper",
@@ -8240,7 +8838,8 @@
     "experience": null,
     "in_belgium": true,
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   {
     "title": "Business Developer",
@@ -8258,7 +8857,8 @@
     "experience": null,
     "in_belgium": true,
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   {
     "title": "Go-to-Market Specialist Belgium · Hybrid",
@@ -8281,7 +8881,8 @@
     ],
     "signal_terms": [
       "prospects"
-    ]
+    ],
+    "clf": 1
   },
   {
     "title": "Technisch commercieel bediende bouwmaterialen (m/v/x)",
@@ -8301,7 +8902,8 @@
       "email": "flo@josjanssens.be"
     },
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   {
     "title": "Sales & Project Officer",
@@ -8318,7 +8920,8 @@
     "experience": null,
     "in_belgium": true,
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   {
     "title": "International Business Development Manager",
@@ -8341,7 +8944,8 @@
     ],
     "signal_terms": [
       "huntermentaliteit"
-    ]
+    ],
+    "clf": 1
   },
   {
     "title": "Business Development Specialist fulltime Hybride (Oevel) Bediende Dagwerk",
@@ -8364,7 +8968,8 @@
       "email": "elise.beyens@kaneka.be"
     },
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   {
     "title": "Export Manager Modulaire Wandsystemen & Cleanroomoplossingen",
@@ -8387,7 +8992,8 @@
       "email": null
     },
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   {
     "title": "Sales Engineer HVAC",
@@ -8406,7 +9012,8 @@
     "experience": null,
     "in_belgium": true,
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   {
     "title": "Commercieel/technisch verantwoordelijke",
@@ -8429,7 +9036,8 @@
       "email": "johan.geraerts@lvrelectronics.be"
     },
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   {
     "title": "Technical Sales",
@@ -8446,7 +9054,8 @@
     "experience": null,
     "in_belgium": true,
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   {
     "title": "Business Developer Wallonië/Frankrijk",
@@ -8472,7 +9081,8 @@
     ],
     "signal_terms": [
       "acquisitie"
-    ]
+    ],
+    "clf": 1
   },
   {
     "title": "Technisch verkoopmedewerker las- en werkplaatsmaterialen (Toonbank)",
@@ -8498,7 +9108,8 @@
     ],
     "signal_terms": [
       "telefonisch contact"
-    ]
+    ],
+    "clf": 1
   },
   {
     "title": "Business Developer Vlaanderen/Nederland",
@@ -8524,35 +9135,8 @@
     ],
     "signal_terms": [
       "acquisitie"
-    ]
-  },
-  {
-    "title": "Technisch Vertegenwoordiger Las- en Werkplaatsmaterialen",
-    "url": "https://www.lasservice.be/vacature-technisch-vertegenwoordiger",
-    "company": "LAS - SERVICE",
-    "source": "https://www.lasservice.be/vacancies",
-    "first_seen": "2026-08-26",
-    "stack": [
-      "B2B",
-      "industrial",
-      "hunter",
-      "NL/EN",
-      "senior"
     ],
-    "experience": null,
-    "in_belgium": true,
-    "contact": {
-      "name": null,
-      "email": "tom.greant@lasservice.be"
-    },
-    "signals": [
-      "Je prospecteert actief naar nieuwe klanten binnen sectoren zoals industrie, metaalverwerking, chemie en recyclage",
-      "Stuur je CV naar tom.greant@lasservice.be of neem telefonisch contact op via 0497 65 02 81."
-    ],
-    "signal_terms": [
-      "prospecteert",
-      "telefonisch contact"
-    ]
+    "clf": 1
   },
   {
     "title": "Vacature Accountmanager Vlaams-Brabant Ontdek meer",
@@ -8574,7 +9158,8 @@
       "email": "loris.scavone@lastek.be"
     },
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   {
     "title": "Vacature Accountmanager provincie Oost-Vlaanderen Ontdek meer",
@@ -8596,7 +9181,8 @@
       "email": "loris.scavone@lastek.be"
     },
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   {
     "title": "Vertegenwoordigers",
@@ -8623,7 +9209,8 @@
     ],
     "signal_terms": [
       "prospectie"
-    ]
+    ],
+    "clf": 1
   },
   {
     "title": "Sales Engineer",
@@ -8654,7 +9241,8 @@
       "prospect",
       "prospecten",
       "prospects"
-    ]
+    ],
+    "clf": 1
   },
   {
     "title": "Business Development Manager – Industry Sector",
@@ -8676,7 +9264,8 @@
       "email": "info@luminussolutions.be"
     },
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   {
     "title": "Sales Engineer â Industrie & Energie",
@@ -8698,7 +9287,8 @@
       "email": "info@luminussolutions.be"
     },
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   {
     "title": "Business Development Manager wijn",
@@ -8720,7 +9310,8 @@
       "email": "hr@mdhfoodservice.be"
     },
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   {
     "title": "Accountmanager automatisatie",
@@ -8744,7 +9335,8 @@
     "signal_terms": [
       "prospecteert",
       "prospectie"
-    ]
+    ],
+    "clf": 1
   },
   {
     "title": "Vestigingsverantwoordelijke - Medina Groot-Bijgaarden Groot-Bijgaarden, België Management",
@@ -8764,7 +9356,8 @@
     ],
     "signal_terms": [
       "telefonisch contact"
-    ]
+    ],
+    "clf": 1
   },
   {
     "title": "Verkoopsmedewerker L'Unique shop MAES Rotem 24u/week",
@@ -8780,7 +9373,8 @@
     "experience": null,
     "in_belgium": true,
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   {
     "title": "Verkoper slaapafdeling",
@@ -8803,7 +9397,8 @@
       "email": "hr@debameubelen.be"
     },
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   {
     "title": "Applications/Sales Engineer",
@@ -8829,7 +9424,8 @@
     ],
     "signal_terms": [
       "prospecting"
-    ]
+    ],
+    "clf": 1
   },
   {
     "title": "Topverkoper (m/v)",
@@ -8851,7 +9447,8 @@
       "email": "vicky@meubelenplasman.be"
     },
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   {
     "title": "Lead Customer Success & Consultancy Business",
@@ -8870,7 +9467,8 @@
     "experience": "2+ yrs",
     "in_belgium": true,
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   {
     "title": "Sales Engineer",
@@ -8895,7 +9493,8 @@
     ],
     "signal_terms": [
       "prospecteren"
-    ]
+    ],
+    "clf": 1
   },
   {
     "title": "Vertegenwoordiger B2B - Halle/Aalst Sales · Halle - Aalst",
@@ -8919,7 +9518,8 @@
     ],
     "signal_terms": [
       "prospecten"
-    ]
+    ],
+    "clf": 1
   },
   {
     "title": "Sales Development Manager – (Break)bulk",
@@ -8940,33 +9540,8 @@
       "email": "sophie.dupont@multilogisticsgroup.com"
     },
     "signals": [],
-    "signal_terms": []
-  },
-  {
-    "title": "National Account Manager (UK & Ireland | Retail / Customer Brands)",
-    "url": "https://www.muldernaturalfoods.com/nl/jobs/job/national-account-manager-uk-ireland-retail-customer-brands",
-    "company": "MULDER NATURAL FOODS",
-    "source": "https://www.muldernaturalfoods.com/nl/jobs",
-    "first_seen": "2026-08-26",
-    "stack": [
-      "FMCG",
-      "B2B",
-      "Retail",
-      "EN/FR",
-      "Senior"
-    ],
-    "experience": "5+ yrs",
-    "in_belgium": true,
-    "contact": {
-      "name": "Laura",
-      "email": "jobs@mulder.be"
-    },
-    "signals": [
-      "Identify new business opportunities and support sustainable growth."
-    ],
-    "signal_terms": [
-      "new business "
-    ]
+    "signal_terms": [],
+    "clf": 1
   },
   {
     "title": "Business developer",
@@ -8986,26 +9561,8 @@
       "email": "sophie.dupont@multilogisticsgroup.com"
     },
     "signals": [],
-    "signal_terms": []
-  },
-  {
-    "title": "Vacature Private Banker",
-    "url": "https://www.merciervanlanschot.be/nl-be/werken-bij-mercier-van-lanschot/vacature-private-banker",
-    "company": "MercLan",
-    "source": "https://www.merciervanlanschot.be/nl-be/werken-bij-mercier-van-lanschot/vacature-accountant",
-    "first_seen": "2026-08-26",
-    "stack": [
-      "B2B",
-      "Private Banking",
-      "Benelux",
-      "NL/FR",
-      "senior",
-      "farmer"
-    ],
-    "experience": "15+ yrs",
-    "in_belgium": null,
-    "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   {
     "title": "INSIDE SALES EXECUTIVE",
@@ -9027,7 +9584,8 @@
       "email": "info@naxco.be"
     },
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   {
     "title": "Sales & Pre-sales",
@@ -9043,7 +9601,8 @@
     "experience": null,
     "in_belgium": null,
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   {
     "title": "Verkoop Noba Geel vervangingscontract",
@@ -9066,7 +9625,8 @@
       "email": "geel@noba.be"
     },
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   {
     "title": "Louis du Roy Business Development Analyst Go to Business Development Analyst",
@@ -9087,7 +9647,8 @@
     ],
     "signal_terms": [
       "new business "
-    ]
+    ],
+    "clf": 1
   },
   {
     "title": "Sales Executive Classo (Antwerpen)",
@@ -9124,7 +9685,8 @@
       "telefonische prospectie",
       "prospects",
       "prospectevents"
-    ]
+    ],
+    "clf": 1
   },
   {
     "title": "Commercieel/Verkoop",
@@ -9136,7 +9698,8 @@
     "experience": null,
     "in_belgium": null,
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   {
     "title": "Technisch Commercieel Medewerker HVAC – Warmtepompen",
@@ -9159,7 +9722,8 @@
       "email": "quentin.suys@apexcareers.be"
     },
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   {
     "title": "Account Manager",
