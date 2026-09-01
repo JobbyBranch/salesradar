@@ -8337,45 +8337,8 @@
     "signal_terms": [
       "telefonisch contact",
       "prospect"
-    ]
-  },
-  "https://careers.omp.com/jobs/belgium-antwerp/sr-integration-consultant-4093145101": {
-    "title": "(Sr.) Integration Consultant Antwerp - BE",
-    "url": "https://careers.omp.com/jobs/belgium-antwerp/sr-integration-consultant-4093145101",
-    "company": "OM PARTNERS",
-    "source": "https://careers.omp.com/",
-    "first_seen": "2026-08-26",
-    "snippet": "Integration Consultant at OMP We see you are located in China. Do you want to switch to our Chinese website? Go to Chinese website smart with heart smart with heart Life at OMP Life at OMP What we do What drives us Your future with us Meet our talent Meet our talent Tech and Product Consulting Business Operations Early talent Our activities Our activities Blog News Testimonials Events Get in touch Get in touch Contact us Our locations FAQ Search for jobs logged in as jobs (sr.) integration consultant https://careers.omp.com (Sr.) Integration Consultant Antwerp, Belgium - Delivery department We’re a game changer that optimizes supply chains of the world’s leading companies with our very own smart software and services. Do you have a solid background in IT? Do you get a kick from technical analysis and enjoy implementing integration solutions? Ready to join a place where smart solutions meet human collaboration? Look no further and become our new Integration Consultant! Read on to learn more. Apply now Our offer We offer you more than just a job. Our culture and benefits inspire you to become the best version of yourself. Continuous learning : Access customized training, coaching pro",
-    "stack": [
-      "B2B",
-      "SaaS",
-      "supply chain",
-      "EMEA",
-      "EN"
     ],
-    "experience": "2-5 yrs",
-    "in_belgium": true,
-    "signals": [],
-    "signal_terms": []
-  },
-  "https://careers.omp.com/jobs/belgium-ghent/sr-integration-consultant-4093145101": {
-    "title": "(Sr.) Integration Consultant Ghent - BE",
-    "url": "https://careers.omp.com/jobs/belgium-ghent/sr-integration-consultant-4093145101",
-    "company": "OM PARTNERS",
-    "source": "https://careers.omp.com/",
-    "first_seen": "2026-08-26",
-    "snippet": "Integration Consultant at OMP We see you are located in China. Do you want to switch to our Chinese website? Go to Chinese website smart with heart smart with heart Life at OMP Life at OMP What we do What drives us Your future with us Meet our talent Meet our talent Tech and Product Consulting Business Operations Early talent Our activities Our activities Blog News Testimonials Events Get in touch Get in touch Contact us Our locations FAQ Search for jobs logged in as jobs (sr.) integration consultant https://careers.omp.com (Sr.) Integration Consultant Ghent, Belgium - Delivery department We’re a game changer that optimizes supply chains of the world’s leading companies with our very own smart software and services. Do you have a solid background in IT? Do you get a kick from technical analysis and enjoy implementing integration solutions? Ready to join a place where smart solutions meet human collaboration? Look no further and become our new Integration Consultant! Read on to learn more. Apply now Our offer We offer you more than just a job. Our culture and benefits inspire you to become the best version of yourself. Continuous learning : Access customized training, coaching progr",
-    "stack": [
-      "B2B",
-      "SaaS",
-      "supply chain",
-      "EMEA",
-      "EN"
-    ],
-    "experience": "2-5 yrs",
-    "in_belgium": true,
-    "signals": [],
-    "signal_terms": []
+    "clf": 1
   },
   "https://careers.omp.com/jobs/belgium/commercial-alliance-manager--4691089101": {
     "title": "Commercial Alliance Manager BE",
@@ -8399,7 +8362,8 @@
     "signal_terms": [
       "prospecting",
       "lead generation"
-    ]
+    ],
+    "clf": 1
   },
   "https://www.prenuptia.be/vacatures/verkoper": {
     "title": "Verkoper • Halftijds",
@@ -8423,7 +8387,8 @@
       "email": "hr@prenuptia.be"
     },
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   "https://careers.omp.com/jobs/belgium-antwerp/commercial-alliance-manager--4691089101": {
     "title": "Commercial Alliance Manager Antwerp - BE",
@@ -8447,7 +8412,8 @@
     "signal_terms": [
       "prospecting",
       "lead generation"
-    ]
+    ],
+    "clf": 1
   },
   "https://careers.omp.com/jobs/belgium-ghent/commercial-alliance-manager--4691089101": {
     "title": "Commercial Alliance Manager Ghent - BE",
@@ -8471,7 +8437,8 @@
     "signal_terms": [
       "prospecting",
       "lead generation"
-    ]
+    ],
+    "clf": 1
   },
   "https://careers.omp.com/jobs/belgium-wavre/commercial-alliance-manager--4691089101": {
     "title": "Commercial Alliance Manager Wavre - BE",
@@ -8495,27 +8462,8 @@
     "signal_terms": [
       "prospecting",
       "lead generation"
-    ]
-  },
-  "https://careers.omp.com/jobs/belgium/senior-product-consultant-demand-planning-4957684101": {
-    "title": "Senior Product Consultant Demand Planning BE",
-    "url": "https://careers.omp.com/jobs/belgium/senior-product-consultant-demand-planning-4957684101",
-    "company": "OM PARTNERS",
-    "source": "https://careers.omp.com/",
-    "first_seen": "2026-08-26",
-    "snippet": "Product Expert at OMP We see you are located in China. Do you want to switch to our Chinese website? Go to Chinese website smart with heart smart with heart Life at OMP Life at OMP What we do What drives us Your future with us Meet our talent Meet our talent Tech and Product Consulting Business Operations Early talent Our activities Our activities Blog News Testimonials Events Get in touch Get in touch Contact us Our locations FAQ Search for jobs logged in as jobs senior product consultant demand planning https://careers.omp.com Senior Product Consultant Demand Planning Belgium - Product Development department We're a game changer that optimizes supply chains of the world's leading companies with our very own smart software and services. Do you enjoy combining deep Demand Planning expertise with product innovation? Are you passionate about solving complex planning challenges and shaping the future of a market-leading supply chain planning solution? Ready to make an impact by bridging customer needs, implementation experience, and product development? Apply now Our offer We offer you more than just a job. Our culture and benefits inspire you to become the best version of yourself. C",
-    "stack": [
-      "B2B",
-      "SaaS",
-      "supply chain",
-      "EMEA",
-      "EN",
-      "senior"
     ],
-    "experience": "7+ yrs",
-    "in_belgium": true,
-    "signals": [],
-    "signal_terms": []
+    "clf": 1
   },
   "https://careers.omp.com/jobs/belgium-antwerp/senior-product-consultant-demand-planning-4957684101": {
     "title": "Senior Product Consultant Demand Planning Antwerp - BE",
@@ -8534,7 +8482,8 @@
     "experience": "7+ yrs",
     "in_belgium": true,
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   "https://careers.omp.com/jobs/belgium-wavre/senior-product-consultant-demand-planning-4957684101": {
     "title": "Senior Product Consultant Demand Planning Wavre - BE",
@@ -8553,7 +8502,8 @@
     "experience": "7+ yrs",
     "in_belgium": true,
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   "https://www.portoflimburg.eu/jobs/businessdevelopmentmanager/": {
     "title": "Business Development Manager",
@@ -8584,7 +8534,8 @@
       "prospecteren",
       "prospectie",
       "prospecten"
-    ]
+    ],
+    "clf": 1
   },
   "https://careers.omp.com/jobs/belgium/solution-consultant-4703497101": {
     "title": "Solution Consultant BE",
@@ -8603,7 +8554,8 @@
     "experience": null,
     "in_belgium": true,
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   "https://careers.omp.com/jobs/belgium-antwerp/solution-consultant-4703497101": {
     "title": "Solution Consultant Antwerp - BE",
@@ -8622,7 +8574,8 @@
     "experience": null,
     "in_belgium": true,
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   "https://careers.omp.com/jobs/belgium-ghent/solution-consultant-4703497101": {
     "title": "Solution Consultant Ghent - BE",
@@ -8641,7 +8594,8 @@
     "experience": null,
     "in_belgium": true,
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   "https://careers.omp.com/jobs/belgium-wavre/solution-consultant-4703497101": {
     "title": "Solution Consultant Wavre - BE",
@@ -8661,34 +8615,8 @@
     "experience": null,
     "in_belgium": true,
     "signals": [],
-    "signal_terms": []
-  },
-  "https://www.quaestor.be/vacatures/senior-wealth-advisor-gent": {
-    "title": "Senior Wealth Advisor Regio Gent",
-    "url": "https://www.quaestor.be/vacatures/senior-wealth-advisor-gent",
-    "company": "Quaestor Vermogensbeheer",
-    "source": "https://www.quaestor.be/talent",
-    "first_seen": "2026-08-26",
-    "snippet": "Quaestor Media Talent Volg ons Private markten Private equity → Private debt → Publieke markten Aandelenbeheer → Obligatiebeheer → Over ons Team Contact Meensesteenweg 406 8800 Roeselare +32 51 26 33 60 info@quaestor.be Volg ons Private markten Private equity → Private debt → Over ons Ons verhaal → Team → Talent → Contacteer ons Publieke markten Aandelenbeheer → Obligatiebeheer → Divers Media → Depotbank → Juridisch → © Quaestor Vermogensbeheer NV 2026 Privacybeleid Senior Wealth Advisor De job Je bent verantwoordelijk voor het adviseren van een selecte groep vooraanstaande klanten, waarbij je hun financiële en persoonlijke doelen centraal stelt. Je biedt op maat gemaakte vermogensplannen, rekening houdend met de specifieke behoeften en wensen van iedere klant. Jouw ervaring en deskundigheid in het beheren van complexe vermogens-structuren stellen je in staat om langdurige en vertrouwensvolle relaties te bouwen. Jouw profiel Ben jij een ervaren senior wealth advisor met meer dan 10 jaar ervaring in vermogensbeheer? Beschik je over een scherp zakelijk inzicht, gecombineerd met een ondernemers-mentaliteit en de vaardigheid om duurzame relaties op te bouwen en te onderhouden met vermo",
-    "stack": [
-      "B2B",
-      "wealth management",
-      "senior",
-      "farmer",
-      "NL/FR"
-    ],
-    "experience": "10+ yrs",
-    "in_belgium": true,
-    "contact": {
-      "name": null,
-      "email": "hr@quaestor.be"
-    },
-    "signals": [
-      "Accepteer en sla op Cookie instellingen Made by Hunt"
-    ],
-    "signal_terms": [
-      "hunt"
-    ]
+    "signal_terms": [],
+    "clf": 1
   },
   "https://www.quaestor.be/vacatures/senior-wealth-advisor-antwerpen": {
     "title": "Senior Wealth Advisor Regio Antwerpen",
@@ -8715,7 +8643,8 @@
     ],
     "signal_terms": [
       "hunt"
-    ]
+    ],
+    "clf": 1
   },
   "https://jobs.romed.be/o/accountmanager-belgie": {
     "title": "Accountmanager België",
@@ -8738,7 +8667,8 @@
     ],
     "signal_terms": [
       "prospecten"
-    ]
+    ],
+    "clf": 1
   },
   "https://ropamate.com/werken-bij-ropamate2/vertegenwoordiger-b2b-bouw-regio-west-vlaanderen": {
     "title": "Vertegenwoordiger B2B bouw (regio West-Vlaanderen)",
@@ -8765,7 +8695,8 @@
     ],
     "signal_terms": [
       "prospecten"
-    ]
+    ],
+    "clf": 1
   },
   "https://ropamate.com/werken-bij-ropamate2/vertegenwoordiger-b2b-bouw-regio-vilvoorde": {
     "title": "Vertegenwoordiger B2B bouw (regio Vilvoorde)",
@@ -8792,7 +8723,8 @@
     ],
     "signal_terms": [
       "prospecten"
-    ]
+    ],
+    "clf": 1
   },
   "https://ropamate.com/werken-bij-ropamate2/vertegenwoordiger-b2b-bouw-regio-antwerpen": {
     "title": "Vertegenwoordiger B2B bouw (regio Antwerpen)",
@@ -8819,7 +8751,8 @@
     ],
     "signal_terms": [
       "prospecten"
-    ]
+    ],
+    "clf": 1
   },
   "https://ropamate.com/werken-bij-ropamate2/vertegenwoordiger-b2b-bouw-regio-waasland": {
     "title": "Vertegenwoordiger B2B bouw (regio Waasland)",
@@ -8845,7 +8778,8 @@
     ],
     "signal_terms": [
       "prospecten"
-    ]
+    ],
+    "clf": 1
   },
   "https://ropamate.com/werken-bij-ropamate2/vertegenwoordiger-oost-vlaanderen-regio-meetjesland_2": {
     "title": "Vertegenwoordiger B2B bouw (regio Meetjesland",
@@ -8872,7 +8806,8 @@
     ],
     "signal_terms": [
       "prospecten"
-    ]
+    ],
+    "clf": 1
   },
   "https://ropamate.com/werken-bij-ropamate2/vertegenwoordiger-b2b-bouw-regio-hasselt": {
     "title": "Vertegenwoordiger B2B bouw (regio Hasselt)",
@@ -8900,26 +8835,8 @@
     ],
     "signal_terms": [
       "prospecten"
-    ]
-  },
-  "https://www.werkenbijgroupofbutchers.com/vacature/7/category-development-manager-soepen-maaltijden-en-salades": {
-    "title": "CATEGORY DEVELOPMENT MANAGER SOEPEN, MAALTIJDEN EN SALADES",
-    "url": "https://www.werkenbijgroupofbutchers.com/vacature/7/category-development-manager-soepen-maaltijden-en-salades",
-    "company": "SCHEPERS VLEESBEDRIJF",
-    "source": "https://www.werkenbijgroupofbutchers.com/",
-    "first_seen": "2026-08-26",
-    "snippet": "",
-    "stack": [
-      "B2B",
-      "FMCG",
-      "Benelux",
-      "NL/FR",
-      "senior"
     ],
-    "experience": null,
-    "in_belgium": null,
-    "signals": [],
-    "signal_terms": []
+    "clf": 1
   },
   "https://www.securoad.be/nl/jobs/key-accountmanager": {
     "title": "Key accountmanager",
@@ -8947,7 +8864,8 @@
     ],
     "signal_terms": [
       "prospectie"
-    ]
+    ],
+    "clf": 1
   },
   "https://simar.nl/simar/werken-bij-simar/accountmanager-belgie/": {
     "title": "Accountmanager (België)",
@@ -8971,7 +8889,8 @@
       "email": "vacature@simar.nl"
     },
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   "https://www.skedle.be/carriere/account-executive-zorg": {
     "title": "Account Executive (Zorg & Health)",
@@ -9001,7 +8920,8 @@
     "signal_terms": [
       "prospects",
       "hunter"
-    ]
+    ],
+    "clf": 1
   },
   "https://www.skedle.be/carriere/account-executive-horeca": {
     "title": "Account Executive (Horeca & Events)",
@@ -9029,7 +8949,8 @@
     ],
     "signal_terms": [
       "prospect"
-    ]
+    ],
+    "clf": 1
   },
   "https://skyline.be/jobs/en/all-jobs/business-development-director-broadcast-copy-copy": {
     "title": "Business Development Director - Service Provider EMEA",
@@ -9055,7 +8976,8 @@
       "hunter",
       "cold calling",
       "prospective"
-    ]
+    ],
+    "clf": 1
   },
   "https://www.sobinco.com/nl/jobs/13290/sales-marketing/sales-engineer": {
     "title": "Sales Engineer",
@@ -9082,7 +9004,8 @@
     ],
     "signal_terms": [
       "prospectie"
-    ]
+    ],
+    "clf": 1
   },
   "https://soenenhendrik.com/jobs/technisch-commercieel-verkoper-machinecenters-pvc-alu": {
     "title": "Technisch-Commercieel Sales Manager",
@@ -9106,7 +9029,8 @@
       "email": "pca@soenenhendrik.com"
     },
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   "https://skyline.be/jobs/en/all-jobs/parnter-development-directorastl": {
     "title": "Partner Development Director",
@@ -9126,7 +9050,8 @@
     "experience": "10+ yrs",
     "in_belgium": true,
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   "https://www.streamsoftware.eu/jobs/sales-manager": {
     "title": "Sales Manager Ben je een ervaren commercieel talent met eveneens people skills? Sales & Marketing Alle sectoren ",
@@ -9145,7 +9070,8 @@
     "experience": null,
     "in_belgium": true,
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   "https://www.strategica.be/jobs/strategisch-relatiebeheerder": {
     "title": "Strategisch relatiebeheerder",
@@ -9168,7 +9094,8 @@
       "email": "jobs@strategica.be"
     },
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   "https://www.strategica.be/jobs/sales-consultant": {
     "title": "Sales consultant",
@@ -9195,7 +9122,8 @@
     ],
     "signal_terms": [
       "prospect"
-    ]
+    ],
+    "clf": 1
   },
   "https://synguard.be/over-synguard/jobs/bdm-direct-touch-be": {
     "title": "BDM Direct touch BE",
@@ -9229,7 +9157,8 @@
       "hunter",
       "cold calling",
       "prospectie"
-    ]
+    ],
+    "clf": 1
   },
   "https://supersmans.com/nl/jobs/account-manager-elektronica/": {
     "title": "Account manager Automatisatie Kabel-en draadconfectie Benelux Fulltime",
@@ -9252,7 +9181,8 @@
     ],
     "signal_terms": [
       "prospecteren"
-    ]
+    ],
+    "clf": 1
   },
   "https://solerasprecision.com/vacatures/business-development-manager/": {
     "title": "Business development Manager",
@@ -9281,7 +9211,8 @@
     ],
     "signal_terms": [
       "hunter"
-    ]
+    ],
+    "clf": 1
   },
   "https://www.technospecials.be/nl/vacatures/business-developer-elektro-techniek-projecten": {
     "title": "Business Developer voor Elektro-techniek projecten",
@@ -9305,7 +9236,8 @@
       "email": "info@technospecials.be"
     },
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   "https://www.technospecials.be/nl/vacatures/junioraccountmanager-lightingsolutions": {
     "title": "Junior Account Manager Lighting Solutions",
@@ -9330,7 +9262,8 @@
       "email": "info@technospecials.be"
     },
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   "https://toolsen.be/jobs/interne-verkoper-gereedschappen-machines": {
     "title": "Interne verkoper gereedschappen & machines",
@@ -9352,7 +9285,8 @@
       "email": "info@toolsen.be"
     },
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   "https://tefcogroup.com/fr/werken-bij-tefco/technical-inside-sales-m-v-x-tefco-bredene-2/": {
     "title": "Technical Inside Sales (m/v/x) – TEFCO Bredene TEFCO Group NV Bredene Posted 3 mois ago",
@@ -9375,7 +9309,8 @@
       "email": "liesbeth.vanlooy@tefcogroup.com"
     },
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   "https://www.topinterieur.be/vacatures/interieuradviseur-meubelen": {
     "title": "Outdoorspecialist met commercieel talent m|v (Massenhoven)",
@@ -9397,7 +9332,8 @@
       "email": "topjobs@topinterieur.be"
     },
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   "https://jobs.topsfoods.com/vacature-sales-logistics-assistant": {
     "title": "Sales & Logistics Assistant",
@@ -9414,7 +9350,8 @@
     "experience": null,
     "in_belgium": null,
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   "https://www.topinterieur.be/vacatures/administratief-bediende-m-v": {
     "title": "Verkoopsmedewerker m|v (Izegem)",
@@ -9436,7 +9373,8 @@
       "email": "info.izegem@topinterieur.be"
     },
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   "https://careers.teamleader.eu/o/account-executive-teamleader-orbit-benl": {
     "title": "Account Executive - Teamleader Orbit (BE/NL)",
@@ -9463,7 +9401,8 @@
       "new business ",
       "hunting",
       "prospects"
-    ]
+    ],
+    "clf": 1
   },
   "https://careers.teamleader.eu/o/go-to-market-team-lead": {
     "title": "Go-to-Market Team Lead",
@@ -9483,7 +9422,8 @@
     "experience": "7+ yrs",
     "in_belgium": true,
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   "https://www.theuma.com/theuma-jobs/accountmanager/": {
     "title": "Account manager",
@@ -9506,7 +9446,8 @@
       "email": "jan.willems@theuma.com"
     },
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   "https://jobs.tvh.com/en/sales-pricing": {
     "title": "Sales & Pricing",
@@ -9527,7 +9468,8 @@
     ],
     "signal_terms": [
       "prospects"
-    ]
+    ],
+    "clf": 1
   },
   "https://www.vcoat.eu/vacatures/business-developer-wallonie/": {
     "title": "Business Developer Vlaanderen/Nederland",
@@ -9554,7 +9496,8 @@
     ],
     "signal_terms": [
       "acquisitie"
-    ]
+    ],
+    "clf": 1
   },
   "https://vct.be/vacature-inside-sales-engineer/": {
     "title": "Inside Sales Engineer",
@@ -9576,7 +9519,8 @@
       "email": "info@vct-nv.be"
     },
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   "https://www.vcoat.eu/vacatures/commercieel-vertegenwoordiger-2/": {
     "title": "Business Developer Wallonië/Frankrijk",
@@ -9604,7 +9548,8 @@
     ],
     "signal_terms": [
       "acquisitie"
-    ]
+    ],
+    "clf": 1
   },
   "https://www.randstad.be:443/werknemers/jobs/s-aankoop-verkoop/s2-retailmanagers-winkelbedienden/r-teamleader-sales/": {
     "title": "Teamleader Sales",
@@ -9628,7 +9573,8 @@
     "signal_terms": [
       "outbound call",
       "telesales"
-    ]
+    ],
+    "clf": 1
   },
   "https://www.randstad.be:443/werknemers/jobs/s-aankoop-verkoop/s2-sales-managers/r-business-development-manager/": {
     "title": "Business Development Manager",
@@ -9649,50 +9595,8 @@
     "signal_terms": [
       "outbound call",
       "telesales"
-    ]
-  },
-  "https://www.randstad.be:443/werknemers/jobs/s-aankoop-verkoop/s2-sales-managers/r-client-strategy-director/": {
-    "title": "Client Strategy Director",
-    "url": "https://www.randstad.be:443/werknemers/jobs/s-aankoop-verkoop/s2-sales-managers/r-client-strategy-director/",
-    "company": "RANDSTAD HR SOLUTIONS",
-    "source": "https://www.randstad.be:443/werknemers/jobs/",
-    "first_seen": "2026-08-26",
-    "snippet": "Client Strategy Director Jobs & vacatures | Randstad kantoren NL FR EN randstad een job zoeken alle jobs flexijob studentenjob studiegerelateerde job tijdelijke jobs tijdelijke jobs optie vast vast contract jobs per stad Aalst Antwerpen Brugge Brussel Genk Gent Hasselt Mechelen populaire bedrijven BD Circle K Distrilog H.Essers Kuehne+nagel Plopsa Soudal Volvo Cars profiel aanmaken werknemers mijn carrière beroepen carrièretips opleidingen sollicitatietips terug aan het werk waarom kiezen voor randstad operational construct contact center horeca industry logistics retail technics transport professional engineering finance en accounting healthcare HR life sciences office en admin sales en marketing studenten alle studentenjobs studierelevante job digital werkgevers onze oplossingen inhouse interim management online tools opleidingen overheid payrolling personeel aanwerven vaste aanwerving operational construct contact center horeca industry logistics retail technics transport professional engineering finance en accounting healthcare HR life sciences office en admin support sales en marketing digital enterprise career development employability MSP outplacement RPO talent advisory aan",
-    "stack": [
-      "B2B",
-      "sales",
-      "NL/FR/EN"
     ],
-    "experience": null,
-    "in_belgium": true,
-    "signals": [
-      "…rs Producer Customer Service Commercieel Customer Service Medewerkers Inbound Callcenter Medewerker Outbound Callcenter Medewerker Telesales Customer Service Medewerkers Callcentermedewerker Consultant Klantenservice Customer Service Assist…"
-    ],
-    "signal_terms": [
-      "outbound call",
-      "telesales"
-    ]
-  },
-  "https://www.randstad.be:443/werknemers/jobs/s-aankoop-verkoop/s2-sales-managers/r-manager-b2b/": {
-    "title": "Manager B2B",
-    "url": "https://www.randstad.be:443/werknemers/jobs/s-aankoop-verkoop/s2-sales-managers/r-manager-b2b/",
-    "company": "RANDSTAD HR SOLUTIONS",
-    "source": "https://www.randstad.be:443/werknemers/jobs/",
-    "first_seen": "2026-08-26",
-    "snippet": "Manager B2B Jobs & vacatures | Randstad kantoren NL FR EN randstad een job zoeken alle jobs flexijob studentenjob studiegerelateerde job tijdelijke jobs tijdelijke jobs optie vast vast contract jobs per stad Aalst Antwerpen Brugge Brussel Genk Gent Hasselt Mechelen populaire bedrijven BD Circle K Distrilog H.Essers Kuehne+nagel Plopsa Soudal Volvo Cars profiel aanmaken werknemers mijn carrière beroepen carrièretips opleidingen sollicitatietips terug aan het werk waarom kiezen voor randstad operational construct contact center horeca industry logistics retail technics transport professional engineering finance en accounting healthcare HR life sciences office en admin sales en marketing studenten alle studentenjobs studierelevante job digital werkgevers onze oplossingen inhouse interim management online tools opleidingen overheid payrolling personeel aanwerven vaste aanwerving operational construct contact center horeca industry logistics retail technics transport professional engineering finance en accounting healthcare HR life sciences office en admin support sales en marketing digital enterprise career development employability MSP outplacement RPO talent advisory aan de slag aanv",
-    "stack": [
-      "B2B",
-      "sales"
-    ],
-    "experience": null,
-    "in_belgium": true,
-    "signals": [
-      "…rs Producer Customer Service Commercieel Customer Service Medewerkers Inbound Callcenter Medewerker Outbound Callcenter Medewerker Telesales Customer Service Medewerkers Callcentermedewerker Consultant Klantenservice Customer Service Assist…"
-    ],
-    "signal_terms": [
-      "outbound call",
-      "telesales"
-    ]
+    "clf": 1
   },
   "https://werkenbijvandessel.be/vacatures/vacature-klantenbeheerder-leven/": {
     "title": "Vacature: klantenbeheerder leven",
@@ -9715,7 +9619,8 @@
       "email": "jobs@vandessel.be"
     },
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   "https://www.randstad.be:443/werknemers/jobs/s-aankoop-verkoop/s2-sales-managers/r-regional-sales-manager/": {
     "title": "Regional Sales Manager",
@@ -9737,7 +9642,8 @@
     "signal_terms": [
       "outbound call",
       "telesales"
-    ]
+    ],
+    "clf": 1
   },
   "https://www.vandeveldepackaging.com/nl/vacatures/commercial-manager": {
     "title": "Commercial Manager Wetteren Job details",
@@ -9759,7 +9665,8 @@
       "email": "sales@vandeveldepackaging.com"
     },
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   "https://werkenbijvandessel.be/vacatures/vacature-klantenbeheerder/": {
     "title": "Vacature: klantenbeheerder",
@@ -9781,7 +9688,8 @@
       "email": "jobs@vandessel.be"
     },
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   "https://www.randstad.be:443/werknemers/jobs/s-aankoop-verkoop/s2-sales-managers/r-sales-manager/": {
     "title": "Sales Manager",
@@ -9803,7 +9711,8 @@
     "signal_terms": [
       "outbound call",
       "telesales"
-    ]
+    ],
+    "clf": 1
   },
   "https://werkenbijvandessel.be/vacatures/vacature-accountmanager/": {
     "title": "Vacature: accountmanager",
@@ -9830,78 +9739,8 @@
     ],
     "signal_terms": [
       "prospectie"
-    ]
-  },
-  "https://www.randstad.be:443/werknemers/jobs/s-aankoop-verkoop/s2-verkopers/": {
-    "title": "Verkopers",
-    "url": "https://www.randstad.be:443/werknemers/jobs/s-aankoop-verkoop/s2-verkopers/",
-    "company": "RANDSTAD HR SOLUTIONS",
-    "source": "https://www.randstad.be:443/werknemers/jobs/",
-    "first_seen": "2026-08-26",
-    "snippet": "Verkopers Jobs & vacatures | Randstad kantoren NL FR EN randstad een job zoeken alle jobs flexijob studentenjob studiegerelateerde job tijdelijke jobs tijdelijke jobs optie vast vast contract jobs per stad Aalst Antwerpen Brugge Brussel Genk Gent Hasselt Mechelen populaire bedrijven BD Circle K Distrilog H.Essers Kuehne+nagel Plopsa Soudal Volvo Cars profiel aanmaken werknemers mijn carrière beroepen carrièretips opleidingen sollicitatietips terug aan het werk waarom kiezen voor randstad operational construct contact center horeca industry logistics retail technics transport professional engineering finance en accounting healthcare HR life sciences office en admin sales en marketing studenten alle studentenjobs studierelevante job digital werkgevers onze oplossingen inhouse interim management online tools opleidingen overheid payrolling personeel aanwerven vaste aanwerving operational construct contact center horeca industry logistics retail technics transport professional engineering finance en accounting healthcare HR life sciences office en admin support sales en marketing digital enterprise career development employability MSP outplacement RPO talent advisory aan de slag aanvra",
-    "stack": [
-      "sales",
-      "B2B",
-      "B2C",
-      "NL/FR/EN"
     ],
-    "experience": null,
-    "in_belgium": true,
-    "contact": {
-      "name": null,
-      "email": "industry.tessenderlo@randstad.be"
-    },
-    "signals": [
-      "…rs Producer Customer Service Commercieel Customer Service Medewerkers Inbound Callcenter Medewerker Outbound Callcenter Medewerker Telesales Customer Service Medewerkers Callcentermedewerker Consultant Klantenservice Customer Service Assist…"
-    ],
-    "signal_terms": [
-      "outbound call",
-      "telesales"
-    ]
-  },
-  "https://www.randstad.be:443/werknemers/jobs/s-aankoop-verkoop/s2-verkopers/r-sales-manager-assistant/": {
-    "title": "Sales Manager Assistant",
-    "url": "https://www.randstad.be:443/werknemers/jobs/s-aankoop-verkoop/s2-verkopers/r-sales-manager-assistant/",
-    "company": "RANDSTAD HR SOLUTIONS",
-    "source": "https://www.randstad.be:443/werknemers/jobs/",
-    "first_seen": "2026-08-26",
-    "snippet": "Sales Manager Assistant Jobs & vacatures | Randstad kantoren NL FR EN randstad een job zoeken alle jobs flexijob studentenjob studiegerelateerde job tijdelijke jobs tijdelijke jobs optie vast vast contract jobs per stad Aalst Antwerpen Brugge Brussel Genk Gent Hasselt Mechelen populaire bedrijven BD Circle K Distrilog H.Essers Kuehne+nagel Plopsa Soudal Volvo Cars profiel aanmaken werknemers mijn carrière beroepen carrièretips opleidingen sollicitatietips terug aan het werk waarom kiezen voor randstad operational construct contact center horeca industry logistics retail technics transport professional engineering finance en accounting healthcare HR life sciences office en admin sales en marketing studenten alle studentenjobs studierelevante job digital werkgevers onze oplossingen inhouse interim management online tools opleidingen overheid payrolling personeel aanwerven vaste aanwerving operational construct contact center horeca industry logistics retail technics transport professional engineering finance en accounting healthcare HR life sciences office en admin support sales en marketing digital enterprise career development employability MSP outplacement RPO talent advisory aan ",
-    "stack": [
-      "B2B",
-      "sales",
-      "NL/FR/EN"
-    ],
-    "experience": null,
-    "in_belgium": true,
-    "signals": [
-      "…rs Producer Customer Service Commercieel Customer Service Medewerkers Inbound Callcenter Medewerker Outbound Callcenter Medewerker Telesales Customer Service Medewerkers Callcentermedewerker Consultant Klantenservice Customer Service Assist…"
-    ],
-    "signal_terms": [
-      "outbound call",
-      "telesales"
-    ]
-  },
-  "https://www.randstad.be:443/werknemers/jobs/s-aankoop-verkoop/s2-verkopers/r-verkoopmedewerker-boeken/": {
-    "title": "Verkoopmedewerker Boeken",
-    "url": "https://www.randstad.be:443/werknemers/jobs/s-aankoop-verkoop/s2-verkopers/r-verkoopmedewerker-boeken/",
-    "company": "RANDSTAD HR SOLUTIONS",
-    "source": "https://www.randstad.be:443/werknemers/jobs/",
-    "first_seen": "2026-08-26",
-    "snippet": "Verkoopmedewerker Boeken Jobs & vacatures | Randstad kantoren NL FR EN randstad een job zoeken alle jobs flexijob studentenjob studiegerelateerde job tijdelijke jobs tijdelijke jobs optie vast vast contract jobs per stad Aalst Antwerpen Brugge Brussel Genk Gent Hasselt Mechelen populaire bedrijven BD Circle K Distrilog H.Essers Kuehne+nagel Plopsa Soudal Volvo Cars profiel aanmaken werknemers mijn carrière beroepen carrièretips opleidingen sollicitatietips terug aan het werk waarom kiezen voor randstad operational construct contact center horeca industry logistics retail technics transport professional engineering finance en accounting healthcare HR life sciences office en admin sales en marketing studenten alle studentenjobs studierelevante job digital werkgevers onze oplossingen inhouse interim management online tools opleidingen overheid payrolling personeel aanwerven vaste aanwerving operational construct contact center horeca industry logistics retail technics transport professional engineering finance en accounting healthcare HR life sciences office en admin support sales en marketing digital enterprise career development employability MSP outplacement RPO talent advisory aan",
-    "stack": [
-      "retail",
-      "B2C",
-      "Belgium"
-    ],
-    "experience": null,
-    "in_belgium": true,
-    "signals": [
-      "…rs Producer Customer Service Commercieel Customer Service Medewerkers Inbound Callcenter Medewerker Outbound Callcenter Medewerker Telesales Customer Service Medewerkers Callcentermedewerker Consultant Klantenservice Customer Service Assist…"
-    ],
-    "signal_terms": [
-      "outbound call",
-      "telesales"
-    ]
+    "clf": 1
   },
   "https://www.randstad.be:443/werknemers/jobs/s-aankoop-verkoop/s2-verkopers/r-verkoopspecialist-vis-schaal-en-weekdieren/": {
     "title": "Verkoopspecialist Vis, Schaal- En Weekdieren",
@@ -9924,7 +9763,8 @@
     "signal_terms": [
       "outbound call",
       "telesales"
-    ]
+    ],
+    "clf": 1
   },
   "https://www.randstad.be:443/werknemers/jobs/s-aankoop-verkoop/s2-verkopers/r-verkoper/": {
     "title": "Verkoper",
@@ -9950,7 +9790,8 @@
     "signal_terms": [
       "outbound call",
       "telesales"
-    ]
+    ],
+    "clf": 1
   },
   "https://www.vanroey.be/job/business-development-manager-applications/": {
     "title": "Business Development Manager",
@@ -9977,31 +9818,8 @@
     ],
     "signal_terms": [
       "prospectie"
-    ]
-  },
-  "https://www.randstad.be:443/werknemers/jobs/s-aankoop-verkoop/s2-verkopers/r-verkoper-schoenen-en-lederwaren/": {
-    "title": "Verkoper Schoenen En Lederwaren",
-    "url": "https://www.randstad.be:443/werknemers/jobs/s-aankoop-verkoop/s2-verkopers/r-verkoper-schoenen-en-lederwaren/",
-    "company": "RANDSTAD HR SOLUTIONS",
-    "source": "https://www.randstad.be:443/werknemers/jobs/",
-    "first_seen": "2026-08-26",
-    "snippet": "Verkoper Schoenen En Lederwaren Jobs & vacatures | Randstad kantoren NL FR EN randstad een job zoeken alle jobs flexijob studentenjob studiegerelateerde job tijdelijke jobs tijdelijke jobs optie vast vast contract jobs per stad Aalst Antwerpen Brugge Brussel Genk Gent Hasselt Mechelen populaire bedrijven BD Circle K Distrilog H.Essers Kuehne+nagel Plopsa Soudal Volvo Cars profiel aanmaken werknemers mijn carrière beroepen carrièretips opleidingen sollicitatietips terug aan het werk waarom kiezen voor randstad operational construct contact center horeca industry logistics retail technics transport professional engineering finance en accounting healthcare HR life sciences office en admin sales en marketing studenten alle studentenjobs studierelevante job digital werkgevers onze oplossingen inhouse interim management online tools opleidingen overheid payrolling personeel aanwerven vaste aanwerving operational construct contact center horeca industry logistics retail technics transport professional engineering finance en accounting healthcare HR life sciences office en admin support sales en marketing digital enterprise career development employability MSP outplacement RPO talent advis",
-    "stack": [
-      "retail",
-      "FMCG",
-      "B2C",
-      "Belgium",
-      "NL/FR"
     ],
-    "experience": null,
-    "in_belgium": true,
-    "signals": [
-      "…rs Producer Customer Service Commercieel Customer Service Medewerkers Inbound Callcenter Medewerker Outbound Callcenter Medewerker Telesales Customer Service Medewerkers Callcentermedewerker Consultant Klantenservice Customer Service Assist…"
-    ],
-    "signal_terms": [
-      "outbound call",
-      "telesales"
-    ]
+    "clf": 1
   },
   "https://www.vanbreda.be/nl/werken-bij-vanbreda/onze-vacatures-archief/adviseur-beleggingen-en-vermogensopbouw-regio-waasland-vanbreda-assutron": {
     "title": "Advi­seur Beleg­gin­gen en Ver­mo­gens­op­bouw (Regio Waas­land) — Van­b­re­da Assutron Sales Management Regio Waasland",
@@ -10030,7 +9848,8 @@
     "signal_terms": [
       "prospecteert",
       "prospects"
-    ]
+    ],
+    "clf": 1
   },
   "https://www.vanroey.be/job/account-manager-limburg/": {
     "title": "Accountmanager Limburg",
@@ -10057,7 +9876,8 @@
     ],
     "signal_terms": [
       "prospectie"
-    ]
+    ],
+    "clf": 1
   },
   "https://www.randstad.be:443/werknemers/jobs/s-aankoop-verkoop/s2-verkopers-b2b/": {
     "title": "Verkopers B2B",
@@ -10079,7 +9899,8 @@
     "signal_terms": [
       "outbound call",
       "telesales"
-    ]
+    ],
+    "clf": 1
   },
   "https://www.vanroey.be/job/accountmanager-vlaams-brabant/": {
     "title": "Accountmanager Vlaams-Brabant",
@@ -10107,7 +9928,8 @@
     ],
     "signal_terms": [
       "prospectie"
-    ]
+    ],
+    "clf": 1
   },
   "https://www.randstad.be:443/werknemers/jobs/s-aankoop-verkoop/s2-vertegenwoordigers-accountmanagers/": {
     "title": "Vertegenwoordigers & Accountmanagers",
@@ -10133,7 +9955,8 @@
       "telesales",
       "prospectie",
       "prospecten"
-    ]
+    ],
+    "clf": 1
   },
   "https://www.randstad.be:443/werknemers/jobs/s-aankoop-verkoop/s2-vertegenwoordigers-accountmanagers/r-accountmanager/": {
     "title": "Accountmanager",
@@ -10159,7 +9982,8 @@
       "telesales",
       "telefonisch contact",
       "acquisitie"
-    ]
+    ],
+    "clf": 1
   },
   "https://www.randstad.be:443/werknemers/jobs/s-aankoop-verkoop/s2-vertegenwoordigers-accountmanagers/r-accountmanager-kmo/": {
     "title": "Accountmanager KMO",
@@ -10185,7 +10009,8 @@
     "signal_terms": [
       "outbound call",
       "telesales"
-    ]
+    ],
+    "clf": 1
   },
   "https://www.randstad.be:443/werknemers/jobs/s-aankoop-verkoop/s2-vertegenwoordigers-accountmanagers/r-assistent-sales-engineer/": {
     "title": "Assistent Sales Engineer",
@@ -10207,7 +10032,8 @@
     "signal_terms": [
       "outbound call",
       "telesales"
-    ]
+    ],
+    "clf": 1
   },
   "https://www.vergokan.com/nl/Over+ons/Jobs/Director+National+&+European+Accounts": {
     "title": "Director National & European Accounts",
@@ -10237,29 +10063,8 @@
     "signal_terms": [
       "prospecting",
       "prospects"
-    ]
-  },
-  "https://www.randstad.be:443/werknemers/jobs/s-aankoop-verkoop/s2-vertegenwoordigers-accountmanagers/r-commercieel-assistent/": {
-    "title": "Commercieel Assistent",
-    "url": "https://www.randstad.be:443/werknemers/jobs/s-aankoop-verkoop/s2-vertegenwoordigers-accountmanagers/r-commercieel-assistent/",
-    "company": "RANDSTAD HR SOLUTIONS",
-    "source": "https://www.randstad.be:443/werknemers/jobs/",
-    "first_seen": "2026-08-26",
-    "snippet": "Commercieel Assistent Jobs & vacatures | Randstad kantoren NL FR EN randstad een job zoeken alle jobs flexijob studentenjob studiegerelateerde job tijdelijke jobs tijdelijke jobs optie vast vast contract jobs per stad Aalst Antwerpen Brugge Brussel Genk Gent Hasselt Mechelen populaire bedrijven BD Circle K Distrilog H.Essers Kuehne+nagel Plopsa Soudal Volvo Cars profiel aanmaken werknemers mijn carrière beroepen carrièretips opleidingen sollicitatietips terug aan het werk waarom kiezen voor randstad operational construct contact center horeca industry logistics retail technics transport professional engineering finance en accounting healthcare HR life sciences office en admin sales en marketing studenten alle studentenjobs studierelevante job digital werkgevers onze oplossingen inhouse interim management online tools opleidingen overheid payrolling personeel aanwerven vaste aanwerving operational construct contact center horeca industry logistics retail technics transport professional engineering finance en accounting healthcare HR life sciences office en admin support sales en marketing digital enterprise career development employability MSP outplacement RPO talent advisory aan de",
-    "stack": [
-      "B2B",
-      "NL/FR/EN",
-      "junior"
     ],
-    "experience": null,
-    "in_belgium": true,
-    "signals": [
-      "…rs Producer Customer Service Commercieel Customer Service Medewerkers Inbound Callcenter Medewerker Outbound Callcenter Medewerker Telesales Customer Service Medewerkers Callcentermedewerker Consultant Klantenservice Customer Service Assist…"
-    ],
-    "signal_terms": [
-      "outbound call",
-      "telesales"
-    ]
+    "clf": 1
   },
   "https://www.vergokan.com/nl/Over+ons/Jobs/Key+Account+EU+Sales+Manager": {
     "title": "Key Account EU Sales Manager",
@@ -10285,7 +10090,8 @@
     ],
     "signal_terms": [
       "prospect"
-    ]
+    ],
+    "clf": 1
   },
   "https://www.randstad.be:443/werknemers/jobs/s-aankoop-verkoop/s2-vertegenwoordigers-accountmanagers/r-commercieel-medewerker-binnendienst/": {
     "title": "Commercieel Medewerker Binnendienst",
@@ -10307,7 +10113,8 @@
     "signal_terms": [
       "outbound call",
       "telesales"
-    ]
+    ],
+    "clf": 1
   },
   "https://www.vergokan.com/nl/Over+ons/Jobs/Project+Sales+Manager": {
     "title": "Project Sales Manager",
@@ -10334,7 +10141,8 @@
     ],
     "signal_terms": [
       "prospect"
-    ]
+    ],
+    "clf": 1
   },
   "https://www.randstad.be:443/werknemers/jobs/s-aankoop-verkoop/s2-vertegenwoordigers-accountmanagers/r-commercieel-medewerker-buitendienst/": {
     "title": "Commercieel Medewerker Buitendienst",
@@ -10358,7 +10166,8 @@
       "outbound call",
       "telesales",
       "prospectie"
-    ]
+    ],
+    "clf": 1
   },
   "https://www.randstad.be:443/werknemers/jobs/s-aankoop-verkoop/s2-vertegenwoordigers-accountmanagers/r-commercieel-technisch-medewerker-binnendienst/": {
     "title": "Commercieel Technisch Medewerker Binnendienst",
@@ -10381,7 +10190,8 @@
     "signal_terms": [
       "outbound call",
       "telesales"
-    ]
+    ],
+    "clf": 1
   },
   "https://www.metropoolverzekeringen.be/vacatures/adviseur-businessverzekeringen": {
     "title": "Adviseur Businessverzekeringen Meer info",
@@ -10405,7 +10215,8 @@
       "email": "astrid.koslowski@verz.kbc.be"
     },
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   "https://www.randstad.be:443/werknemers/jobs/s-aankoop-verkoop/s2-vertegenwoordigers-accountmanagers/r-key-account-manager/": {
     "title": "Key Account Manager",
@@ -10426,7 +10237,8 @@
     "signal_terms": [
       "outbound call",
       "telesales"
-    ]
+    ],
+    "clf": 1
   },
   "https://www.randstad.be:443/werknemers/jobs/s-aankoop-verkoop/s2-vertegenwoordigers-accountmanagers/r-regio-account-manager/": {
     "title": "Regio Account Manager",
@@ -10451,7 +10263,8 @@
       "outbound call",
       "telesales",
       "hunter"
-    ]
+    ],
+    "clf": 1
   },
   "https://www.verzekeringenhendrickx.eu/vacatures/adviseur-verzekeringen-regio-holsbeek-aarschot-scherpenheuvel-zichem": {
     "title": "Adviseur verzekeringen regio Holsbeek - Aarschot - Scherpenheuvel-Zichem Meer info",
@@ -10474,7 +10287,8 @@
       "email": "david.vandensavel2@verz.kbc.be"
     },
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   "https://www.randstad.be:443/werknemers/jobs/s-aankoop-verkoop/s2-vertegenwoordigers-accountmanagers/r-sales-representative/": {
     "title": "Sales Representative",
@@ -10495,30 +10309,8 @@
     "signal_terms": [
       "outbound call",
       "telesales"
-    ]
-  },
-  "https://www.randstad.be:443/werknemers/jobs/s-aankoop-verkoop/s2-vertegenwoordigers-accountmanagers/r-showroom-adviseur/": {
-    "title": "Showroom Adviseur",
-    "url": "https://www.randstad.be:443/werknemers/jobs/s-aankoop-verkoop/s2-vertegenwoordigers-accountmanagers/r-showroom-adviseur/",
-    "company": "RANDSTAD HR SOLUTIONS",
-    "source": "https://www.randstad.be:443/werknemers/jobs/",
-    "first_seen": "2026-08-26",
-    "snippet": "Showroom Adviseur Jobs & vacatures | Randstad kantoren NL FR EN randstad een job zoeken alle jobs flexijob studentenjob studiegerelateerde job tijdelijke jobs tijdelijke jobs optie vast vast contract jobs per stad Aalst Antwerpen Brugge Brussel Genk Gent Hasselt Mechelen populaire bedrijven BD Circle K Distrilog H.Essers Kuehne+nagel Plopsa Soudal Volvo Cars profiel aanmaken werknemers mijn carrière beroepen carrièretips opleidingen sollicitatietips terug aan het werk waarom kiezen voor randstad operational construct contact center horeca industry logistics retail technics transport professional engineering finance en accounting healthcare HR life sciences office en admin sales en marketing studenten alle studentenjobs studierelevante job digital werkgevers onze oplossingen inhouse interim management online tools opleidingen overheid payrolling personeel aanwerven vaste aanwerving operational construct contact center horeca industry logistics retail technics transport professional engineering finance en accounting healthcare HR life sciences office en admin support sales en marketing digital enterprise career development employability MSP outplacement RPO talent advisory aan de sla",
-    "stack": [
-      "retail",
-      "B2C",
-      "Benelux",
-      "NL/FR"
     ],
-    "experience": null,
-    "in_belgium": true,
-    "signals": [
-      "…rs Producer Customer Service Commercieel Customer Service Medewerkers Inbound Callcenter Medewerker Outbound Callcenter Medewerker Telesales Customer Service Medewerkers Callcentermedewerker Consultant Klantenservice Customer Service Assist…"
-    ],
-    "signal_terms": [
-      "outbound call",
-      "telesales"
-    ]
+    "clf": 1
   },
   "https://www.randstad.be:443/werknemers/jobs/s-aankoop-verkoop/s2-vertegenwoordigers-accountmanagers/r-technisch-verkoopmedewerker/": {
     "title": "Technisch Verkoopmedewerker",
@@ -10540,31 +10332,8 @@
     "signal_terms": [
       "outbound call",
       "telesales"
-    ]
-  },
-  "https://www.randstad.be:443/werknemers/jobs/s-aankoop-verkoop/s2-vertegenwoordigers-accountmanagers/r-technisch-vertegenwoordiger/": {
-    "title": "Technisch Vertegenwoordiger",
-    "url": "https://www.randstad.be:443/werknemers/jobs/s-aankoop-verkoop/s2-vertegenwoordigers-accountmanagers/r-technisch-vertegenwoordiger/",
-    "company": "RANDSTAD HR SOLUTIONS",
-    "source": "https://www.randstad.be:443/werknemers/jobs/",
-    "first_seen": "2026-08-26",
-    "snippet": "Technisch Vertegenwoordiger Jobs & vacatures | Randstad kantoren NL FR EN randstad een job zoeken alle jobs flexijob studentenjob studiegerelateerde job tijdelijke jobs tijdelijke jobs optie vast vast contract jobs per stad Aalst Antwerpen Brugge Brussel Genk Gent Hasselt Mechelen populaire bedrijven BD Circle K Distrilog H.Essers Kuehne+nagel Plopsa Soudal Volvo Cars profiel aanmaken werknemers mijn carrière beroepen carrièretips opleidingen sollicitatietips terug aan het werk waarom kiezen voor randstad operational construct contact center horeca industry logistics retail technics transport professional engineering finance en accounting healthcare HR life sciences office en admin sales en marketing studenten alle studentenjobs studierelevante job digital werkgevers onze oplossingen inhouse interim management online tools opleidingen overheid payrolling personeel aanwerven vaste aanwerving operational construct contact center horeca industry logistics retail technics transport professional engineering finance en accounting healthcare HR life sciences office en admin support sales en marketing digital enterprise career development employability MSP outplacement RPO talent advisory ",
-    "stack": [
-      "B2B",
-      "technics",
-      "NL/FR/EN"
     ],
-    "experience": null,
-    "in_belgium": true,
-    "signals": [
-      "…rs Producer Customer Service Commercieel Customer Service Medewerkers Inbound Callcenter Medewerker Outbound Callcenter Medewerker Telesales Customer Service Medewerkers Callcentermedewerker Consultant Klantenservice Customer Service Assist…",
-      "Na een grondige sales- en productopleiding ga je actief de baan op om klanten en prospecten te adviseren, te toon jobdetails 29 juli 2026 vacatures in je mailbox."
-    ],
-    "signal_terms": [
-      "outbound call",
-      "telesales",
-      "prospecten"
-    ]
+    "clf": 1
   },
   "https://www.randstad.be:443/werknemers/jobs/s-aankoop-verkoop/s2-vertegenwoordigers-accountmanagers/r-telecomverkoper/": {
     "title": "Telecomverkoper",
@@ -10587,7 +10356,8 @@
     "signal_terms": [
       "outbound call",
       "telesales"
-    ]
+    ],
+    "clf": 1
   },
   "https://www.randstad.be:443/werknemers/jobs/s-aankoop-verkoop/s2-vertegenwoordigers-accountmanagers/r-verkoper-b2b/": {
     "title": "Verkoper B2B",
@@ -10608,7 +10378,8 @@
     "signal_terms": [
       "outbound call",
       "telesales"
-    ]
+    ],
+    "clf": 1
   },
   "https://jobs.alken-maes.com/doelgroep/off-trade/": {
     "title": "Sales Off-Trade",
@@ -10631,34 +10402,8 @@
       "email": null
     },
     "signals": [],
-    "signal_terms": []
-  },
-  "https://www.randstad.be:443/werknemers/jobs/s-customer-service/s2-commercieel-customer-service-medewerkers/": {
-    "title": "Commercieel Customer Service Medewerkers",
-    "url": "https://www.randstad.be:443/werknemers/jobs/s-customer-service/s2-commercieel-customer-service-medewerkers/",
-    "company": "RANDSTAD HR SOLUTIONS",
-    "source": "https://www.randstad.be:443/werknemers/jobs/",
-    "first_seen": "2026-08-26",
-    "snippet": "Commercieel Customer Service Medewerkers Jobs & vacatures | Randstad kantoren NL FR EN randstad een job zoeken alle jobs flexijob studentenjob studiegerelateerde job tijdelijke jobs tijdelijke jobs optie vast vast contract jobs per stad Aalst Antwerpen Brugge Brussel Genk Gent Hasselt Mechelen populaire bedrijven BD Circle K Distrilog H.Essers Kuehne+nagel Plopsa Soudal Volvo Cars profiel aanmaken werknemers mijn carrière beroepen carrièretips opleidingen sollicitatietips terug aan het werk waarom kiezen voor randstad operational construct contact center horeca industry logistics retail technics transport professional engineering finance en accounting healthcare HR life sciences office en admin sales en marketing studenten alle studentenjobs studierelevante job digital werkgevers onze oplossingen inhouse interim management online tools opleidingen overheid payrolling personeel aanwerven vaste aanwerving operational construct contact center horeca industry logistics retail technics transport professional engineering finance en accounting healthcare HR life sciences office en admin support sales en marketing digital enterprise career development employability MSP outplacement RPO tal",
-    "stack": [
-      "B2B",
-      "customer service",
-      "NL/FR/EN"
-    ],
-    "experience": null,
-    "in_belgium": true,
-    "signals": [
-      "…rs Producer Customer Service Commercieel Customer Service Medewerkers Inbound Callcenter Medewerker Outbound Callcenter Medewerker Telesales Customer Service Medewerkers Callcentermedewerker Consultant Klantenservice Customer Service Assist…",
-      "…eel customer service medewerkers customer service medewerkers functie inbound callcenter medewerker outbound callcenter medewerker telesales toon 4 jobs expertisedomeinen pagina 1 operational deeltijds medewerker klantendienst mobile viking…",
-      "Als Telesales Advisor maak je deel uit van onze dynamische commerciële afdeling en rapporteer je rechtstreeks aan de Telesales Manager.",
-      "…er ben jij de stem aan de andere kant van de lijn, verantwoordelijk voor de afspraakplanning tussen prospecten en Proximus.Jouw missie is om elke klant het gevoel te geven dat ze van het grootste belang zijn.…",
-      "telesales bornem, antwerpen tijdelijk met uitzicht op vast Heb jij een commerciële flair, een vlotte babbel in het Nederlands én Frans, en een grote passie voor food?"
-    ],
-    "signal_terms": [
-      "outbound call",
-      "telesales",
-      "prospecten"
-    ]
+    "signal_terms": [],
+    "clf": 1
   },
   "https://jobs.alken-maes.com/doelgroep/out-of-home/": {
     "title": "Sales Out of Home",
@@ -10676,7 +10421,8 @@
     "experience": null,
     "in_belgium": true,
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   "https://www.randstad.be:443/werknemers/jobs/s-customer-service/s2-commercieel-customer-service-medewerkers/r-telesales/": {
     "title": "Telesales",
@@ -10702,28 +10448,8 @@
     "signal_terms": [
       "telesales",
       "outbound call"
-    ]
-  },
-  "https://www.randstad.be:443/werknemers/jobs/s-data-bedrijfsanalyse/s2-analisten-bedrijfsadviseurs/r-commercieel-analist/": {
-    "title": "Commercieel Analist",
-    "url": "https://www.randstad.be:443/werknemers/jobs/s-data-bedrijfsanalyse/s2-analisten-bedrijfsadviseurs/r-commercieel-analist/",
-    "company": "RANDSTAD HR SOLUTIONS",
-    "source": "https://www.randstad.be:443/werknemers/jobs/",
-    "first_seen": "2026-08-26",
-    "snippet": "Commercieel Analist Jobs & vacatures | Randstad kantoren NL FR EN randstad een job zoeken alle jobs flexijob studentenjob studiegerelateerde job tijdelijke jobs tijdelijke jobs optie vast vast contract jobs per stad Aalst Antwerpen Brugge Brussel Genk Gent Hasselt Mechelen populaire bedrijven BD Circle K Distrilog H.Essers Kuehne+nagel Plopsa Soudal Volvo Cars profiel aanmaken werknemers mijn carrière beroepen carrièretips opleidingen sollicitatietips terug aan het werk waarom kiezen voor randstad operational construct contact center horeca industry logistics retail technics transport professional engineering finance en accounting healthcare HR life sciences office en admin sales en marketing studenten alle studentenjobs studierelevante job digital werkgevers onze oplossingen inhouse interim management online tools opleidingen overheid payrolling personeel aanwerven vaste aanwerving operational construct contact center horeca industry logistics retail technics transport professional engineering finance en accounting healthcare HR life sciences office en admin support sales en marketing digital enterprise career development employability MSP outplacement RPO talent advisory aan de s",
-    "stack": [
-      "B2B",
-      "sales and marketing"
     ],
-    "experience": null,
-    "in_belgium": true,
-    "signals": [
-      "…rs Producer Customer Service Commercieel Customer Service Medewerkers Inbound Callcenter Medewerker Outbound Callcenter Medewerker Telesales Customer Service Medewerkers Callcentermedewerker Consultant Klantenservice Customer Service Assist…"
-    ],
-    "signal_terms": [
-      "outbound call",
-      "telesales"
-    ]
+    "clf": 1
   },
   "https://www.randstad.be:443/werknemers/jobs/s-finance/s2-adviseurs-bank-verzekeringen/r-sales-medewerker/": {
     "title": "Sales Medewerker",
@@ -10753,54 +10479,8 @@
       "telesales",
       "prospectie",
       "outbound sales"
-    ]
-  },
-  "https://www.randstad.be:443/werknemers/jobs/s-finance/s2-adviseurs-bank-verzekeringen/r-verzekeringsmakelaar/": {
-    "title": "Verzekeringsmakelaar",
-    "url": "https://www.randstad.be:443/werknemers/jobs/s-finance/s2-adviseurs-bank-verzekeringen/r-verzekeringsmakelaar/",
-    "company": "RANDSTAD HR SOLUTIONS",
-    "source": "https://www.randstad.be:443/werknemers/jobs/",
-    "first_seen": "2026-08-26",
-    "snippet": "Verzekeringsmakelaar Jobs & vacatures | Randstad kantoren NL FR EN randstad een job zoeken alle jobs flexijob studentenjob studiegerelateerde job tijdelijke jobs tijdelijke jobs optie vast vast contract jobs per stad Aalst Antwerpen Brugge Brussel Genk Gent Hasselt Mechelen populaire bedrijven BD Circle K Distrilog H.Essers Kuehne+nagel Plopsa Soudal Volvo Cars profiel aanmaken werknemers mijn carrière beroepen carrièretips opleidingen sollicitatietips terug aan het werk waarom kiezen voor randstad operational construct contact center horeca industry logistics retail technics transport professional engineering finance en accounting healthcare HR life sciences office en admin sales en marketing studenten alle studentenjobs studierelevante job digital werkgevers onze oplossingen inhouse interim management online tools opleidingen overheid payrolling personeel aanwerven vaste aanwerving operational construct contact center horeca industry logistics retail technics transport professional engineering finance en accounting healthcare HR life sciences office en admin support sales en marketing digital enterprise career development employability MSP outplacement RPO talent advisory aan de ",
-    "stack": [
-      "B2B",
-      "Insurance",
-      "NL/FR/EN",
-      "Benelux"
     ],
-    "experience": null,
-    "in_belgium": true,
-    "signals": [
-      "…rs Producer Customer Service Commercieel Customer Service Medewerkers Inbound Callcenter Medewerker Outbound Callcenter Medewerker Telesales Customer Service Medewerkers Callcentermedewerker Consultant Klantenservice Customer Service Assist…",
-      "payment solutions waterloo, waals-brabant tijdelijk met uitzicht op vast Heb je een \"hunters\" mentaliteit, de ziel van een onderhandelaar en een passie voor klantgerichte oplossingen?"
-    ],
-    "signal_terms": [
-      "outbound call",
-      "telesales",
-      "hunters"
-    ]
-  },
-  "https://www.randstad.be:443/werknemers/jobs/s-finance/s2-bedrijfsadviseurs/r-bankadviseur/": {
-    "title": "Bankadviseur",
-    "url": "https://www.randstad.be:443/werknemers/jobs/s-finance/s2-bedrijfsadviseurs/r-bankadviseur/",
-    "company": "RANDSTAD HR SOLUTIONS",
-    "source": "https://www.randstad.be:443/werknemers/jobs/",
-    "first_seen": "2026-08-26",
-    "snippet": "Bankadviseur Jobs & vacatures | Randstad kantoren NL FR EN randstad een job zoeken alle jobs flexijob studentenjob studiegerelateerde job tijdelijke jobs tijdelijke jobs optie vast vast contract jobs per stad Aalst Antwerpen Brugge Brussel Genk Gent Hasselt Mechelen populaire bedrijven BD Circle K Distrilog H.Essers Kuehne+nagel Plopsa Soudal Volvo Cars profiel aanmaken werknemers mijn carrière beroepen carrièretips opleidingen sollicitatietips terug aan het werk waarom kiezen voor randstad operational construct contact center horeca industry logistics retail technics transport professional engineering finance en accounting healthcare HR life sciences office en admin sales en marketing studenten alle studentenjobs studierelevante job digital werkgevers onze oplossingen inhouse interim management online tools opleidingen overheid payrolling personeel aanwerven vaste aanwerving operational construct contact center horeca industry logistics retail technics transport professional engineering finance en accounting healthcare HR life sciences office en admin support sales en marketing digital enterprise career development employability MSP outplacement RPO talent advisory aan de slag aan",
-    "stack": [
-      "B2B",
-      "Finance",
-      "NL/FR/EN"
-    ],
-    "experience": null,
-    "in_belgium": true,
-    "signals": [
-      "…rs Producer Customer Service Commercieel Customer Service Medewerkers Inbound Callcenter Medewerker Outbound Callcenter Medewerker Telesales Customer Service Medewerkers Callcentermedewerker Consultant Klantenservice Customer Service Assist…"
-    ],
-    "signal_terms": [
-      "outbound call",
-      "telesales"
-    ]
+    "clf": 1
   },
   "https://www.randstad.be:443/werknemers/jobs/s-logistiek/s2-logistiek-managers/r-export-sales-manager/": {
     "title": "Export Sales Manager",
@@ -10822,29 +10502,8 @@
     "signal_terms": [
       "outbound call",
       "telesales"
-    ]
-  },
-  "https://www.randstad.be:443/werknemers/jobs/s-marketing-communicatie/s2-sales-marketingmedewerkers/r-customer-relationship-manager/": {
-    "title": "Customer Relationship Manager",
-    "url": "https://www.randstad.be:443/werknemers/jobs/s-marketing-communicatie/s2-sales-marketingmedewerkers/r-customer-relationship-manager/",
-    "company": "RANDSTAD HR SOLUTIONS",
-    "source": "https://www.randstad.be:443/werknemers/jobs/",
-    "first_seen": "2026-08-26",
-    "snippet": "Customer Relationship Manager Jobs & vacatures | Randstad kantoren NL FR EN randstad een job zoeken alle jobs flexijob studentenjob studiegerelateerde job tijdelijke jobs tijdelijke jobs optie vast vast contract jobs per stad Aalst Antwerpen Brugge Brussel Genk Gent Hasselt Mechelen populaire bedrijven BD Circle K Distrilog H.Essers Kuehne+nagel Plopsa Soudal Volvo Cars profiel aanmaken werknemers mijn carrière beroepen carrièretips opleidingen sollicitatietips terug aan het werk waarom kiezen voor randstad operational construct contact center horeca industry logistics retail technics transport professional engineering finance en accounting healthcare HR life sciences office en admin sales en marketing studenten alle studentenjobs studierelevante job digital werkgevers onze oplossingen inhouse interim management online tools opleidingen overheid payrolling personeel aanwerven vaste aanwerving operational construct contact center horeca industry logistics retail technics transport professional engineering finance en accounting healthcare HR life sciences office en admin support sales en marketing digital enterprise career development employability MSP outplacement RPO talent advisor",
-    "stack": [
-      "B2B",
-      "sales",
-      "NL/FR/EN"
     ],
-    "experience": null,
-    "in_belgium": true,
-    "signals": [
-      "…rs Producer Customer Service Commercieel Customer Service Medewerkers Inbound Callcenter Medewerker Outbound Callcenter Medewerker Telesales Customer Service Medewerkers Callcentermedewerker Consultant Klantenservice Customer Service Assist…"
-    ],
-    "signal_terms": [
-      "outbound call",
-      "telesales"
-    ]
+    "clf": 1
   },
   "https://www.vangilsgroup.be/vacature-business-development-manager/": {
     "title": "Vacature: Business Development Manager",
@@ -10868,7 +10527,8 @@
     ],
     "signal_terms": [
       "prospecten"
-    ]
+    ],
+    "clf": 1
   },
   "https://www.randstad.be:443/werknemers/jobs/s-marketing-communicatie/s2-sales-marketingmedewerkers/r-sales-marketing-medewerker/": {
     "title": "Sales & Marketing Medewerker",
@@ -10890,7 +10550,8 @@
     "signal_terms": [
       "outbound call",
       "telesales"
-    ]
+    ],
+    "clf": 1
   },
   "https://www.werkenbijvorsselmans.be/nl/vacature/28": {
     "title": "PROJECTTEAM Sales Manager Loenhout",
@@ -10914,53 +10575,8 @@
       "email": "info@vorsselmans.be"
     },
     "signals": [],
-    "signal_terms": []
-  },
-  "https://www.randstad.be:443/werknemers/jobs/s-productie/s2-bakkers-vleesverwerkers/r-verkoper-charcuterie/": {
-    "title": "Verkoper Charcuterie",
-    "url": "https://www.randstad.be:443/werknemers/jobs/s-productie/s2-bakkers-vleesverwerkers/r-verkoper-charcuterie/",
-    "company": "RANDSTAD HR SOLUTIONS",
-    "source": "https://www.randstad.be:443/werknemers/jobs/",
-    "first_seen": "2026-08-26",
-    "snippet": "Verkoper Charcuterie Jobs & vacatures | Randstad kantoren NL FR EN randstad een job zoeken alle jobs flexijob studentenjob studiegerelateerde job tijdelijke jobs tijdelijke jobs optie vast vast contract jobs per stad Aalst Antwerpen Brugge Brussel Genk Gent Hasselt Mechelen populaire bedrijven BD Circle K Distrilog H.Essers Kuehne+nagel Plopsa Soudal Volvo Cars profiel aanmaken werknemers mijn carrière beroepen carrièretips opleidingen sollicitatietips terug aan het werk waarom kiezen voor randstad operational construct contact center horeca industry logistics retail technics transport professional engineering finance en accounting healthcare HR life sciences office en admin sales en marketing studenten alle studentenjobs studierelevante job digital werkgevers onze oplossingen inhouse interim management online tools opleidingen overheid payrolling personeel aanwerven vaste aanwerving operational construct contact center horeca industry logistics retail technics transport professional engineering finance en accounting healthcare HR life sciences office en admin support sales en marketing digital enterprise career development employability MSP outplacement RPO talent advisory aan de ",
-    "stack": [
-      "retail",
-      "B2C",
-      "NL/FR/EN"
-    ],
-    "experience": null,
-    "in_belgium": true,
-    "signals": [
-      "…rs Producer Customer Service Commercieel Customer Service Medewerkers Inbound Callcenter Medewerker Outbound Callcenter Medewerker Telesales Customer Service Medewerkers Callcentermedewerker Consultant Klantenservice Customer Service Assist…"
-    ],
-    "signal_terms": [
-      "outbound call",
-      "telesales"
-    ]
-  },
-  "https://www.randstad.be:443/werknemers/jobs/flexi-verkoper_izegem_68566573-b1e2-4267-8d28-20cebf5f3746/": {
-    "title": "flexi verkoper",
-    "url": "https://www.randstad.be:443/werknemers/jobs/flexi-verkoper_izegem_68566573-b1e2-4267-8d28-20cebf5f3746/",
-    "company": "RANDSTAD HR SOLUTIONS",
-    "source": "https://www.randstad.be:443/werknemers/jobs/",
-    "first_seen": "2026-08-26",
-    "snippet": "vacature voor Flexi Verkoper in Izegem, West-Vlaanderen | Randstad kantoren NL FR EN randstad een job zoeken alle jobs flexijob studentenjob studiegerelateerde job tijdelijke jobs tijdelijke jobs optie vast vast contract jobs per stad Aalst Antwerpen Brugge Brussel Genk Gent Hasselt Mechelen populaire bedrijven BD Circle K Distrilog H.Essers Kuehne+nagel Plopsa Soudal Volvo Cars profiel aanmaken werknemers mijn carrière beroepen carrièretips opleidingen sollicitatietips terug aan het werk waarom kiezen voor randstad operational construct contact center horeca industry logistics retail technics transport professional engineering finance en accounting healthcare HR life sciences office en admin sales en marketing studenten alle studentenjobs studierelevante job digital werkgevers onze oplossingen inhouse interim management online tools opleidingen overheid payrolling personeel aanwerven vaste aanwerving operational construct contact center horeca industry logistics retail technics transport professional engineering finance en accounting healthcare HR life sciences office en admin support sales en marketing digital enterprise career development employability MSP outplacement RPO talen",
-    "stack": [
-      "Retail",
-      "B2C",
-      "Flanders",
-      "NL/FR",
-      "Junior",
-      "Farmer"
-    ],
-    "experience": null,
-    "in_belgium": true,
-    "contact": {
-      "name": "Laure & Marjorie",
-      "email": "industry.roeselare@randstad.be"
-    },
-    "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   "https://www.randstad.be:443/werknemers/jobs/verkoper_izegem_8aa66f10-d0ad-4224-8482-4c6dcbe0ced7/": {
     "title": "verkoper",
@@ -10984,7 +10600,8 @@
       "email": "industry.roeselare@randstad.be"
     },
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   "https://www.randstad.be:443/werknemers/jobs/verkoper_izegem_35503201-42a8-4050-80f3-3be4e5dcb458/": {
     "title": "verkoper",
@@ -11007,7 +10624,8 @@
       "email": "industry.roeselare@randstad.be"
     },
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   "https://www.vergalle.be/vacatures/verkoper/": {
     "title": "verkoper BE | NL | DUI",
@@ -11034,7 +10652,8 @@
     ],
     "signal_terms": [
       "prospecteren"
-    ]
+    ],
+    "clf": 1
   },
   "https://www.vergalle.be/vacatures/verkoper": {
     "title": "verkoper BE | NL | DUI",
@@ -11061,7 +10680,8 @@
     ],
     "signal_terms": [
       "prospecteren"
-    ]
+    ],
+    "clf": 1
   },
   "https://vigotec.be/vacatures/business-development-manager-utilities-infra/": {
     "title": "Business Development Manager Utilities & Infra",
@@ -11088,7 +10708,8 @@
     ],
     "signal_terms": [
       "prospect"
-    ]
+    ],
+    "clf": 1
   },
   "https://www.waterleau.com/en/careers/commercial-leader-rental-solutions-water-wastewater": {
     "title": "Commercial Leader – Rental Solutions (Water & Wastewater)",
@@ -11112,7 +10733,8 @@
     ],
     "signal_terms": [
       "new business "
-    ]
+    ],
+    "clf": 1
   },
   "https://www.winlockfiredoors.com/jobs/chief-commercial-officer/": {
     "title": "Chief Commercial Officer (CCO)",
@@ -11136,7 +10758,8 @@
       "email": "hr@winlockfiredoors.com"
     },
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   "https://www.winlockfiredoors.com/jobs/sales-engineer-west-vlaanderen-2/": {
     "title": "Sales Engineer West-Vlaanderen",
@@ -11159,25 +10782,8 @@
       "email": "hr@winlockfiredoors.com"
     },
     "signals": [],
-    "signal_terms": []
-  },
-  "https://warsco.eu/nl/jobs/Backoffice & Sales Coordinator": {
-    "title": "Backoffice & Sales Coordinator (m/v/x)",
-    "url": "https://warsco.eu/nl/jobs/Backoffice & Sales Coordinator",
-    "company": "WARSCO UNITS",
-    "source": "https://warsco.eu/nl/jobs",
-    "first_seen": "2026-08-26",
-    "snippet": "Aanbod 01. Unitassortiment 02. Zeecontainer 03. Huren 04. Kopen 05. Tweedehands 06. Nu beschikbaar Technologie Realisaties Over ons 01. Over ons 02. Aanpak 03. Nieuws Jobs FAQ Contact Offerte nl en nl fr de Backoffice & Sales Coordinator (m/v/x) Warsco NV Solliciteren 01. Taken & Verantwoordelijkheden 02. Profiel & Aanbod Word jij onze nieuwe Warscollega? Ben jij hands-on, enthousiast & gedreven, met een voorliefde voor een technisch product en open voor een nieuwe uitdaging? Bij Warsco Units kom je terecht in een veelzijdig familiebedrijf in volle groei. Door onze rijke geschiedenis zijn wij uitgegroeid tot specialisten in de modulaire unitbouw in België en omstreken. Wij staan in voor het ontwerp, de productie, de verhuur/verkoop, het transport, de plaatsing én de service voor onze units. Achter elk succesvol project staat een gemotiveerd team van vakmensen die kwaliteit, veiligheid en samenwerking centraal zetten. Wil jij meebouwen aan oplossingen die écht het verschil maken? Ontdek onze vacatures en versterk ons team. Jouw Taken & Verantwoordelijkheden Je controleert, analyseert en coördineert, en vormt daarbij een belangrijke schakel tussen verkoop, logistiek en productie. Je ",
-    "stack": [
-      "B2B",
-      "logistics",
-      "construction",
-      "NL/FR"
-    ],
-    "experience": null,
-    "in_belgium": true,
-    "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   "https://www.winlockfiredoors.com/jobs/sales-engineer-oost-vlaanderen-2/": {
     "title": "Sales Engineer Oost-Vlaanderen",
@@ -14247,6 +13853,902 @@
     "contact": {
       "name": "Amber Vangerven",
       "email": "amber.vangerven@mail.fiftyfiveplus.be"
+    },
+    "signals": [],
+    "signal_terms": []
+  },
+  "https://jobs.aluminiumduffel.com/nl/vacatures/g/jobs/c/sales--marketing-13019/index.aspx": {
+    "title": "Sales & Marketing (1)",
+    "url": "https://jobs.aluminiumduffel.com/nl/vacatures/g/jobs/c/sales--marketing-13019/index.aspx",
+    "company": "Aluminium Duffel",
+    "source": "https://jobs.aluminiumduffel.com/index.aspx",
+    "first_seen": "2026-09-01",
+    "snippet": "Recente Vacatures | Aluminium Duffel Aluminium Duffel Recente Vacatures Ga naar hoofdinhoud Aluminium Duffel nl en Onze jobs Studenten & Stages Mijn profiel Careers at Aluminium Duffel If you’re driven to contribute and succeed, you’ve come to the right place. View vacancies Careers at Aluminium Duffel If you’re driven to contribute and succeed, you’ve come to the right place. View vacancies Careers at Aluminium Duffel If you’re driven to contribute and succeed, you’ve come to the right place. View vacancies Kom bij Aluminium Duffel proeven van een eerste praktijkervaring. d-none Kies een jobcategorie Maintenance (2) Onderhoudsmedewerker (1) Shifttechnieker (1) Production (6) Operator (4) Planner (1) Supervisor (1) Sales & Marketing (1) (Key) Account Manager (1) Spontane sollicitatie (1) Spontane sollicitatie (1) Onze vacatures : Sales & Marketing Business Development/Key Account Manager Want to join our Sales team? We offer you a dynamic and central role in our Specialties Team, where you can drive the growth of our business and represent the face of the company toward the customer. Resultaat 1 - 1 van 1 Vacatures Even geduld, uw aanvraag wordt verwerkt Mail naar uw vrienden Mail(",
+    "stack": [
+      "B2B",
+      "Industrial",
+      "Flanders",
+      "NL/EN"
+    ],
+    "experience": null,
+    "in_belgium": true,
+    "signals": [],
+    "signal_terms": []
+  },
+  "https://www.grepdonverzekeringen.be/vacatures/relatiebeheerder-verzekeringen-2": {
+    "title": "Adviseur Verzekeringen",
+    "url": "https://www.grepdonverzekeringen.be/vacatures/relatiebeheerder-verzekeringen-2",
+    "company": "GEERT GREPDON",
+    "source": "https://www.grepdonverzekeringen.be/vacatures/relatiebeheerder-verzekeringen",
+    "first_seen": "2026-09-01",
+    "snippet": "Adviseur Verzekeringen | Grepdon Verzekeringen Lexicon Vacatures 2 Contact Producten Nieuws Team Schade Lexicon Vacatures 2 Contact Adviseur Verzekeringen Relatiebeheerder Verzekeringen Adviseur Verzekeringen Zin in de job van je leven? Een KBC-verzekeringsagentschap, dat is een hecht team onder leiding van een zelfstandige verzekeringsagent. Wil jij daar ook deel van uitmaken? Het team van Grepdon Verzekeringen is nog op zoek naar een relatiebeheerder Verzekeringen met goesting. Je werkt nauw samen met je verzekeringsagent en je collega’s om verzekeringsproducten te verkopen en schadegevallen af te handelen. Je komt dagelijks in contact met de klanten van het agentschap. Allemaal klanten die veel expertise nodig hebben. Wat houdt je functie in? Als adviseur help je klanten met al hun verzekeringsvragen, meestal op kantoor maar soms ga je ook naar hen toe. Commerciële kansen ontgaan jou niet. Je werkt zelfstandig: offertes opmaken, polissen opstellen en onderhandelen met je klanten. Uiteraard kun je altijd rekenen op de ondersteuning van je ervaren collega’s. In deze veelzijdige functie maak je ook schadedossiers aan en zorg je voor het administratieve beheer ervan. Onderhandelen m",
+    "stack": [
+      "B2B",
+      "Insurance",
+      "Belgium"
+    ],
+    "experience": null,
+    "in_belgium": true,
+    "contact": {
+      "name": "Reinout Grepdon",
+      "email": "reinout.grepdon@verz.kbc.be"
+    },
+    "signals": [],
+    "signal_terms": []
+  },
+  "https://www.vdk.be/nl/overzicht-vacatures/relatiebeheerder-charleroi": {
+    "title": "Relatiebeheerder Charleroi",
+    "url": "https://www.vdk.be/nl/overzicht-vacatures/relatiebeheerder-charleroi",
+    "company": "vdk bank",
+    "source": "https://www.vdk.be/nl/particulieren/werken-bij-vdk-bank",
+    "first_seen": "2026-09-01",
+    "snippet": "Relatiebeheerder Charleroi | vdk bank Overslaan en naar de inhoud gaan Particulieren Professionelen Vind je kantoor Vragen? Maak een afspraak Nieuws Online banking Select your language nl Laat dit veld leeg vdk bank Dagelijks bankieren Hoofdmenu Dagelijks bankieren Alles over dagelijks bankieren Betaalrekeningen Betaalrekeningen Flux betaalrekening You Count zichtrekening Meer over betaalrekeningen Betaalmiddelen Betaalmiddelen De mobile@vdk-app Online bankieren via online@vdk Betaalkaarten Meer over betaalmiddelen Snel naar Snel naar Stap over naar vdk bank Open online je rekening Phishing Sparen en beleggen Hoofdmenu Sparen en beleggen Alles over sparen en beleggen Sparen Sparen Sparen op je eigen ritme Sparen met maatschappelijk engagement Klassiek sparen Sparen als jongere Kortetermijnrekening Termijnrekening Meer over sparen Beleggen Beleggen Beleggen vanaf 50 euro per maand Beleggen met een impact Pensioensparen Kasbons & depositocertificaten Spaarverzekering - Tak 21 Staatsbons Gestructureerde obligaties Meer over beleggen Snel naar Snel naar Ons ethisch spaargeldbeleid Vind de spaarrekening die bij je past Onze beleggingsaanpak Simuleer je rendement Alles over de meerwaarde",
+    "stack": [
+      "B2B",
+      "Banking",
+      "Wallonia",
+      "NL/FR",
+      "farmer"
+    ],
+    "experience": "3+ yrs",
+    "in_belgium": true,
+    "contact": {
+      "name": "Deweirdt Nancy",
+      "email": null
+    },
+    "signals": [
+      "Je bouwt jouw netwerk uit, prospecteert en detecteert commerciële opportuniteiten."
+    ],
+    "signal_terms": [
+      "prospecteert"
+    ]
+  },
+  "https://www.kwadro.be/nl/jobs/commercieel-adviseur-kwadro-leuven": {
+    "title": "Commercieel adviseur | KwadrO Leuven",
+    "url": "https://www.kwadro.be/nl/jobs/commercieel-adviseur-kwadro-leuven",
+    "company": "KwaWEST",
+    "source": "https://www.kwadro.be/nl/jobs",
+    "first_seen": "2026-09-01",
+    "snippet": "Commercieel adviseur | KwadrO Leuven | KwadrO Ramen en Deuren Overslaan en naar de inhoud gaan Created with Sketch. image/svg+xml Page 1 Created with Sketch. image/svg+xml Vind een showroom in je buurt Vraag een offerte arrow-right Jobs NL Offerte arrow-right Header menu Ramen Pvc Aluminium Hout Deuren Landelijk Modern Klassiek Schuiframen Soorten Hoe kiezen? Op maat Inspiratie Tools Klanten Corner Allerlei vragen Service aanvraag Onderhouds-producten KwadrO Fan Gezien op TV Menu hamburger Primary mobile Ramen Deuren Inspiratie Kruimelpad Home Jobs Commercieel adviseur | KwadrO Leuven Commercieel adviseur | KwadrO Leuven Vlaams-Brabant Verkoop Vacature delen Meteen solliciteren Sinds 2003 is KwadrO gespecialiseerd in ramen en deuren voor nieuwbouw en renovatie, met meer dan 20 vestigingen in Vlaanderen. Bij KwadrO staat kwaliteit centraal, zowel in producten als service, met een persoonlijke aanpak en gepassioneerde vakmensen. Klinkt goed? Goed nieuws: het team van KwadrO Leuven is nog op zoek naar een nieuwe collega! What’s in it for you? Behalve de glimlach op je gezicht, bieden we je ook: een bedrijfswagen, gsm en laptop; een eerlijke verloning met extra’s zoals incentives op ba",
+    "stack": [
+      "B2B",
+      "construction",
+      "Flanders",
+      "NL",
+      "senior",
+      "hunter"
+    ],
+    "experience": "5+ yrs",
+    "in_belgium": true,
+    "contact": {
+      "name": "Stefan Thomas",
+      "email": "stefan.thomas@kwadro.be"
+    },
+    "signals": [],
+    "signal_terms": []
+  },
+  "https://www.kwadro.be/nl/jobs/commercieel-adviseur-kwadro-herentals": {
+    "title": "Commercieel adviseur | KwadrO Herentals",
+    "url": "https://www.kwadro.be/nl/jobs/commercieel-adviseur-kwadro-herentals",
+    "company": "KwaWEST",
+    "source": "https://www.kwadro.be/nl/jobs",
+    "first_seen": "2026-09-01",
+    "snippet": "Commercieel adviseur | KwadrO Herentals Overslaan en naar de inhoud gaan Created with Sketch. image/svg+xml Page 1 Created with Sketch. image/svg+xml Vind een showroom in je buurt Vraag een offerte arrow-right Jobs NL Offerte arrow-right Header menu Ramen Pvc Aluminium Hout Deuren Landelijk Modern Klassiek Schuiframen Soorten Hoe kiezen? Op maat Inspiratie Tools Klanten Corner Allerlei vragen Service aanvraag Onderhouds-producten KwadrO Fan Gezien op TV Menu hamburger Primary mobile Ramen Deuren Inspiratie Kruimelpad Home Jobs Commercieel adviseur | KwadrO Herentals Commercieel adviseur | KwadrO Herentals Antwerpen Verkoop Vacature delen Meteen solliciteren Sinds 2003 is KwadrO gespecialiseerd in ramen en deuren voor nieuwbouw en renovatie, met meer dan 20 vestigingen in Vlaanderen. Bij KwadrO staat kwaliteit centraal, zowel in producten als service, met een persoonlijke aanpak en gepassioneerde vakmensen. Klinkt goed? Goed nieuws: het team van KwadrO Herentals is nog op zoek naar een nieuwe collega! What’s in it for you? Behalve de glimlach op je gezicht, bieden we je ook: een bedrijfswagen, gsm en laptop; een eerlijke verloning met extra’s zoals incentives op basis van prestaties",
+    "stack": [
+      "B2C",
+      "construction",
+      "Flanders",
+      "NL",
+      "senior",
+      "hunter"
+    ],
+    "experience": "5+ yrs",
+    "in_belgium": true,
+    "contact": {
+      "name": "Stefan Thomas",
+      "email": "stefan.thomas@kwadro.be"
+    },
+    "signals": [],
+    "signal_terms": []
+  },
+  "https://www.stepstone.be/jobs--Internal-Sales-Medewerker-Vichte-Rock-Recruitment--2240618-inline.html": {
+    "title": "Internal Sales Medewerker",
+    "url": "https://www.stepstone.be/jobs--Internal-Sales-Medewerker-Vichte-Rock-Recruitment--2240618-inline.html",
+    "company": "t Soetekint - de Levensboom",
+    "source": "https://www.stepstone.be/jobs",
+    "first_seen": "2026-09-01",
+    "snippet": "Internal Sales Medewerker - Job at Rock Recruitment in Vichte Find Jobs Find Jobs Internal Sales Medewerker Rock Recruitment Vichte Contract duration unspecified Full Time Published: 3 minutes ago Be an early applicant Internal Sales Medewerker Rock Recruitment Introductie Deze Belgische KMO ontwikkelt en verdeelt praktische producten voor tuin, zwembad, vijver en dierenverzorging en heeft een sterk verkoopnetwerk in België, Nederland en Frankrijk. Met 70 tot 80 medewerkers en een omzet van ongeveer €28 miljoen combineert het bedrijf een stevige basis met verdere groeiambities. De cultuur is open en ondernemend: collega's helpen elkaar, communiceren duidelijk en krijgen ruimte om zelfstandig verantwoordelijkheid op te nemen. Jouw verantwoordelijkheden Als Internal Sales Medewerker ondersteun je de buitendienst en zorg je dat de verkoopadministratie voor Frankrijk en de Benelux correct en efficiënt verloopt. Je verwerkt, bevestigt en volgt bestellingen zorgvuldig op. Je organiseert het transport naar klanten en bewaakt de leveropvolging. Je verzorgt de facturatie en maakt creditnota's op wanneer nodig. Je houdt klantengegevens, prijzen en verkoopvoorwaarden correct bij in het ERP-sy",
+    "stack": [
+      "B2B",
+      "FMCG",
+      "Benelux",
+      "NL/FR",
+      "farmer"
+    ],
+    "experience": null,
+    "in_belgium": true,
+    "signals": [],
+    "signal_terms": []
+  },
+  "https://www.stepstone.be/jobs--Marketing-en-Sales-officer-Antwerpen-Capacity--2238800-inline.html": {
+    "title": "Marketing en Sales officer",
+    "url": "https://www.stepstone.be/jobs--Marketing-en-Sales-officer-Antwerpen-Capacity--2238800-inline.html",
+    "company": "t Soetekint - de Levensboom",
+    "source": "https://www.stepstone.be/jobs",
+    "first_seen": "2026-09-01",
+    "snippet": "Marketing en Sales officer - Job at Capacity in Antwerpen Find Jobs Find Jobs Marketing en Sales officer Capacity Antwerpen Contract duration unspecified Full Time, Home Office Published: 37 minutes ago Easy apply Marketing en Sales officer Capacity Introductie Wij zijn op zoek naar een nieuwe medewerker voor een stabiele en internationale - sterk groeiende - organisatie en producent van ecologisch verantwoorde oplossingen in de internationale B2B markt. Ben jij een gemotiveerde potential met uitgesproken interesse in sales en marketing? Hier werken staat voor bouwen aan een sterk en duurzaam merk, werken in een uitstekende sfeer met gezellige collega's! We zijn op zoek naar een creatief marketing en sales talent met sterke organisatorische vaardigheden en een positieve mindset. Jouw verantwoordelijkheden In deze functie ben je verantwoordelijk voor de opvolging van een relatief kleine klantenportefeuille (een twintigtal key accounts) regio Europa, je doel is een sterke klantenrelatie mee op te bouwen en mee de offertes en orderopvolging te doen. Je verzorgt de internationale contacten (via mail/telefoon/zoom) en de hieruit volgende administratie (onder andere het opvolgen en opmak",
+    "stack": [
+      "B2B",
+      "FMCG",
+      "junior",
+      "farmer",
+      "NL/EN",
+      "Antwerpen"
+    ],
+    "experience": null,
+    "in_belgium": true,
+    "signals": [],
+    "signal_terms": []
+  },
+  "https://www.stepstone.be/jobs--Account-Executive-m-f-d-Region-BENELUX-Antwerp-IKA-Werke-GmbH-Co-KG--2236304-inline.html": {
+    "title": "Account Executive (m/f/d) Region BENELUX",
+    "url": "https://www.stepstone.be/jobs--Account-Executive-m-f-d-Region-BENELUX-Antwerp-IKA-Werke-GmbH-Co-KG--2236304-inline.html",
+    "company": "t Soetekint - de Levensboom",
+    "source": "https://www.stepstone.be/jobs",
+    "first_seen": "2026-09-01",
+    "snippet": "Account Executive (m/f/d) Region BENELUX - Job at IKA-Werke GmbH & Co. KG in Antwerp Find Jobs Find Jobs Account Executive (m/f/d) Region BENELUX IKA-Werke GmbH & Co. KG Antwerp Contract duration unspecified Full Time, Home Office Published: 1 hour ago Be an early applicant Account Executive (m/f/d) Region BENELUX IKA-Werke GmbH & Co. KG Start your career with an innovative company with a global presence IKA is the place where people turn visions in laboratory and analytical technology, process engineering, bioprocessing, and electric vehicle battery solutions into reality. We are a future-proof, internationally active family-owned company with a strong team spirit. Founded in 1910, IKA quickly became the global market leader in laboratory technology as well as dispersing, stirring, and kneading equipment. Today, we employ nearly 1,000 people across 16 locations on five continents. We are currently seeking a motivated Account Executive, Enterprise for Laboratory- and Analytical Technologies for the region Belgium, the Netherlands, and Luxembourg to join our global sales team. In this role, you will be responsible for driving sales growth and building strong customer relationships i",
+    "stack": [
+      "B2B",
+      "Industrial",
+      "Benelux",
+      "NL/EN",
+      "junior"
+    ],
+    "experience": "1-2 yrs",
+    "in_belgium": true,
+    "signals": [
+      "…ipating in international trade fairs Continuously monitoring the market and competitors to identify new business opportunities Regular team reporting and maintaining and updating customer data in the CRM system Your Profile Completed degree…"
+    ],
+    "signal_terms": [
+      "new business "
+    ]
+  },
+  "https://www.stepstone.be/jobs--High-Potential-Sales-Representative-B2B-Vlaanderen-Dixon-Sales-Marketing--2236133-inline.html": {
+    "title": "High Potential Sales Representative B2B",
+    "url": "https://www.stepstone.be/jobs--High-Potential-Sales-Representative-B2B-Vlaanderen-Dixon-Sales-Marketing--2236133-inline.html",
+    "company": "t Soetekint - de Levensboom",
+    "source": "https://www.stepstone.be/jobs",
+    "first_seen": "2026-09-01",
+    "snippet": "High Potential Sales Representative B2B - Job at Dixon Sales & Marketing in Vlaanderen Find Jobs Find Jobs High Potential Sales Representative B2B Dixon Sales & Marketing Vlaanderen Contract duration unspecified Full Time Published: 2 hours ago Easy apply High Potential Sales Representative B2B Dixon Sales & Marketing Introductie Onze klant is een groeiende en ambitieuze speler binnen de FMCG- en consumer goods-markt. Vanuit een sterke focus op kwaliteit, service en klantenrelaties bouwen zij dagelijks aan duurzame partnerships met professionele klanten. Om hun commerciële team verder te versterken, zijn zij op zoek naar een High Potential Sales Representative . Je start in een commerciële buitendienstfunctie en krijgt de kans om je op korte termijn verder te ontwikkelen richting een zelfstandige Account Manager . Een mooie opportuniteit voor een jonge commerciële professional die al een eerste ervaring heeft opgebouwd en klaar is voor de volgende stap in zijn of haar carrière. Jouw verantwoordelijkheden Als Sales Representative ben je het commerciële gezicht van de organisatie. Je bent voornamelijk actief op de baan en staat in nauw contact met klanten en prospecten binnen FMCG, f",
+    "stack": [
+      "B2B",
+      "FMCG",
+      "Flanders",
+      "NL/EN",
+      "junior"
+    ],
+    "experience": "1-2 yrs",
+    "in_belgium": true,
+    "signals": [
+      "Je bent voornamelijk actief op de baan en staat in nauw contact met klanten en prospecten binnen FMCG, food, non-food en retail.",
+      "Jouw verantwoordelijkheden omvatten onder andere: Actief bezoeken van bestaande klanten en prospecten.",
+      "Prospecteren en identificeren van nieuwe commerciële opportuniteiten."
+    ],
+    "signal_terms": [
+      "prospecten",
+      "prospecteren"
+    ]
+  },
+  "https://www.stepstone.be/jobs--Accountmanager-FMCG-Oost-West-Vlaanderen-Oost-Vlaanderen-Dixon-Sales-Marketing--2221687-inline.html": {
+    "title": "Accountmanager FMCG | Oost & West-Vlaanderen",
+    "url": "https://www.stepstone.be/jobs--Accountmanager-FMCG-Oost-West-Vlaanderen-Oost-Vlaanderen-Dixon-Sales-Marketing--2221687-inline.html",
+    "company": "t Soetekint - de Levensboom",
+    "source": "https://www.stepstone.be/jobs",
+    "first_seen": "2026-09-01",
+    "snippet": "Accountmanager FMCG | Oost & West-Vlaanderen - Job at Dixon Sales & Marketing in Oost-Vlaanderen Find Jobs Find Jobs Accountmanager FMCG | Oost & West-Vlaanderen Dixon Sales & Marketing Oost-Vlaanderen Contract duration unspecified Full Time Published: 2 hours ago Easy apply Accountmanager FMCG | Oost & West-Vlaanderen Dixon Sales & Marketing Introductie Onze klant is een snel groeiend en ambitieus dranken merk dat stevig verankerd zit in de Belgische Out of Home markt. Met een uitgesproken lifestyle-positionering en een sterk merkidentiteit zijn ze aanwezig in de meest relevante bars, clubs, festivals en events. Ze maken deel uit van een grotere, stabiele Belgische drankengroep en combineren de energie van een scale-up met de structuur en middelen van een gevestigde organisatie. De komende jaren willen ze hun marktaandeel in de Belgische OOH markt verder uitbouwen en daar zoeken ze een commercieel talent voor. Jouw verantwoordelijkheden Beheren van een vaste klanten portefeuille, actief prospecteren en nieuwe accounts binnenhalen bij bars, clubs, pop-ups, festivals en nightlife locaties in jouw regio Duurzame relaties opbouwen en onderhouden met bestaande klanten Visibiliteit en a",
+    "stack": [
+      "FMCG",
+      "B2B",
+      "Flanders",
+      "hunter",
+      "farmer"
+    ],
+    "experience": "3+ yrs",
+    "in_belgium": true,
+    "signals": [
+      "Jouw verantwoordelijkheden Beheren van een vaste klanten portefeuille, actief prospecteren en nieuwe accounts binnenhalen bij bars, clubs, pop-ups, festivals en nightlife locaties in jouw regio Duurzame relaties opbouwen en onderhouden met…"
+    ],
+    "signal_terms": [
+      "prospecteren"
+    ]
+  },
+  "https://www.stepstone.be/jobs--Accountmanager-FMCG-Antwerpen-Antwerpen-Dixon-Sales-Marketing--2221686-inline.html": {
+    "title": "Accountmanager FMCG | Antwerpen",
+    "url": "https://www.stepstone.be/jobs--Accountmanager-FMCG-Antwerpen-Antwerpen-Dixon-Sales-Marketing--2221686-inline.html",
+    "company": "t Soetekint - de Levensboom",
+    "source": "https://www.stepstone.be/jobs",
+    "first_seen": "2026-09-01",
+    "snippet": "Accountmanager FMCG | Antwerpen - Job at Dixon Sales & Marketing in Antwerpen Find Jobs Find Jobs Accountmanager FMCG | Antwerpen Dixon Sales & Marketing Antwerpen Contract duration unspecified Full Time Published: 2 hours ago Easy apply Accountmanager FMCG | Antwerpen Dixon Sales & Marketing Introductie Onze klant is een snel groeiend en ambitieus dranken merk dat stevig verankerd zit in de Belgische Out of Home markt. Met een uitgesproken lifestyle-positionering en een sterk merkidentiteit zijn ze aanwezig in de meest relevante bars, clubs, festivals en events. Ze maken deel uit van een grotere, stabiele Belgische drankengroep en combineren de energie van een scale-up met de structuur en middelen van een gevestigde organisatie. De komende jaren willen ze hun marktaandeel in de Belgische OOH markt verder uitbouwen en daar zoeken ze een commercieel talent voor. Jouw verantwoordelijkheden Beheren van een vaste klanten portefeuille, actief prospecteren en nieuwe accounts binnenhalen bij bars, clubs, pop-ups, festivals en nightlife locaties in jouw regio Duurzame relaties opbouwen en onderhouden met bestaande klanten Visibiliteit en activaties opzetten die het merk op de juiste manier",
+    "stack": [
+      "FMCG",
+      "B2B",
+      "Flanders",
+      "NL/FR",
+      "hunter",
+      "farmer"
+    ],
+    "experience": "3+ yrs",
+    "in_belgium": true,
+    "signals": [
+      "Jouw verantwoordelijkheden Beheren van een vaste klanten portefeuille, actief prospecteren en nieuwe accounts binnenhalen bij bars, clubs, pop-ups, festivals en nightlife locaties in jouw regio Duurzame relaties opbouwen en onderhouden met…",
+      "Wommelgem Partially remote 23 hours ago NEW Accountmanager new business Intelect Turnhout Provincie Antwerpen 1 week ago Export Manager Food Europe Dixon Sales & Marketing Antwerpen 4 days ago High Potential Sales Representative B2B Dixon S…"
+    ],
+    "signal_terms": [
+      "prospecteren",
+      "new business "
+    ]
+  },
+  "https://solarmagazine.nl/vacatures/i44299/account-manager-wallonie": {
+    "title": "GPC Europe Account Manager Wallonië GPC Europe, Careelstraat 2, B-8700 Tielt Fulltime (40 uur)",
+    "url": "https://solarmagazine.nl/vacatures/i44299/account-manager-wallonie",
+    "company": "7c Solarparken",
+    "source": "https://solarmagazine.nl/vacatures",
+    "first_seen": "2026-09-01",
+    "snippet": "Solar & Storage Magazine - Account Manager Wallonië Nieuws Nieuws Productzoeker Installateurzoeker Bedrijvenregister Tijdschrift Contact Account Manager Wallonië GPC Europe GPC Europe, Careelstraat 2, B-8700 Tielt Business Development Professional Wallonië – Geef duurzame energie mee vorm De energietransitie draait op volle toeren en bij GPC Europe spelen we daarin een actieve rol. Als gespecialiseerde groothandel in zonnepanelen, batterijsystemen, omvormers en andere duurzame energieoplossingen ondersteunen we installateurs en technische bedrijven bij het realiseren van toekomstgerichte projecten. Om onze verdere groei in Wallonië te ondersteunen, zijn we op zoek naar een enthousiaste Business Development Professional die commerciële kansen weet om te zetten in duurzame partnerships. In deze functie word jij het gezicht van GPC Europe in Wallonië. Je gaat actief op zoek naar nieuwe klanten, bouwt een sterk netwerk uit en weet prospects te overtuigen van de meerwaarde van onze oplossingen. Dankzij jouw commerciële drive en klantgerichte aanpak creëer je nieuwe opportuniteiten en help je onze positie in de markt verder versterken. Je bent een geboren relatiebouwer die energie haalt ",
+    "stack": [
+      "B2B",
+      "Energy/Solar",
+      "Wallonia",
+      "NL/FR",
+      "Hunter"
+    ],
+    "experience": null,
+    "in_belgium": true,
+    "contact": {
+      "name": "Magalie Migneau",
+      "email": "magalie.migneau@gpceurope.com"
+    },
+    "signals": [
+      "Je gaat actief op zoek naar nieuwe klanten, bouwt een sterk netwerk uit en weet prospects te overtuigen van de meerwaarde van onze oplossingen."
+    ],
+    "signal_terms": [
+      "prospects"
+    ]
+  },
+  "https://www.afvalalternatief.be/vacancy/commerciele-medewerker-planning/": {
+    "title": "Commerciële medewerker planning Bediende",
+    "url": "https://www.afvalalternatief.be/vacancy/commerciele-medewerker-planning/",
+    "company": "Afval Alternatief",
+    "source": "https://www.afvalalternatief.be/vacatures/",
+    "first_seen": "2026-09-01",
+    "snippet": "Commerciële medewerker planning - Afval Alternatief +32 14 88 24 00 info@afvalalternatief.be Vraag uw gratis afvalscan Vacatures Contact GRATIS AFVALSCAN MIJN AA +32 14 88 24 00 menu +32 14 88 24 00 SLUITEN DIENSTEN Extra diensten Afzetcontainers Rolcontainers ONZE AANPAK KMO RECYCLAGEPARK NIEUWS GRATIS AFVALSCAN VACATURES Offerte aanvragen info@afvalalternatief.be +32 14 88 24 00 Diensten Rolcontainers Afzetcontainers Transport Extra diensten KMO Recyclagepark Onze aanpak Nieuws Offerte aanvragen Alle vacatures Commerciële medewerker planning ADMINISTRATIE Over ons Afval Alternatief, gevestigd in Dessel, is sinds 2012 uitgegroeid tot een toonaangevende speler in het ophalen van bedrijfsafval. Met 110 medewerkers en meer dan 40 vrachtwagens zorgen we dagelijks voor een efficiënte en milieuvriendelijke afvalinzameling voor ongeveer 15.000 kmo’s in Vlaanderen. Daarnaast maken we deel uit van de Bruco Group waar we ook de verwerking van het opgehaalde bedrijfsafval beheren. Door onze decentrale operationele structuur staan onze vrachtwagens verspreid over heel Vlaanderen. Daardoor kunnen we snel schakelen en een flexibele dienstverlening garanderen. Onze klanten staan voor ons centraa",
+    "stack": [
+      "B2B",
+      "logistics",
+      "Flanders",
+      "NL",
+      "junior"
+    ],
+    "experience": null,
+    "in_belgium": true,
+    "contact": {
+      "name": null,
+      "email": "info@afvalalternatief.be"
+    },
+    "signals": [],
+    "signal_terms": []
+  },
+  "https://jobs.dieteren.be/fr/career-sectors/commercial-relations": {
+    "title": "Commercial Relations",
+    "url": "https://jobs.dieteren.be/fr/career-sectors/commercial-relations",
+    "company": "DIETEREN LEASE",
+    "source": "https://jobs.dieteren.be/fr",
+    "first_seen": "2026-09-01",
+    "snippet": "Commercial Relations | Jobsite Dieteren Skip to main content Navigation principale Who we are Job categories Jobs People corner fr FR NL Commercial Relations Breadcrumb Home Nos métiers Commercial Relations Occupez-vous de la gestion stratégique des clients Nous avons trouvé 13 jobs pour vous Customer Success Manager Commercial Relations CDI Hybride BE 1000 Brussel About the RoleThe Head of Customer Success leads a multidisciplinary team responsible for delivering an exceptional experience to Mbrella's SME and Enterprise clients. Plus d'infos Senior Enterprise Account Executive Commercial Relations CDI Hybride BE 3071 Erps-Kwerps Who Are We?Mbrella and D’Ieteren Energy, two market leaders in their fields, are joining forces to build the ultimate mobility and energy ecosystem for people and businesses.By combining Mbrella’s dig Plus d'infos Sales Vertegenwoordiger – Residentiële Energieoplossingen (Solar, Batterijen & EV Charging) Commercial Relations CDI Hybride BE 3071 Erps-Kwerps Over D'Ieteren EnergyD'Ieteren Energy bundelt de krachten van laadoplossingen en zonne-energie in één geïntegreerd aanbod. Plus d'infos Sales Development Representative Commercial Relations CDI Hybride B",
+    "stack": [
+      "B2B",
+      "SaaS",
+      "energy",
+      "mobility",
+      "Belgium"
+    ],
+    "experience": null,
+    "in_belgium": true,
+    "signals": [],
+    "signal_terms": []
+  },
+  "https://www.dvv.be/nl/over-dvv-verzekeringen/jobs/commercieel-talenten-dendermonde-waasmunster-zele.html": {
+    "title": "Commercieel Talenten -Â Dendermonde - Waasmunster - Zele",
+    "url": "https://www.dvv.be/nl/over-dvv-verzekeringen/jobs/commercieel-talenten-dendermonde-waasmunster-zele.html",
+    "company": "DVV THOELEN & VERNIERS",
+    "source": "https://www.dvv.be/nl/over-dvv-verzekeringen/jobs.html",
+    "first_seen": "2026-09-01",
+    "snippet": "Commercieel Talenten - Dendermonde-Waasmunster-Zele - Toekomstig kantoorverantwoordelijke | DVV verzekeringen, gewoon goeie service . Ga rechtstreeks naar de inhoud van de pagina Annuleer Vind een consulent Close Particulieren Zelfstandigen & KMO's Particulieren Zelfstandigen & KMO's Mobiliteit Mobiliteit PRODUCTEN PRODUCTEN Auto Moto & Scooter Fiets Reizen Rechtsbijstand SERVICES SERVICES DVV erkende garage Vervangwagen nodig? Hoe schade melden? Woning Woning PRODUCTEN PRODUCTEN Brandverzekering Huurdersverzekering Woningverzekering eigenaar Kredieten Woonkrediet Schuldsaldoverzekering SERVICES SERVICES Hoe schade melden? Dringende hulp nodig Familie & Gezondheid Familie & Gezondheid PRODUCTEN PRODUCTEN Familiale verzekering Lichamelijke ongevallen verzekering Overlijden Rechtsbijstand SERVICES SERVICES Wat te doen bij overlijden? Sparen & Beleggen Sparen & Beleggen PRODUCTEN PRODUCTEN Pensioen & Langetermijnsparen Beleggen Uitvaart SERVICES SERVICES Hoeveel kost een begrafenis? Vergelijk onze beleggingsproducten Waarom DVV? Waarom DVV? Contact Schade aangeven Tips & Advies Contact Schade aangeven Tips & Advies NL NL Nederlands Nederlands MyDVV MyDVV MyDVV Vind een consulent Close",
+    "stack": [
+      "B2B",
+      "Insurance",
+      "Flanders",
+      "NL",
+      "junior"
+    ],
+    "experience": null,
+    "in_belgium": true,
+    "contact": {
+      "name": "Luc Van Herreweghen",
+      "email": "luc.van.herreweghen@dvv.be"
+    },
+    "signals": [
+      "Je gaat actief op zoek naar commerciÃ«le opportuniteiten bij klanten en prospecten."
+    ],
+    "signal_terms": [
+      "prospecten"
+    ]
+  },
+  "https://www.desco.be/nl-be/jobs/info/5690-technisch-toonzaal-verkoper-verwarming-en-technieken": {
+    "title": "Brugge Gent technisch (toonzaal) verkoper verwarming en technieken Brugge Gent Brugge Gent",
+    "url": "https://www.desco.be/nl-be/jobs/info/5690-technisch-toonzaal-verkoper-verwarming-en-technieken",
+    "company": "Desco",
+    "source": "https://www.desco.be/nl-be/jobs",
+    "first_seen": "2026-09-01",
+    "snippet": "technisch (toonzaal) verkoper verwarming en technieken menu home producten folders nieuws over ons verkooppunten jobs tips en tools fr mijn desco e-mail paswoord inloggen onthoud mij paswoord vergeten registreren × toegang aanvragen als professioneel particulier winkelwagen [ ] home jobs info technisch (toonzaal) verkoper verwarming en technieken verkooppunt Brugge Gent functieomschrijving Als commercieel technisch adviseur ben je het eerste aanspreekpunt voor alles met betrekking tot centrale verwarming en woningtechnieken. Met behulp van handige computer-tools maak je een gepaste offerte die je op commerciële wijze afrondt tot een order. Je begeleidt onze klanten – installateurs en eindgebruikers – doorheen heel het verkoopsproces met technische kennis en esthetisch advies. Daarnaast volg je op regelmatige basis opleidingen om up-to-date te blijven van de nieuwste ontwikkelingen. als commercieel technisch adviseur beschik je over volgende competenties technische achtergrond (door studie of ervaring) met voorkeur van centrale verwarming klantgericht en communicatief administratief onderbouwd positieve uitstraling, dynamisch en flexibel in het bezit van een wagen en rijbewijs B ber",
+    "stack": [
+      "B2B",
+      "HVAC",
+      "Flanders",
+      "NL",
+      "hunter"
+    ],
+    "experience": null,
+    "in_belgium": true,
+    "signals": [],
+    "signal_terms": []
+  },
+  "https://www.muldernaturalfoods.com/nl/jobs/job/national-account-manager-uk-ireland-retail-customer-brands": {
+    "title": "National Account Manager (UK & Ireland | Retail / Customer Brands)",
+    "url": "https://www.muldernaturalfoods.com/nl/jobs/job/national-account-manager-uk-ireland-retail-customer-brands",
+    "company": "MULDER NATURAL FOODS",
+    "source": "https://www.muldernaturalfoods.com/nl/jobs",
+    "first_seen": "2026-09-01",
+    "snippet": "National Account Manager (UK & Ireland | Retail / Customer Brands) - Job - Mulder Natural Foods × Om deze site te gebruiken {$lblSkipToContent|ucfirst} × Let op: Om de gebruikerservaring op deze site te verbeteren gebruiken we cookies. Meer Informatie . Ik ga akkoord Ik ga niet akkoord jobs 10 NL NL EN FR DE ES menu home ontbijtgranen over ons klanten engagement nieuws contact Terug naar overzicht National Account Manager (UK & Ireland | Retail / Customer Brands) Voltijds Regio's West-Vlaanderen Functieomschrijving Location UK-based. Hybrid role: approximately 50% working from home in the UK and 50% based at our site in Roeselare (Belgium) with occasional travel to France and Switzerland. Why Join Mulder? Join an ambitious, international and fast-growing food manufacturer where you'll have the autonomy to develop strategic customer partnerships, influence product innovation and help shape sustainable commercial growth across international retail markets. The Opportunity As (Sr.) National Account Manager UK & Ireland, you will manage a portfolio of established international retail accounts while developing new commercial opportunities. This is a strategic customer-facing role combin",
+    "stack": [
+      "FMCG",
+      "B2B",
+      "UK & Ireland",
+      "EN/FR",
+      "senior"
+    ],
+    "experience": "3+ yrs",
+    "in_belgium": true,
+    "contact": {
+      "name": "Laura",
+      "email": "jobs@mulder.be"
+    },
+    "signals": [
+      "Identify new business opportunities and support sustainable growth."
+    ],
+    "signal_terms": [
+      "new business "
+    ]
+  },
+  "https://www.jobsonline.be/vacature/sales-manager-herentals/": {
+    "title": "Sales Manager",
+    "url": "https://www.jobsonline.be/vacature/sales-manager-herentals/",
+    "company": "NAVIGLOBE",
+    "source": "https://www.jobsonline.be/vacatures",
+    "first_seen": "2026-09-01",
+    "snippet": "Vacature Sales Manager bij Apex Careers in Herentals Zoek vacatures Bekijk bedrijven Plaats gratis je cv Inloggen Voor werkgevers Jobsonline Vacatures Vacature Sales Manager Solliciteer direct Sales Manager Apex Careers - Herentals Vandaag Wij zoeken een gedreven salesprofessional met een technische affiniteit en een klantgerichte aanpak. Jij beschikt over: ‍ Opleiding: Minstens een Bachelor diploma of gelijkwaardig door ervaring. ‍ Ervaring: Minstens 5 jaar ervaring in een B2B omgeving, bij voorkeur met machinebouw of industriële installaties. ‍ Technische kennis: Goede kennis van mechanica en industriële processen. ‍ Taal: Vloeiend in Nederlands en Engels. Kennis van Frans of Duits is een sterke plus. ‍ Competenties: Commercieel gedreven, zelfstandig, resultaatgericht en communicatief sterk. ‍ Reisbereidheid: Bereid om klanten in binnen- en buitenland te bezoeken. Arbeidsvoorwaarden Bij onze klant kom je terecht in een dynamische KMO-omgeving waar een pragmatische aanpak centraal staat. Dankzij hun korte beslissingslijnen en de mogelijkheid om snel te schakelen, krijg je de kans om echt impact te maken. Je werkt in een omgeving waar initiatief wordt gewaardeerd en ideeën snel omg",
+    "stack": [
+      "B2B",
+      "industrial",
+      "NL/EN",
+      "senior",
+      "hunter"
+    ],
+    "experience": "5+ yrs",
+    "in_belgium": true,
+    "contact": {
+      "name": "Quentin Suys",
+      "email": "quentin.suys@apexcareers.be"
+    },
+    "signals": [
+      "Als Sales Manager bij onze klant ben je verantwoordelijk voor het volledige verkoopproces, van prospectie tot orderbevestiging en klantopvolging."
+    ],
+    "signal_terms": [
+      "prospectie"
+    ]
+  },
+  "https://careers.omp.com/jobs/belgium-antwerp/sr-integration-consultant-4093145101": {
+    "title": "(Sr.) Integration Consultant Antwerp - BE",
+    "url": "https://careers.omp.com/jobs/belgium-antwerp/sr-integration-consultant-4093145101",
+    "company": "OM PARTNERS",
+    "source": "https://careers.omp.com/",
+    "first_seen": "2026-09-01",
+    "snippet": "Integration Consultant at OMP We see you are located in China. Do you want to switch to our Chinese website? Go to Chinese website smart with heart smart with heart Life at OMP Life at OMP What we do What drives us Your future with us Meet our talent Meet our talent Tech and Product Consulting Business Operations Early talent Our activities Our activities Blog News Testimonials Events Get in touch Get in touch Contact us Our locations FAQ Search for jobs logged in as jobs (sr.) integration consultant https://careers.omp.com (Sr.) Integration Consultant Antwerp, Belgium - Delivery department We’re a game changer that optimizes supply chains of the world’s leading companies with our very own smart software and services. Do you have a solid background in IT? Do you get a kick from technical analysis and enjoy implementing integration solutions? Ready to join a place where smart solutions meet human collaboration? Look no further and become our new Integration Consultant! Read on to learn more. Apply now Our offer We offer you more than just a job. Our culture and benefits inspire you to become the best version of yourself. Continuous learning : Access customized training, coaching pro",
+    "stack": [
+      "B2B",
+      "SaaS",
+      "supply chain",
+      "EMEA",
+      "EN"
+    ],
+    "experience": "2-5 yrs",
+    "in_belgium": true,
+    "signals": [],
+    "signal_terms": []
+  },
+  "https://www.quaestor.be/vacatures/senior-wealth-advisor-gent": {
+    "title": "Senior Wealth Advisor Regio Gent",
+    "url": "https://www.quaestor.be/vacatures/senior-wealth-advisor-gent",
+    "company": "Quaestor Vermogensbeheer",
+    "source": "https://www.quaestor.be/talent",
+    "first_seen": "2026-09-01",
+    "snippet": "Quaestor Media Talent Volg ons Private markten Private equity → Private debt → Publieke markten Aandelenbeheer → Obligatiebeheer → Over ons Team Contact Meensesteenweg 406 8800 Roeselare +32 51 26 33 60 info@quaestor.be Volg ons Private markten Private equity → Private debt → Over ons Ons verhaal → Team → Talent → Contacteer ons Publieke markten Aandelenbeheer → Obligatiebeheer → Divers Media → Depotbank → Juridisch → © Quaestor Vermogensbeheer NV 2026 Privacybeleid Senior Wealth Advisor De job Je bent verantwoordelijk voor het adviseren van een selecte groep vooraanstaande klanten, waarbij je hun financiële en persoonlijke doelen centraal stelt. Je biedt op maat gemaakte vermogensplannen, rekening houdend met de specifieke behoeften en wensen van iedere klant. Jouw ervaring en deskundigheid in het beheren van complexe vermogens-structuren stellen je in staat om langdurige en vertrouwensvolle relaties te bouwen. Jouw profiel Ben jij een ervaren senior wealth advisor met meer dan 10 jaar ervaring in vermogensbeheer? Beschik je over een scherp zakelijk inzicht, gecombineerd met een ondernemers-mentaliteit en de vaardigheid om duurzame relaties op te bouwen en te onderhouden met vermo",
+    "stack": [
+      "B2B",
+      "Wealth Management",
+      "Belgium",
+      "NL/FR",
+      "senior",
+      "farmer"
+    ],
+    "experience": "10+ yrs",
+    "in_belgium": true,
+    "contact": {
+      "name": null,
+      "email": "hr@quaestor.be"
+    },
+    "signals": [
+      "Accepteer en sla op Cookie instellingen Made by Hunt"
+    ],
+    "signal_terms": [
+      "hunt"
+    ]
+  },
+  "https://www.werkenbijgroupofbutchers.com/vacature/7/category-development-manager-soepen-maaltijden-en-salades": {
+    "title": "CATEGORY DEVELOPMENT MANAGER SOEPEN, MAALTIJDEN EN SALADES",
+    "url": "https://www.werkenbijgroupofbutchers.com/vacature/7/category-development-manager-soepen-maaltijden-en-salades",
+    "company": "SCHEPERS VLEESBEDRIJF",
+    "source": "https://www.werkenbijgroupofbutchers.com/",
+    "first_seen": "2026-09-01",
+    "snippet": "",
+    "stack": [
+      "FMCG",
+      "B2B",
+      "Belgium"
+    ],
+    "experience": null,
+    "in_belgium": null,
+    "signals": [],
+    "signal_terms": []
+  },
+  "https://jobs.sligrofoodgroup.com/Netherlands/job/Afdelingschef-Wijnen-&-Dranken-WEVELGEM/1381721833/": {
+    "title": "Afdelingschef Wijnen & Dranken WEVELGEM",
+    "url": "https://jobs.sligrofoodgroup.com/Netherlands/job/Afdelingschef-Wijnen-&-Dranken-WEVELGEM/1381721833/",
+    "company": "Sligro Food Group Belgium",
+    "source": "https://jobs.sligrofoodgroup.com/Netherlands/go/NL_Jobsite_Belgi%C3%AB/9563501/",
+    "first_seen": "2026-09-01",
+    "snippet": "Afdelingschef Wijnen & Dranken WEVELGEM Functiedetails | sligrofoodgroup Verdergaan naar primaire inhoud HOME ONZE VACATURES België Bijbaan Bouter Chauffeur Hoofdkantoor Zelfbedieningsgroothandel Klantenservice Logistiek Productie Stage Alle vacatures VACATURES BIJ ONZE PARTNERS Vacatures Transportpartners Vacatures Verspartners STAGE Voortgezet / Secundair onderwijs Bachelor / Master Sollicitatieprocedure OVER ONS Ons DNA Recruitment Team Contactgegevens Sollicitatieprocedure Young Sligro Zoek op trefwoord Zoek op locatie Wissen HOME ONZE VACATURES België Bijbaan Bouter Chauffeur Hoofdkantoor Zelfbedieningsgroothandel Klantenservice Logistiek Productie Stage Alle vacatures VACATURES BIJ ONZE PARTNERS Vacatures Transportpartners Vacatures Verspartners STAGE Voortgezet / Secundair onderwijs Bachelor / Master Sollicitatieprocedure OVER ONS Ons DNA Recruitment Team Contactgegevens Sollicitatieprocedure Young Sligro TAAL WIJZIGEN English (United States) Français Nederlands INLOGGEN OP MIJN PROFIEL / JOB ALERT Zoek op trefwoord Zoek op locatie Toon meer filters Laden... Vakgebied Alle Carrière niveau Alle Opleidingsniveau Alle Merk Alle Regio Alle Wissen Selecteer hoe vaak (in dagen) je",
+    "stack": [
+      "B2B",
+      "FMCG",
+      "Flanders",
+      "NL/FR",
+      "senior",
+      "farmer"
+    ],
+    "experience": null,
+    "in_belgium": true,
+    "signals": [],
+    "signal_terms": []
+  },
+  "https://www.randstad.be:443/werknemers/jobs/s-aankoop-verkoop/s2-sales-managers/r-client-strategy-director/": {
+    "title": "Client Strategy Director",
+    "url": "https://www.randstad.be:443/werknemers/jobs/s-aankoop-verkoop/s2-sales-managers/r-client-strategy-director/",
+    "company": "RANDSTAD HR SOLUTIONS",
+    "source": "https://www.randstad.be:443/werknemers/jobs/",
+    "first_seen": "2026-09-01",
+    "snippet": "Client Strategy Director Jobs & vacatures | Randstad kantoren NL FR EN randstad een job zoeken alle jobs flexijob studentenjob studiegerelateerde job tijdelijke jobs tijdelijke jobs optie vast vast contract jobs per stad Aalst Antwerpen Brugge Brussel Genk Gent Hasselt Mechelen populaire bedrijven BD Circle K Distrilog H.Essers Kuehne+nagel Plopsa Soudal Volvo Cars profiel aanmaken werknemers mijn carrière beroepen carrièretips opleidingen sollicitatietips terug aan het werk waarom kiezen voor randstad operational construct contact center horeca industry logistics retail technics transport professional engineering finance en accounting healthcare HR life sciences office en admin sales en marketing studenten alle studentenjobs studierelevante job digital werkgevers onze oplossingen inhouse interim management online tools opleidingen overheid payrolling personeel aanwerven vaste aanwerving operational construct contact center horeca industry logistics retail technics transport professional engineering finance en accounting healthcare HR life sciences office en admin support sales en marketing digital enterprise career development employability MSP outplacement RPO talent advisory aan",
+    "stack": [
+      "B2B",
+      "sales",
+      "NL/FR/EN"
+    ],
+    "experience": null,
+    "in_belgium": true,
+    "signals": [
+      "…rs Producer Customer Service Commercieel Customer Service Medewerkers Inbound Callcenter Medewerker Outbound Callcenter Medewerker Telesales Customer Service Medewerkers Callcentermedewerker Consultant Klantenservice Customer Service Assist…"
+    ],
+    "signal_terms": [
+      "outbound call",
+      "telesales"
+    ]
+  },
+  "https://www.randstad.be:443/werknemers/jobs/s-aankoop-verkoop/s2-sales-managers/r-manager-b2b/": {
+    "title": "Manager B2B",
+    "url": "https://www.randstad.be:443/werknemers/jobs/s-aankoop-verkoop/s2-sales-managers/r-manager-b2b/",
+    "company": "RANDSTAD HR SOLUTIONS",
+    "source": "https://www.randstad.be:443/werknemers/jobs/",
+    "first_seen": "2026-09-01",
+    "snippet": "Manager B2B Jobs & vacatures | Randstad kantoren NL FR EN randstad een job zoeken alle jobs flexijob studentenjob studiegerelateerde job tijdelijke jobs tijdelijke jobs optie vast vast contract jobs per stad Aalst Antwerpen Brugge Brussel Genk Gent Hasselt Mechelen populaire bedrijven BD Circle K Distrilog H.Essers Kuehne+nagel Plopsa Soudal Volvo Cars profiel aanmaken werknemers mijn carrière beroepen carrièretips opleidingen sollicitatietips terug aan het werk waarom kiezen voor randstad operational construct contact center horeca industry logistics retail technics transport professional engineering finance en accounting healthcare HR life sciences office en admin sales en marketing studenten alle studentenjobs studierelevante job digital werkgevers onze oplossingen inhouse interim management online tools opleidingen overheid payrolling personeel aanwerven vaste aanwerving operational construct contact center horeca industry logistics retail technics transport professional engineering finance en accounting healthcare HR life sciences office en admin support sales en marketing digital enterprise career development employability MSP outplacement RPO talent advisory aan de slag aanv",
+    "stack": [
+      "B2B",
+      "sales",
+      "NL/FR/EN"
+    ],
+    "experience": null,
+    "in_belgium": true,
+    "signals": [
+      "…rs Producer Customer Service Commercieel Customer Service Medewerkers Inbound Callcenter Medewerker Outbound Callcenter Medewerker Telesales Customer Service Medewerkers Callcentermedewerker Consultant Klantenservice Customer Service Assist…"
+    ],
+    "signal_terms": [
+      "outbound call",
+      "telesales"
+    ]
+  },
+  "https://www.randstad.be:443/werknemers/jobs/s-aankoop-verkoop/s2-verkopers/": {
+    "title": "Verkopers",
+    "url": "https://www.randstad.be:443/werknemers/jobs/s-aankoop-verkoop/s2-verkopers/",
+    "company": "RANDSTAD HR SOLUTIONS",
+    "source": "https://www.randstad.be:443/werknemers/jobs/",
+    "first_seen": "2026-09-01",
+    "snippet": "Verkopers Jobs & vacatures | Randstad kantoren NL FR EN randstad een job zoeken alle jobs flexijob studentenjob studiegerelateerde job tijdelijke jobs tijdelijke jobs optie vast vast contract jobs per stad Aalst Antwerpen Brugge Brussel Genk Gent Hasselt Mechelen populaire bedrijven BD Circle K Distrilog H.Essers Kuehne+nagel Plopsa Soudal Volvo Cars profiel aanmaken werknemers mijn carrière beroepen carrièretips opleidingen sollicitatietips terug aan het werk waarom kiezen voor randstad operational construct contact center horeca industry logistics retail technics transport professional engineering finance en accounting healthcare HR life sciences office en admin sales en marketing studenten alle studentenjobs studierelevante job digital werkgevers onze oplossingen inhouse interim management online tools opleidingen overheid payrolling personeel aanwerven vaste aanwerving operational construct contact center horeca industry logistics retail technics transport professional engineering finance en accounting healthcare HR life sciences office en admin support sales en marketing digital enterprise career development employability MSP outplacement RPO talent advisory aan de slag aanvra",
+    "stack": [
+      "retail",
+      "B2C",
+      "Belgium",
+      "NL/FR"
+    ],
+    "experience": null,
+    "in_belgium": true,
+    "contact": {
+      "name": null,
+      "email": "retail.genk@randstad.be"
+    },
+    "signals": [
+      "…rs Producer Customer Service Commercieel Customer Service Medewerkers Inbound Callcenter Medewerker Outbound Callcenter Medewerker Telesales Customer Service Medewerkers Callcentermedewerker Consultant Klantenservice Customer Service Assist…"
+    ],
+    "signal_terms": [
+      "outbound call",
+      "telesales"
+    ]
+  },
+  "https://www.randstad.be:443/werknemers/jobs/s-aankoop-verkoop/s2-verkopers/r-sales-manager-assistant/": {
+    "title": "Sales Manager Assistant",
+    "url": "https://www.randstad.be:443/werknemers/jobs/s-aankoop-verkoop/s2-verkopers/r-sales-manager-assistant/",
+    "company": "RANDSTAD HR SOLUTIONS",
+    "source": "https://www.randstad.be:443/werknemers/jobs/",
+    "first_seen": "2026-09-01",
+    "snippet": "Sales Manager Assistant Jobs & vacatures | Randstad kantoren NL FR EN randstad een job zoeken alle jobs flexijob studentenjob studiegerelateerde job tijdelijke jobs tijdelijke jobs optie vast vast contract jobs per stad Aalst Antwerpen Brugge Brussel Genk Gent Hasselt Mechelen populaire bedrijven BD Circle K Distrilog H.Essers Kuehne+nagel Plopsa Soudal Volvo Cars profiel aanmaken werknemers mijn carrière beroepen carrièretips opleidingen sollicitatietips terug aan het werk waarom kiezen voor randstad operational construct contact center horeca industry logistics retail technics transport professional engineering finance en accounting healthcare HR life sciences office en admin sales en marketing studenten alle studentenjobs studierelevante job digital werkgevers onze oplossingen inhouse interim management online tools opleidingen overheid payrolling personeel aanwerven vaste aanwerving operational construct contact center horeca industry logistics retail technics transport professional engineering finance en accounting healthcare HR life sciences office en admin support sales en marketing digital enterprise career development employability MSP outplacement RPO talent advisory aan ",
+    "stack": [
+      "B2B",
+      "sales",
+      "NL/FR/EN"
+    ],
+    "experience": null,
+    "in_belgium": true,
+    "signals": [
+      "…rs Producer Customer Service Commercieel Customer Service Medewerkers Inbound Callcenter Medewerker Outbound Callcenter Medewerker Telesales Customer Service Medewerkers Callcentermedewerker Consultant Klantenservice Customer Service Assist…"
+    ],
+    "signal_terms": [
+      "outbound call",
+      "telesales"
+    ]
+  },
+  "https://www.randstad.be:443/werknemers/jobs/s-aankoop-verkoop/s2-verkopers/r-verkoopmedewerker-boeken/": {
+    "title": "Verkoopmedewerker Boeken",
+    "url": "https://www.randstad.be:443/werknemers/jobs/s-aankoop-verkoop/s2-verkopers/r-verkoopmedewerker-boeken/",
+    "company": "RANDSTAD HR SOLUTIONS",
+    "source": "https://www.randstad.be:443/werknemers/jobs/",
+    "first_seen": "2026-09-01",
+    "snippet": "Verkoopmedewerker Boeken Jobs & vacatures | Randstad kantoren NL FR EN randstad een job zoeken alle jobs flexijob studentenjob studiegerelateerde job tijdelijke jobs tijdelijke jobs optie vast vast contract jobs per stad Aalst Antwerpen Brugge Brussel Genk Gent Hasselt Mechelen populaire bedrijven BD Circle K Distrilog H.Essers Kuehne+nagel Plopsa Soudal Volvo Cars profiel aanmaken werknemers mijn carrière beroepen carrièretips opleidingen sollicitatietips terug aan het werk waarom kiezen voor randstad operational construct contact center horeca industry logistics retail technics transport professional engineering finance en accounting healthcare HR life sciences office en admin sales en marketing studenten alle studentenjobs studierelevante job digital werkgevers onze oplossingen inhouse interim management online tools opleidingen overheid payrolling personeel aanwerven vaste aanwerving operational construct contact center horeca industry logistics retail technics transport professional engineering finance en accounting healthcare HR life sciences office en admin support sales en marketing digital enterprise career development employability MSP outplacement RPO talent advisory aan",
+    "stack": [
+      "retail",
+      "B2C",
+      "NL/FR/EN"
+    ],
+    "experience": null,
+    "in_belgium": true,
+    "signals": [
+      "…rs Producer Customer Service Commercieel Customer Service Medewerkers Inbound Callcenter Medewerker Outbound Callcenter Medewerker Telesales Customer Service Medewerkers Callcentermedewerker Consultant Klantenservice Customer Service Assist…"
+    ],
+    "signal_terms": [
+      "outbound call",
+      "telesales"
+    ]
+  },
+  "https://www.randstad.be:443/werknemers/jobs/s-aankoop-verkoop/s2-vertegenwoordigers-accountmanagers/r-commercieel-assistent/": {
+    "title": "Commercieel Assistent",
+    "url": "https://www.randstad.be:443/werknemers/jobs/s-aankoop-verkoop/s2-vertegenwoordigers-accountmanagers/r-commercieel-assistent/",
+    "company": "RANDSTAD HR SOLUTIONS",
+    "source": "https://www.randstad.be:443/werknemers/jobs/",
+    "first_seen": "2026-09-01",
+    "snippet": "Commercieel Assistent Jobs & vacatures | Randstad kantoren NL FR EN randstad een job zoeken alle jobs flexijob studentenjob studiegerelateerde job tijdelijke jobs tijdelijke jobs optie vast vast contract jobs per stad Aalst Antwerpen Brugge Brussel Genk Gent Hasselt Mechelen populaire bedrijven BD Circle K Distrilog H.Essers Kuehne+nagel Plopsa Soudal Volvo Cars profiel aanmaken werknemers mijn carrière beroepen carrièretips opleidingen sollicitatietips terug aan het werk waarom kiezen voor randstad operational construct contact center horeca industry logistics retail technics transport professional engineering finance en accounting healthcare HR life sciences office en admin sales en marketing studenten alle studentenjobs studierelevante job digital werkgevers onze oplossingen inhouse interim management online tools opleidingen overheid payrolling personeel aanwerven vaste aanwerving operational construct contact center horeca industry logistics retail technics transport professional engineering finance en accounting healthcare HR life sciences office en admin support sales en marketing digital enterprise career development employability MSP outplacement RPO talent advisory aan de",
+    "stack": [
+      "sales",
+      "B2B",
+      "B2C",
+      "NL/FR/EN"
+    ],
+    "experience": null,
+    "in_belgium": true,
+    "signals": [
+      "…rs Producer Customer Service Commercieel Customer Service Medewerkers Inbound Callcenter Medewerker Outbound Callcenter Medewerker Telesales Customer Service Medewerkers Callcentermedewerker Consultant Klantenservice Customer Service Assist…"
+    ],
+    "signal_terms": [
+      "outbound call",
+      "telesales"
+    ]
+  },
+  "https://www.randstad.be:443/werknemers/jobs/s-aankoop-verkoop/s2-vertegenwoordigers-accountmanagers/r-showroom-adviseur/": {
+    "title": "Showroom Adviseur",
+    "url": "https://www.randstad.be:443/werknemers/jobs/s-aankoop-verkoop/s2-vertegenwoordigers-accountmanagers/r-showroom-adviseur/",
+    "company": "RANDSTAD HR SOLUTIONS",
+    "source": "https://www.randstad.be:443/werknemers/jobs/",
+    "first_seen": "2026-09-01",
+    "snippet": "Showroom Adviseur Jobs & vacatures | Randstad kantoren NL FR EN randstad een job zoeken alle jobs flexijob studentenjob studiegerelateerde job tijdelijke jobs tijdelijke jobs optie vast vast contract jobs per stad Aalst Antwerpen Brugge Brussel Genk Gent Hasselt Mechelen populaire bedrijven BD Circle K Distrilog H.Essers Kuehne+nagel Plopsa Soudal Volvo Cars profiel aanmaken werknemers mijn carrière beroepen carrièretips opleidingen sollicitatietips terug aan het werk waarom kiezen voor randstad operational construct contact center horeca industry logistics retail technics transport professional engineering finance en accounting healthcare HR life sciences office en admin sales en marketing studenten alle studentenjobs studierelevante job digital werkgevers onze oplossingen inhouse interim management online tools opleidingen overheid payrolling personeel aanwerven vaste aanwerving operational construct contact center horeca industry logistics retail technics transport professional engineering finance en accounting healthcare HR life sciences office en admin support sales en marketing digital enterprise career development employability MSP outplacement RPO talent advisory aan de sla",
+    "stack": [
+      "retail",
+      "B2C",
+      "NL/FR/EN"
+    ],
+    "experience": null,
+    "in_belgium": true,
+    "signals": [
+      "…rs Producer Customer Service Commercieel Customer Service Medewerkers Inbound Callcenter Medewerker Outbound Callcenter Medewerker Telesales Customer Service Medewerkers Callcentermedewerker Consultant Klantenservice Customer Service Assist…"
+    ],
+    "signal_terms": [
+      "outbound call",
+      "telesales"
+    ]
+  },
+  "https://www.randstad.be:443/werknemers/jobs/s-aankoop-verkoop/s2-vertegenwoordigers-accountmanagers/r-technisch-vertegenwoordiger/": {
+    "title": "Technisch Vertegenwoordiger",
+    "url": "https://www.randstad.be:443/werknemers/jobs/s-aankoop-verkoop/s2-vertegenwoordigers-accountmanagers/r-technisch-vertegenwoordiger/",
+    "company": "RANDSTAD HR SOLUTIONS",
+    "source": "https://www.randstad.be:443/werknemers/jobs/",
+    "first_seen": "2026-09-01",
+    "snippet": "Technisch Vertegenwoordiger Jobs & vacatures | Randstad kantoren NL FR EN randstad een job zoeken alle jobs flexijob studentenjob studiegerelateerde job tijdelijke jobs tijdelijke jobs optie vast vast contract jobs per stad Aalst Antwerpen Brugge Brussel Genk Gent Hasselt Mechelen populaire bedrijven BD Circle K Distrilog H.Essers Kuehne+nagel Plopsa Soudal Volvo Cars profiel aanmaken werknemers mijn carrière beroepen carrièretips opleidingen sollicitatietips terug aan het werk waarom kiezen voor randstad operational construct contact center horeca industry logistics retail technics transport professional engineering finance en accounting healthcare HR life sciences office en admin sales en marketing studenten alle studentenjobs studierelevante job digital werkgevers onze oplossingen inhouse interim management online tools opleidingen overheid payrolling personeel aanwerven vaste aanwerving operational construct contact center horeca industry logistics retail technics transport professional engineering finance en accounting healthcare HR life sciences office en admin support sales en marketing digital enterprise career development employability MSP outplacement RPO talent advisory ",
+    "stack": [
+      "B2B",
+      "technics",
+      "NL/FR/EN"
+    ],
+    "experience": null,
+    "in_belgium": true,
+    "signals": [
+      "…rs Producer Customer Service Commercieel Customer Service Medewerkers Inbound Callcenter Medewerker Outbound Callcenter Medewerker Telesales Customer Service Medewerkers Callcentermedewerker Consultant Klantenservice Customer Service Assist…",
+      "Na een grondige sales- en productopleiding ga je actief de baan op om klanten en prospecten te adviseren, te toon jobdetails 29 juli 2026 vacatures in je mailbox."
+    ],
+    "signal_terms": [
+      "outbound call",
+      "telesales",
+      "prospecten"
+    ]
+  },
+  "https://www.randstad.be:443/werknemers/jobs/s-customer-service/s2-commercieel-customer-service-medewerkers/": {
+    "title": "Commercieel Customer Service Medewerkers",
+    "url": "https://www.randstad.be:443/werknemers/jobs/s-customer-service/s2-commercieel-customer-service-medewerkers/",
+    "company": "RANDSTAD HR SOLUTIONS",
+    "source": "https://www.randstad.be:443/werknemers/jobs/",
+    "first_seen": "2026-09-01",
+    "snippet": "Commercieel Customer Service Medewerkers Jobs & vacatures | Randstad kantoren NL FR EN randstad een job zoeken alle jobs flexijob studentenjob studiegerelateerde job tijdelijke jobs tijdelijke jobs optie vast vast contract jobs per stad Aalst Antwerpen Brugge Brussel Genk Gent Hasselt Mechelen populaire bedrijven BD Circle K Distrilog H.Essers Kuehne+nagel Plopsa Soudal Volvo Cars profiel aanmaken werknemers mijn carrière beroepen carrièretips opleidingen sollicitatietips terug aan het werk waarom kiezen voor randstad operational construct contact center horeca industry logistics retail technics transport professional engineering finance en accounting healthcare HR life sciences office en admin sales en marketing studenten alle studentenjobs studierelevante job digital werkgevers onze oplossingen inhouse interim management online tools opleidingen overheid payrolling personeel aanwerven vaste aanwerving operational construct contact center horeca industry logistics retail technics transport professional engineering finance en accounting healthcare HR life sciences office en admin support sales en marketing digital enterprise career development employability MSP outplacement RPO tal",
+    "stack": [
+      "B2B",
+      "customer service",
+      "NL/FR/EN"
+    ],
+    "experience": null,
+    "in_belgium": true,
+    "signals": [
+      "…rs Producer Customer Service Commercieel Customer Service Medewerkers Inbound Callcenter Medewerker Outbound Callcenter Medewerker Telesales Customer Service Medewerkers Callcentermedewerker Consultant Klantenservice Customer Service Assist…",
+      "…eel customer service medewerkers customer service medewerkers functie inbound callcenter medewerker outbound callcenter medewerker telesales toon 3 jobs expertisedomeinen pagina 1 operational deeltijds medewerker klantendienst mobile viking…",
+      "Als Telesales Advisor maak je deel uit van onze dynamische commerciële afdeling en rapporteer je rechtstreeks aan de Telesales Manager.",
+      "…er ben jij de stem aan de andere kant van de lijn, verantwoordelijk voor de afspraakplanning tussen prospecten en Proximus.Jouw missie is om elke klant het gevoel te geven dat ze van het grootste belang zijn.…",
+      "telesales bornem, antwerpen tijdelijk met uitzicht op vast Heb jij een commerciële flair, een vlotte babbel in het Nederlands én Frans, en een grote passie voor food?"
+    ],
+    "signal_terms": [
+      "outbound call",
+      "telesales",
+      "prospecten"
+    ]
+  },
+  "https://www.randstad.be:443/werknemers/jobs/s-finance/s2-adviseurs-bank-verzekeringen/r-verzekeringsmakelaar/": {
+    "title": "Verzekeringsmakelaar",
+    "url": "https://www.randstad.be:443/werknemers/jobs/s-finance/s2-adviseurs-bank-verzekeringen/r-verzekeringsmakelaar/",
+    "company": "RANDSTAD HR SOLUTIONS",
+    "source": "https://www.randstad.be:443/werknemers/jobs/",
+    "first_seen": "2026-09-01",
+    "snippet": "Verzekeringsmakelaar Jobs & vacatures | Randstad kantoren NL FR EN randstad een job zoeken alle jobs flexijob studentenjob studiegerelateerde job tijdelijke jobs tijdelijke jobs optie vast vast contract jobs per stad Aalst Antwerpen Brugge Brussel Genk Gent Hasselt Mechelen populaire bedrijven BD Circle K Distrilog H.Essers Kuehne+nagel Plopsa Soudal Volvo Cars profiel aanmaken werknemers mijn carrière beroepen carrièretips opleidingen sollicitatietips terug aan het werk waarom kiezen voor randstad operational construct contact center horeca industry logistics retail technics transport professional engineering finance en accounting healthcare HR life sciences office en admin sales en marketing studenten alle studentenjobs studierelevante job digital werkgevers onze oplossingen inhouse interim management online tools opleidingen overheid payrolling personeel aanwerven vaste aanwerving operational construct contact center horeca industry logistics retail technics transport professional engineering finance en accounting healthcare HR life sciences office en admin support sales en marketing digital enterprise career development employability MSP outplacement RPO talent advisory aan de ",
+    "stack": [
+      "B2B",
+      "Insurance",
+      "NL/FR/EN",
+      "Benelux"
+    ],
+    "experience": null,
+    "in_belgium": true,
+    "signals": [
+      "…rs Producer Customer Service Commercieel Customer Service Medewerkers Inbound Callcenter Medewerker Outbound Callcenter Medewerker Telesales Customer Service Medewerkers Callcentermedewerker Consultant Klantenservice Customer Service Assist…"
+    ],
+    "signal_terms": [
+      "outbound call",
+      "telesales"
+    ]
+  },
+  "https://www.randstad.be:443/werknemers/jobs/s-finance/s2-bedrijfsadviseurs/r-bankadviseur/": {
+    "title": "Bankadviseur",
+    "url": "https://www.randstad.be:443/werknemers/jobs/s-finance/s2-bedrijfsadviseurs/r-bankadviseur/",
+    "company": "RANDSTAD HR SOLUTIONS",
+    "source": "https://www.randstad.be:443/werknemers/jobs/",
+    "first_seen": "2026-09-01",
+    "snippet": "Bankadviseur Jobs & vacatures | Randstad kantoren NL FR EN randstad een job zoeken alle jobs flexijob studentenjob studiegerelateerde job tijdelijke jobs tijdelijke jobs optie vast vast contract jobs per stad Aalst Antwerpen Brugge Brussel Genk Gent Hasselt Mechelen populaire bedrijven BD Circle K Distrilog H.Essers Kuehne+nagel Plopsa Soudal Volvo Cars profiel aanmaken werknemers mijn carrière beroepen carrièretips opleidingen sollicitatietips terug aan het werk waarom kiezen voor randstad operational construct contact center horeca industry logistics retail technics transport professional engineering finance en accounting healthcare HR life sciences office en admin sales en marketing studenten alle studentenjobs studierelevante job digital werkgevers onze oplossingen inhouse interim management online tools opleidingen overheid payrolling personeel aanwerven vaste aanwerving operational construct contact center horeca industry logistics retail technics transport professional engineering finance en accounting healthcare HR life sciences office en admin support sales en marketing digital enterprise career development employability MSP outplacement RPO talent advisory aan de slag aan",
+    "stack": [
+      "B2B",
+      "Finance",
+      "NL/FR/EN"
+    ],
+    "experience": null,
+    "in_belgium": true,
+    "signals": [
+      "…rs Producer Customer Service Commercieel Customer Service Medewerkers Inbound Callcenter Medewerker Outbound Callcenter Medewerker Telesales Customer Service Medewerkers Callcentermedewerker Consultant Klantenservice Customer Service Assist…"
+    ],
+    "signal_terms": [
+      "outbound call",
+      "telesales"
+    ]
+  },
+  "https://www.randstad.be:443/werknemers/jobs/s-marketing-communicatie/s2-sales-marketingmedewerkers/r-customer-relationship-manager/": {
+    "title": "Customer Relationship Manager",
+    "url": "https://www.randstad.be:443/werknemers/jobs/s-marketing-communicatie/s2-sales-marketingmedewerkers/r-customer-relationship-manager/",
+    "company": "RANDSTAD HR SOLUTIONS",
+    "source": "https://www.randstad.be:443/werknemers/jobs/",
+    "first_seen": "2026-09-01",
+    "snippet": "Customer Relationship Manager Jobs & vacatures | Randstad kantoren NL FR EN randstad een job zoeken alle jobs flexijob studentenjob studiegerelateerde job tijdelijke jobs tijdelijke jobs optie vast vast contract jobs per stad Aalst Antwerpen Brugge Brussel Genk Gent Hasselt Mechelen populaire bedrijven BD Circle K Distrilog H.Essers Kuehne+nagel Plopsa Soudal Volvo Cars profiel aanmaken werknemers mijn carrière beroepen carrièretips opleidingen sollicitatietips terug aan het werk waarom kiezen voor randstad operational construct contact center horeca industry logistics retail technics transport professional engineering finance en accounting healthcare HR life sciences office en admin sales en marketing studenten alle studentenjobs studierelevante job digital werkgevers onze oplossingen inhouse interim management online tools opleidingen overheid payrolling personeel aanwerven vaste aanwerving operational construct contact center horeca industry logistics retail technics transport professional engineering finance en accounting healthcare HR life sciences office en admin support sales en marketing digital enterprise career development employability MSP outplacement RPO talent advisor",
+    "stack": [
+      "B2B",
+      "NL/FR/EN"
+    ],
+    "experience": null,
+    "in_belgium": true,
+    "signals": [
+      "…rs Producer Customer Service Commercieel Customer Service Medewerkers Inbound Callcenter Medewerker Outbound Callcenter Medewerker Telesales Customer Service Medewerkers Callcentermedewerker Consultant Klantenservice Customer Service Assist…"
+    ],
+    "signal_terms": [
+      "outbound call",
+      "telesales"
+    ]
+  },
+  "https://www.randstad.be:443/werknemers/jobs/s-productie/s2-bakkers-vleesverwerkers/r-verkoper-charcuterie/": {
+    "title": "Verkoper Charcuterie",
+    "url": "https://www.randstad.be:443/werknemers/jobs/s-productie/s2-bakkers-vleesverwerkers/r-verkoper-charcuterie/",
+    "company": "RANDSTAD HR SOLUTIONS",
+    "source": "https://www.randstad.be:443/werknemers/jobs/",
+    "first_seen": "2026-09-01",
+    "snippet": "Verkoper Charcuterie Jobs & vacatures | Randstad kantoren NL FR EN randstad een job zoeken alle jobs flexijob studentenjob studiegerelateerde job tijdelijke jobs tijdelijke jobs optie vast vast contract jobs per stad Aalst Antwerpen Brugge Brussel Genk Gent Hasselt Mechelen populaire bedrijven BD Circle K Distrilog H.Essers Kuehne+nagel Plopsa Soudal Volvo Cars profiel aanmaken werknemers mijn carrière beroepen carrièretips opleidingen sollicitatietips terug aan het werk waarom kiezen voor randstad operational construct contact center horeca industry logistics retail technics transport professional engineering finance en accounting healthcare HR life sciences office en admin sales en marketing studenten alle studentenjobs studierelevante job digital werkgevers onze oplossingen inhouse interim management online tools opleidingen overheid payrolling personeel aanwerven vaste aanwerving operational construct contact center horeca industry logistics retail technics transport professional engineering finance en accounting healthcare HR life sciences office en admin support sales en marketing digital enterprise career development employability MSP outplacement RPO talent advisory aan de ",
+    "stack": [
+      "Retail",
+      "FMCG",
+      "B2C",
+      "Benelux"
+    ],
+    "experience": null,
+    "in_belgium": true,
+    "signals": [
+      "…rs Producer Customer Service Commercieel Customer Service Medewerkers Inbound Callcenter Medewerker Outbound Callcenter Medewerker Telesales Customer Service Medewerkers Callcentermedewerker Consultant Klantenservice Customer Service Assist…"
+    ],
+    "signal_terms": [
+      "outbound call",
+      "telesales"
+    ]
+  },
+  "https://warsco.eu/nl/jobs/Backoffice & Sales Coordinator": {
+    "title": "Backoffice & Sales Coordinator (m/v/x)",
+    "url": "https://warsco.eu/nl/jobs/Backoffice & Sales Coordinator",
+    "company": "WARSCO UNITS",
+    "source": "https://warsco.eu/nl/jobs",
+    "first_seen": "2026-09-01",
+    "snippet": "Aanbod 01. Unitassortiment 02. Zeecontainer 03. Huren 04. Kopen 05. Tweedehands 06. Nu beschikbaar Technologie Realisaties Over ons 01. Over ons 02. Aanpak 03. Nieuws Jobs FAQ Contact Offerte nl en nl fr de Backoffice & Sales Coordinator (m/v/x) Warsco NV Solliciteren 01. Taken & Verantwoordelijkheden 02. Profiel & Aanbod Word jij onze nieuwe Warscollega? Ben jij hands-on, enthousiast & gedreven, met een voorliefde voor een technisch product en open voor een nieuwe uitdaging? Bij Warsco Units kom je terecht in een veelzijdig familiebedrijf in volle groei. Door onze rijke geschiedenis zijn wij uitgegroeid tot specialisten in de modulaire unitbouw in België en omstreken. Wij staan in voor het ontwerp, de productie, de verhuur/verkoop, het transport, de plaatsing én de service voor onze units. Achter elk succesvol project staat een gemotiveerd team van vakmensen die kwaliteit, veiligheid en samenwerking centraal zetten. Wil jij meebouwen aan oplossingen die écht het verschil maken? Ontdek onze vacatures en versterk ons team. Jouw Taken & Verantwoordelijkheden Je controleert, analyseert en coördineert, en vormt daarbij een belangrijke schakel tussen verkoop, logistiek en productie. Je ",
+    "stack": [
+      "B2B",
+      "construction",
+      "Benelux",
+      "NL/FR"
+    ],
+    "experience": null,
+    "in_belgium": true,
+    "signals": [],
+    "signal_terms": []
+  },
+  "https://3w.be/jobs-detailpage/?id=6bf5bfb8fe4d9529ca697606cc87aba12a355eacd92d991e0810734043952834": {
+    "title": "Bestuurder Business Banker Antwerpen Province Bank & Finance Services 09/07/2026",
+    "url": "https://3w.be/jobs-detailpage/?id=6bf5bfb8fe4d9529ca697606cc87aba12a355eacd92d991e0810734043952834",
+    "company": "3W SELECT",
+    "source": "https://3w.be/opportunities/",
+    "first_seen": "2026-09-01",
+    "snippet": "Bestuurder Business Banker Interim Managers Opportunities About us Contact us Interim Managers Opportunities About us Contact us APPLY HERE Bestuurder Business Banker Antwerpen Province Banking- Financial Services & Insurance Permanent Apply directly Job description Commercieel netwerk uitbouwen binnen de regio Dankzij uw relationele vaardigheden een echt partnership uitbouwen op lange termijn met vermogende particulieren en bedrijven. U begeleidt hen in al hun financiële projecten Samen met uw collega zorgt u voor de organisatie en verdere commerciële ontwikkeling van uw organisatie. Dit in partnership met de bank. Profile U bent een peoplemanager die uw mensen begeleidt, coacht en motiveert. U bent een ondernemer die initiatief neemt, een voorbeeldfunctie invult, een managementfunctie combineert met het invullen en realiseren van de commerciële doelstellingen. Bij voorkeur een Masterdiploma, of Bachelor aangevuld met relevante ervaring 5-10 jaar ervaring in de bankwereld Ervaring bij het opstellen van een Business plan Sterke relationele en communicatieve vaardigheden (netwerker) Leidinggevende kwaliteiten Commerciële en dynamische ingesteldheid; Flexibel in werkuren en taken. On",
+    "stack": [
+      "B2B",
+      "Bank & Finance",
+      "Belgium",
+      "Senior",
+      "Farmer"
+    ],
+    "experience": "5-10 yrs",
+    "in_belgium": true,
+    "contact": {
+      "name": "Dirk Erbout",
+      "email": null
+    },
+    "signals": [],
+    "signal_terms": []
+  },
+  "https://edibo.be/job/calculator-verkoper-lommel-m-v-x/": {
+    "title": "LOMMEL I VAST CONTRACT I VOLTIJDS Calculator-verkoper Lommel (M/V/X) ontdek vacature",
+    "url": "https://edibo.be/job/calculator-verkoper-lommel-m-v-x/",
+    "company": "EDIBO",
+    "source": "https://edibo.be/job/",
+    "first_seen": "2026-09-01",
+    "snippet": "Calculator-verkoper Lommel (M/V/X) - edibo edibo Werkwijze DNA Realisaties Jobs Contact NL Home edibo Werkwijze Realisaties DNA Magazine Jobs Architect Studiebureau Segmenten Productie en industrie Foodsector Automotive Petrochemie en pharma Kantoorbouw Retail & dienstverlening Logistiek Bedrijfsunits en kmo-units Duurzame energie Sport en recreatie contact offerte Home > Jobs > Calculator-verkoper Lommel (M/V/X) LOMMEL I VAST CONTRACT I VOLTIJDS Calculator / Verkoper Industriebouw – Lommel Samen met een gedreven team van calculators ben je verantwoordelijk voor het succes van onze projecten. In deze veelzijdige functie combineer je cijfers met commercieel inzicht: Technische calculatie: Je voert nauwkeurige kostprijscalculaties en technische berekeningen uit voor uitdagende industriële bouwprojecten. Commercieel succes: Je adviseert de klant en speelt een actieve rol in de verkoop van onze industriële bedrijfsgebouwen. edibo in het kort edibo is een klasse 7 industriebouwer en maakt deel uit van de Willy Naessens Group. Met vestigingen in Lommel, Fernelmont en Berchem realiseren we al ruim 45 jaar uitdagende sleutel-op-de-deurprojecten in België en Nederland. Dankzij ons team van ",
+    "stack": [
+      "Industrial",
+      "B2B",
+      "Construction",
+      "Belgium/Netherlands",
+      "NL/FR/EN"
+    ],
+    "experience": null,
+    "in_belgium": true,
+    "contact": {
+      "name": null,
+      "email": "info@edibo.be"
+    },
+    "signals": [
+      "Commercieel, Planning & Overdracht Je maakt voorontwerpen op en staat in voor de actieve prospectie en verkoop van onze bouwprojecten."
+    ],
+    "signal_terms": [
+      "prospectie"
+    ]
+  },
+  "https://www.hanssens.io/nl/werken-bij-hanssens/junior-business-consultant": {
+    "title": "Junior Business Consultant",
+    "url": "https://www.hanssens.io/nl/werken-bij-hanssens/junior-business-consultant",
+    "company": "HANSSENS TELECOM",
+    "source": "https://www.hanssens.io/nl/werken-bij-hanssens",
+    "first_seen": "2026-09-01",
+    "snippet": "Junior Business Consultant | Hanssens Overslaan en naar de inhoud gaan Secondary menu 24/7 helpdesk Inspiration center Werken bij Hanssens Events Kennis en support Expertises E-books Blogs Support Veelgestelde vragen Contacteer ons nl Main navigation Oplossingen Oplossingen Contact center oplossingen Contact center oplossingen Contact center oplossingen Smart routing Omnichannel klantcommunicatie Onthaal en callflows Contact center dashboards Wachtrijreductie Consultancy Analyse en advies voor betere communicatiekeuzes User adoption Begeleiding naar snelle adoptie en efficiënt gebruik Data & conversational AI Data & conversational AI AI Voice agents AI Chatbots AI Transcriptie AI Gespreksanalyse AI Conversatie-inzichten Rapportering & dashboards Consultancy Analyse en advies voor betere communicatiekeuzes User adoption Begeleiding naar snelle adoptie en efficiënt gebruik Telefonie-oplossingen Telefonie-oplossingen Cloud telefonie Hybride telefonie On-premise telefonie DECT telefonie Voice-over Wi-Fi telefonie Alarmdistributie & persoonsalarmering Consultancy Analyse en advies voor betere communicatiekeuzes User adoption Begeleiding naar snelle adoptie en efficiënt gebruik Integrati",
+    "stack": [
+      "B2B",
+      "IT",
+      "SaaS",
+      "Flanders",
+      "NL/EN/FR",
+      "junior"
+    ],
+    "experience": "2-5 yrs",
+    "in_belgium": true,
+    "contact": {
+      "name": null,
+      "email": "jobs@hanssens.io"
     },
     "signals": [],
     "signal_terms": []
