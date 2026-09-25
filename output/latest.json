@@ -1,35 +1,28 @@
 [
   {
-    "title": "GENERAL MANAGER ALUMINIUM Hooglede-Gits, België Kader Gedeeltelijk afstandswerk",
-    "url": "https://jobpage.cvwarehouse.com/?companyGuid=cb68e829-440c-495d-ba3d-68cf7aeb7f8a&lang=nl-BE&job=401846&q=GENERAL-MANAGER-ALUMINIUM&api=false",
-    "company": "Deceuninck",
-    "source": "https://jobpage.cvwarehouse.com/?companyGuid=cb68e829-440c-495d-ba3d-68cf7aeb7f8a&lang=nl-BE",
-    "first_seen": "2026-09-24",
+    "title": "Graduate Business & Data Customer Success · Hooglede",
+    "url": "https://jobs.brightanalytics.eu/nl/jobs/8446702-graduate-business-data",
+    "company": "BrightAnalytics",
+    "source": "https://jobs.brightanalytics.eu/jobs?query=&country=Belgium",
+    "first_seen": "2026-09-25",
     "stack": [
-      "Industrial",
+      "SaaS",
+      "FinTech",
       "B2B",
-      "Belgium",
-      "NL/FR"
+      "NL/EN",
+      "junior"
     ],
     "experience": null,
     "in_belgium": true,
-    "contact": {
-      "name": null,
-      "email": "werken@deceuninck.com"
-    },
-    "signals": [
-      "Je past consultative selling van nature toe en combineert een hunter mentaliteit met de zorgzaamheid van een farmer."
-    ],
-    "signal_terms": [
-      "hunter"
-    ]
+    "signals": [],
+    "signal_terms": []
   },
   {
     "title": "Global Cutting/ Die-Cutting/ Print Finishing Technology Expert (Remote Based Europe)",
     "url": "https://cartamundi.com/en/career/397710/",
     "company": "Cartamundi",
     "source": "https://cartamundi.com/careers",
-    "first_seen": "2026-09-24",
+    "first_seen": "2026-09-25",
     "stack": [
       "B2B",
       "manufacturing",
@@ -43,23 +36,14 @@
     "signal_terms": []
   },
   {
-    "title": "Adviseur Verzekeringen",
-    "url": "https://www.grepdonverzekeringen.be/vacatures/relatiebeheerder-verzekeringen-2",
-    "company": "GEERT GREPDON",
-    "source": "https://www.grepdonverzekeringen.be/vacatures/relatiebeheerder-verzekeringen",
-    "first_seen": "2026-09-24",
-    "stack": [
-      "B2B",
-      "Insurance",
-      "Farmer",
-      "NL"
-    ],
+    "title": "Business Development Manager",
+    "url": "https://storaenso.wd502.myworkdayjobs.com/nl-NL/Stora_Enso_site_opportunities/job/Helsinki/Business-Development-Manager_JR112687-1",
+    "company": "STORA ENSO LANGERBRUGGE",
+    "source": "https://storaenso.wd502.myworkdayjobs.com/Stora_Enso_site_opportunities",
+    "first_seen": "2026-09-25",
+    "stack": [],
     "experience": null,
-    "in_belgium": true,
-    "contact": {
-      "name": "Reinout Grepdon",
-      "email": "reinout.grepdon@verz.kbc.be"
-    },
+    "in_belgium": null,
     "signals": [],
     "signal_terms": []
   },
@@ -68,12 +52,12 @@
     "url": "https://www.vdk.be/nl/overzicht-vacatures/relatiebeheerder-oostende",
     "company": "vdk bank",
     "source": "https://www.vdk.be/nl/particulieren/werken-bij-vdk-bank",
-    "first_seen": "2026-09-24",
+    "first_seen": "2026-09-25",
     "stack": [
       "B2B",
-      "Banking",
+      "Financial Services",
       "Flanders",
-      "NL",
+      "NL/FR",
       "farmer"
     ],
     "experience": "3+ yrs",
@@ -94,12 +78,13 @@
     "url": "https://www.vdk.be/nl/overzicht-vacatures/relatiebeheerder-cluster-drongen",
     "company": "vdk bank",
     "source": "https://www.vdk.be/nl/particulieren/werken-bij-vdk-bank",
-    "first_seen": "2026-09-24",
+    "first_seen": "2026-09-25",
     "stack": [
       "B2B",
       "Banking",
-      "Farmer",
-      "NL/FR"
+      "Flanders",
+      "NL/FR",
+      "farmer"
     ],
     "experience": "3+ yrs",
     "in_belgium": true,
@@ -119,7 +104,7 @@
     "url": "https://www.vdk.be/nl/overzicht-vacatures/relatiebeheerder-oostakker",
     "company": "vdk bank",
     "source": "https://www.vdk.be/nl/particulieren/werken-bij-vdk-bank",
-    "first_seen": "2026-09-24",
+    "first_seen": "2026-09-25",
     "stack": [
       "B2B",
       "Banking",
@@ -141,16 +126,66 @@
     ]
   },
   {
+    "title": "Klantgerichte technisch accountmanager (V/V/X)",
+    "url": "https://www.debotechnics.be/vacatures/technisch-accountmanager-v-v-x/",
+    "company": "DEBO Technics",
+    "source": "https://www.debotechnics.be/vacatures/",
+    "first_seen": "2026-09-25",
+    "stack": [
+      "B2B",
+      "Industrial",
+      "Farmer",
+      "Hunter",
+      "NL/FR"
+    ],
+    "experience": "5+ yrs",
+    "in_belgium": true,
+    "contact": {
+      "name": null,
+      "email": "info@debotechnics.be"
+    },
+    "signals": [
+      "Je gaat actief op zoek naar nieuwe productiebedrijven waar Debo Technics een meerwaarde kan betekenen en prospecteert hierbij voornamelijk persoonlijk.",
+      "Niet bang is van prospectie en het ook leuk vindt om zelf deuren te openen."
+    ],
+    "signal_terms": [
+      "prospecteert",
+      "prospectie"
+    ]
+  },
+  {
+    "title": "Account Manager Beauty & Esthetiek | Antwerpen & Vlaams-Brabant",
+    "url": "https://celestetic.com/fr/job/account-manager-antwerpen/",
+    "company": "TEON",
+    "source": "https://celestetic.com/jobs",
+    "first_seen": "2026-09-25",
+    "stack": [
+      "B2B",
+      "Beauty & Aesthetics",
+      "Cosmeceuticals",
+      "Flanders",
+      "NL/FR/EN",
+      "hunter"
+    ],
+    "experience": "5+ yrs",
+    "in_belgium": true,
+    "signals": [
+      "Prospecteren en verkopen: je legt actief contact met schoonheidsinstituten, fysiotherapeuten en artsen om onze cosmeceutische producten en professionele apparatuur voor te stellen."
+    ],
+    "signal_terms": [
+      "prospecteren"
+    ]
+  },
+  {
     "title": "supervisor_account",
     "url": "https://www.vpaccountants.be/ons-team",
     "company": "VP ACCOUNTANTS & BELASTINGCONSULENTEN",
     "source": "https://www.vpaccountants.be",
-    "first_seen": "2026-09-24",
+    "first_seen": "2026-09-25",
     "stack": [
       "B2B",
       "accounting",
-      "financial services",
-      "NL"
+      "Flanders"
     ],
     "experience": null,
     "in_belgium": true,
@@ -162,13 +197,13 @@
     "url": "https://www.yust.com/jobs/sales-manager/",
     "company": "YUST Housing Brussels",
     "source": "https://www.yust.com/jobs/",
-    "first_seen": "2026-09-24",
+    "first_seen": "2026-09-25",
     "stack": [
       "B2B",
       "Hospitality",
       "Wallonia",
-      "FR/EN/NL",
-      "Hunter"
+      "FR/EN",
+      "hunter"
     ],
     "experience": "2+ yrs",
     "in_belgium": true,
@@ -184,7 +219,7 @@
     "url": "https://www.creditsafe.com/us/en/enterprise/salesforce/lead-generator-for-salesforce.html",
     "company": "ALLEMEERSCH BTW-eenheid",
     "source": "https://careers.creditsafe.com/",
-    "first_seen": "2026-09-24",
+    "first_seen": "2026-09-25",
     "stack": [
       "B2B",
       "SaaS"
@@ -203,52 +238,64 @@
     ]
   },
   {
-    "title": "Senior Business Developer",
-    "url": "https://architectenweb.nl/vacatures/vacature.aspx?id=28889",
-    "company": "3D Architectuur",
-    "source": "https://architectenweb.nl/vacatures/",
-    "first_seen": "2026-09-24",
+    "title": "Accountmanager Oost- West-Vlaanderen",
+    "url": "https://www.stepstone.be/jobs--Accountmanager-Oost-West-Vlaanderen-Vlaanderen-Dixon-Sales-Marketing--2244182-inline.html",
+    "company": "t Soetekint - de Levensboom",
+    "source": "https://www.stepstone.be/jobs",
+    "first_seen": "2026-09-25",
     "stack": [
-      "architecture",
       "B2B",
-      "senior",
-      "hunter"
+      "automotive",
+      "leasing",
+      "Flanders",
+      "NL/FR",
+      "farmer"
     ],
     "experience": null,
-    "in_belgium": null,
-    "contact": {
-      "name": null,
-      "email": "vacancy@mvsa-architects.com"
-    },
+    "in_belgium": true,
     "signals": [],
     "signal_terms": []
   },
   {
-    "title": "Repair & Calibration Services Business Development Manager, Expert",
-    "url": "https://jobs.keysight.com/external/jobs/54367?lang=en-us",
-    "company": "EASICS",
-    "source": "https://jobs.keysight.com/external/jobs",
-    "first_seen": "2026-09-24",
+    "title": "Business Developer Fleet",
+    "url": "https://www.stepstone.be/jobs--Business-Developer-Fleet-Gregoir-Dendermonde-BMW-JOYN-US--2242776-inline.html",
+    "company": "t Soetekint - de Levensboom",
+    "source": "https://www.stepstone.be/jobs",
+    "first_seen": "2026-09-25",
     "stack": [
       "B2B",
-      "industrial"
+      "automotive",
+      "hunter",
+      "Belgium"
     ],
     "experience": null,
-    "in_belgium": null,
-    "signals": [],
-    "signal_terms": []
+    "in_belgium": true,
+    "signals": [
+      "Je bent een ‘ hunter ’ in bloed en nieren en schrikt er niet voor ‘from scratch’ een nieuwe klantenportefeuille uit te bouwen.",
+      "Je bent een ware netwerker en ambassadeur die zorgt voor een actieve B2B-prospectie, zowel 'on the field' als o.b.v.",
+      "koude prospectie via telefoon.",
+      "In samenwerking met jouw manager werk je een plan uit om het prospecteren van nieuwe KMO klanten te optimaliseren."
+    ],
+    "signal_terms": [
+      "hunter",
+      "prospectie",
+      "koude prospectie",
+      "prospecteren"
+    ]
   },
   {
     "title": "Kredietadviseur particulieren & ondernemingen",
     "url": "https://mijnzakenkantoor.be/nl/vacatures/kredietadviseur-particulieren-ondernemingen",
     "company": "B&V ADVIESGROEP",
     "source": "https://mijnzakenkantoor.be/nl/vacatures",
-    "first_seen": "2026-09-24",
+    "first_seen": "2026-09-25",
     "stack": [
       "B2B",
       "B2C",
+      "Financial Services",
       "Banking",
-      "Flanders"
+      "Flanders",
+      "NL/FR"
     ],
     "experience": null,
     "in_belgium": true,
@@ -260,11 +307,86 @@
     "signal_terms": []
   },
   {
+    "title": "Manager Klanten - Turnhout",
+    "url": "https://belgiumjobs.carrefour.eu/job/Turnhout-Manager-Klanten-Hyper-2300/1417466433/",
+    "company": "CARREFOUR BELGIUM",
+    "source": "https://belgiumjobs.carrefour.eu/",
+    "first_seen": "2026-09-25",
+    "stack": [
+      "FMCG",
+      "B2C",
+      "Belgium"
+    ],
+    "experience": null,
+    "in_belgium": true,
+    "signals": [],
+    "signal_terms": []
+  },
+  {
+    "title": "Junior Area Sales Manager Lokeren - Voltijds",
+    "url": "https://www.cobelplast.be/nl/vacatures/junior-area-sales-manager/",
+    "company": "COBELPLAST",
+    "source": "https://www.cobelplast.be/careers",
+    "first_seen": "2026-09-25",
+    "stack": [
+      "B2B",
+      "FMCG",
+      "Flanders",
+      "NL/FR/EN",
+      "junior",
+      "hunter"
+    ],
+    "experience": "0-1 yrs",
+    "in_belgium": true,
+    "contact": {
+      "name": null,
+      "email": "info@cobelplast.be"
+    },
+    "signals": [
+      "Je plant afspraken in en ondersteunt bij de voorbereiding van klantengesprekken ."
+    ],
+    "signal_terms": [
+      "plant afspraken"
+    ]
+  },
+  {
+    "title": "Senior Key Account Manager | House of Talents",
+    "url": "https://www.houseoftalents.be/nl-be/vacatures/senior-key-account-manager-house-of-talents",
+    "company": "Engi Talents",
+    "source": "https://www.houseoftalents.be/nl-be/vacatures",
+    "first_seen": "2026-09-25",
+    "stack": [
+      "B2B",
+      "HR services",
+      "senior",
+      "hunter"
+    ],
+    "experience": null,
+    "in_belgium": true,
+    "contact": {
+      "name": null,
+      "email": "info@houseoftalents.be"
+    },
+    "signals": [
+      "Ben jij een senior sales professional die strategisch denkt als een general manager, maar tegelijk energie haalt uit prospectie, hunting en het binnenhalen van complexe B2B-deals?",
+      "Je bent tegelijk een echte hunter: prospectie, targetdruk, deals openen en closen geven je energie.",
+      "Je krijgt een centrale rol in het versnellen van onze groei bij corporate klanten en strategische prospecten.",
+      "Je ontwikkelt en realiseert een ambitieus salesplan voor corporate klanten en strategische prospecten in Brussel en Vlaams-Brabant.",
+      "Je jaagt actief op nieuwe business: je bouwt je eigen pipeline uit, opent deuren op C-level en zet prospecten om in rendabele langetermijnklanten."
+    ],
+    "signal_terms": [
+      "prospectie",
+      "hunting",
+      "prospecten",
+      "hunter"
+    ]
+  },
+  {
     "title": "Vacature Private Banker",
     "url": "https://www.merciervanlanschot.be/nl-be/werken-bij-mercier-van-lanschot/vacature-private-banker",
     "company": "MercLan",
     "source": "https://www.merciervanlanschot.be/nl-be/werken-bij-mercier-van-lanschot/vacature-accountant",
-    "first_seen": "2026-09-24",
+    "first_seen": "2026-09-25",
     "stack": [
       "B2B",
       "Private Banking",
@@ -283,11 +405,12 @@
     "url": "https://careers.omp.com/jobs/belgium-antwerp/sr-integration-consultant-4093145101",
     "company": "OM PARTNERS",
     "source": "https://careers.omp.com/",
-    "first_seen": "2026-09-24",
+    "first_seen": "2026-09-25",
     "stack": [
       "B2B",
       "SaaS",
-      "logistics",
+      "supply chain",
+      "EMEA",
       "EN"
     ],
     "experience": "2-5 yrs",
@@ -300,7 +423,7 @@
     "url": "https://careers.omp.com/jobs/belgium-ghent/sr-integration-consultant-4093145101",
     "company": "OM PARTNERS",
     "source": "https://careers.omp.com/",
-    "first_seen": "2026-09-24",
+    "first_seen": "2026-09-25",
     "stack": [
       "B2B",
       "SaaS",
@@ -318,7 +441,7 @@
     "url": "https://careers.omp.com/jobs/belgium-wavre/sr-integration-consultant-4093145101",
     "company": "OM PARTNERS",
     "source": "https://careers.omp.com/",
-    "first_seen": "2026-09-24",
+    "first_seen": "2026-09-25",
     "stack": [
       "B2B",
       "SaaS",
@@ -332,48 +455,15 @@
     "signal_terms": []
   },
   {
-    "title": "Senior Product Consultant Demand Planning BE",
-    "url": "https://careers.omp.com/jobs/belgium/senior-product-consultant-demand-planning-4957684101",
-    "company": "OM PARTNERS",
-    "source": "https://careers.omp.com/",
-    "first_seen": "2026-09-24",
-    "stack": [
-      "B2B",
-      "SaaS",
-      "Supply Chain",
-      "Belgium",
-      "English"
-    ],
-    "experience": "7+ yrs",
-    "in_belgium": true,
-    "signals": [],
-    "signal_terms": []
-  },
-  {
-    "title": "CATEGORY DEVELOPMENT MANAGER SOEPEN, MAALTIJDEN EN SALADES",
-    "url": "https://www.werkenbijgroupofbutchers.com/vacature/7/category-development-manager-soepen-maaltijden-en-salades",
-    "company": "SCHEPERS VLEESBEDRIJF",
-    "source": "https://www.werkenbijgroupofbutchers.com/",
-    "first_seen": "2026-09-24",
-    "stack": [
-      "FMCG",
-      "B2B",
-      "Belgium"
-    ],
-    "experience": null,
-    "in_belgium": null,
-    "signals": [],
-    "signal_terms": []
-  },
-  {
     "title": "Manager B2B",
     "url": "https://www.randstad.be:443/werknemers/jobs/s-aankoop-verkoop/s2-sales-managers/r-manager-b2b/",
     "company": "RANDSTAD HR SOLUTIONS",
     "source": "https://www.randstad.be:443/werknemers/jobs/",
-    "first_seen": "2026-09-24",
+    "first_seen": "2026-09-25",
     "stack": [
       "B2B",
-      "sales"
+      "sales",
+      "NL/FR/EN"
     ],
     "experience": null,
     "in_belgium": true,
@@ -390,11 +480,32 @@
     "url": "https://www.randstad.be:443/werknemers/jobs/s-aankoop-verkoop/s2-verkopers/r-verkoopmedewerker-boeken/",
     "company": "RANDSTAD HR SOLUTIONS",
     "source": "https://www.randstad.be:443/werknemers/jobs/",
-    "first_seen": "2026-09-24",
+    "first_seen": "2026-09-25",
     "stack": [
-      "Retail",
+      "retail",
       "B2C",
-      "Sales"
+      "NL/FR/EN"
+    ],
+    "experience": null,
+    "in_belgium": true,
+    "signals": [
+      "…pakkingsingenieur Kunstenaars Beeldhouwer Customer Service Commercieel Customer Service Medewerkers Outbound Callcenter Medewerker Telesales Customer Service Medewerkers Callcentermedewerker Consultant Customer Support Consultant Klantenser…"
+    ],
+    "signal_terms": [
+      "outbound call",
+      "telesales"
+    ]
+  },
+  {
+    "title": "Business Development Engineer",
+    "url": "https://www.randstad.be:443/werknemers/jobs/s-aankoop-verkoop/s2-vertegenwoordigers-accountmanagers/r-business-development-engineer/",
+    "company": "RANDSTAD HR SOLUTIONS",
+    "source": "https://www.randstad.be:443/werknemers/jobs/",
+    "first_seen": "2026-09-25",
+    "stack": [
+      "B2B",
+      "Sales",
+      "NL/FR/EN"
     ],
     "experience": null,
     "in_belgium": true,
@@ -411,7 +522,7 @@
     "url": "https://www.randstad.be:443/werknemers/jobs/s-aankoop-verkoop/s2-vertegenwoordigers-accountmanagers/r-commercieel-assistent/",
     "company": "RANDSTAD HR SOLUTIONS",
     "source": "https://www.randstad.be:443/werknemers/jobs/",
-    "first_seen": "2026-09-24",
+    "first_seen": "2026-09-25",
     "stack": [
       "B2B",
       "sales",
@@ -432,11 +543,11 @@
     "url": "https://www.randstad.be:443/werknemers/jobs/s-customer-service/s2-commercieel-customer-service-medewerkers/",
     "company": "RANDSTAD HR SOLUTIONS",
     "source": "https://www.randstad.be:443/werknemers/jobs/",
-    "first_seen": "2026-09-24",
+    "first_seen": "2026-09-25",
     "stack": [
       "B2B",
-      "retail",
-      "logistics",
+      "B2C",
+      "contact center",
       "NL/FR/EN"
     ],
     "experience": null,
@@ -446,7 +557,7 @@
       "…atie subspecialisatie commercieel customer service medewerkers customer service medewerkers functie outbound callcenter medewerker telesales toon 7 jobs expertisedomeinen pagina 1 operational klantenadviseur luminus gent, oost-vlaanderen ti…",
       "toon jobdetails 15 september 2026 operational student prospectie antwerpen, antwerpen tijdelijk , student Als student bij dit bedrijf ondersteun je de commerciële cel met telefonische prospectie.",
       "Als Telesales Advisor maak je deel uit van onze dynamische commerciële afdeling en rapporteer je rechtstreeks aan de Telesales Manager.",
-      "…ures per regio oost-vlaanderen ( 3 ) commercieel customer service medewerkers vacatures per functie outbound callcenter medewerker ( 4 ) telesales ( 3 ) andere vacatures voor customer service customer service medewerkers ( 113 ) jobs per se…",
+      "…ures per regio oost-vlaanderen ( 3 ) commercieel customer service medewerkers vacatures per functie outbound callcenter medewerker ( 4 ) telesales ( 3 ) andere vacatures voor customer service customer service medewerkers ( 114 ) jobs per se…",
       "telesales bornem, antwerpen tijdelijk met uitzicht op vast Heb jij een commerciële flair, een vlotte babbel in het Nederlands én Frans, en een grote passie voor food?"
     ],
     "signal_terms": [
@@ -457,37 +568,11 @@
     ]
   },
   {
-    "title": "Adviseur Verzekeringen",
-    "url": "https://www.randstad.be:443/werknemers/jobs/s-finance/s2-adviseurs-bank-verzekeringen/r-adviseur-verzekeringen/",
-    "company": "RANDSTAD HR SOLUTIONS",
-    "source": "https://www.randstad.be:443/werknemers/jobs/",
-    "first_seen": "2026-09-24",
-    "stack": [
-      "B2C",
-      "Insurance",
-      "NL/FR/EN",
-      "Benelux"
-    ],
-    "experience": null,
-    "in_belgium": true,
-    "contact": {
-      "name": null,
-      "email": "office.antwerpen@randstad.be"
-    },
-    "signals": [
-      "…pakkingsingenieur Kunstenaars Beeldhouwer Customer Service Commercieel Customer Service Medewerkers Outbound Callcenter Medewerker Telesales Customer Service Medewerkers Callcentermedewerker Consultant Customer Support Consultant Klantenser…"
-    ],
-    "signal_terms": [
-      "outbound call",
-      "telesales"
-    ]
-  },
-  {
     "title": "Bankadviseur",
     "url": "https://www.randstad.be:443/werknemers/jobs/s-finance/s2-bedrijfsadviseurs/r-bankadviseur/",
     "company": "RANDSTAD HR SOLUTIONS",
     "source": "https://www.randstad.be:443/werknemers/jobs/",
-    "first_seen": "2026-09-24",
+    "first_seen": "2026-09-25",
     "stack": [
       "B2B",
       "Finance",
@@ -508,31 +593,10 @@
     "url": "https://www.randstad.be:443/werknemers/jobs/s-finance/s2-bedrijfsadviseurs/r-private-banker/",
     "company": "RANDSTAD HR SOLUTIONS",
     "source": "https://www.randstad.be:443/werknemers/jobs/",
-    "first_seen": "2026-09-24",
+    "first_seen": "2026-09-25",
     "stack": [
       "B2B",
-      "Finance",
-      "NL/FR/EN"
-    ],
-    "experience": null,
-    "in_belgium": true,
-    "signals": [
-      "…pakkingsingenieur Kunstenaars Beeldhouwer Customer Service Commercieel Customer Service Medewerkers Outbound Callcenter Medewerker Telesales Customer Service Medewerkers Callcentermedewerker Consultant Customer Support Consultant Klantenser…"
-    ],
-    "signal_terms": [
-      "outbound call",
-      "telesales"
-    ]
-  },
-  {
-    "title": "Category Manager",
-    "url": "https://www.randstad.be:443/werknemers/jobs/s-marketing-communicatie/s2-sales-marketingmedewerkers/r-category-manager/",
-    "company": "RANDSTAD HR SOLUTIONS",
-    "source": "https://www.randstad.be:443/werknemers/jobs/",
-    "first_seen": "2026-09-24",
-    "stack": [
-      "retail",
-      "B2B",
+      "finance",
       "NL/FR/EN"
     ],
     "experience": null,
@@ -550,10 +614,10 @@
     "url": "https://www.randstad.be:443/werknemers/jobs/s-marketing-communicatie/s2-sales-marketingmedewerkers/r-customer-relationship-manager/",
     "company": "RANDSTAD HR SOLUTIONS",
     "source": "https://www.randstad.be:443/werknemers/jobs/",
-    "first_seen": "2026-09-24",
+    "first_seen": "2026-09-25",
     "stack": [
       "B2B",
-      "sales en marketing"
+      "NL/FR/EN"
     ],
     "experience": null,
     "in_belgium": true,
@@ -570,13 +634,12 @@
     "url": "https://www.randstad.be:443/werknemers/jobs/s-productie/s2-bakkers-vleesverwerkers/r-verkoper-charcuterie/",
     "company": "RANDSTAD HR SOLUTIONS",
     "source": "https://www.randstad.be:443/werknemers/jobs/",
-    "first_seen": "2026-09-24",
+    "first_seen": "2026-09-25",
     "stack": [
-      "retail",
-      "FMCG",
       "B2C",
-      "Benelux",
-      "NL/FR"
+      "FMCG",
+      "retail",
+      "NL/FR/EN"
     ],
     "experience": null,
     "in_belgium": true,
@@ -589,18 +652,93 @@
     ]
   },
   {
+    "title": "commercieel digitaal medewerker",
+    "url": "https://www.randstad.be:443/werknemers/jobs/commercieel-digitaal-medewerker_hasselt_6e12c824-25c2-447b-8c07-7808e0aa502b/",
+    "company": "RANDSTAD HR SOLUTIONS",
+    "source": "https://www.randstad.be:443/werknemers/jobs/",
+    "first_seen": "2026-09-25",
+    "stack": [
+      "B2C",
+      "banking",
+      "sales",
+      "NL/FR/EN",
+      "junior"
+    ],
+    "experience": null,
+    "in_belgium": true,
+    "contact": {
+      "name": "Manuela Cubillos Pelaez",
+      "email": "salesmarketing.banking@randstad.be"
+    },
+    "signals": [],
+    "signal_terms": []
+  },
+  {
+    "title": "business development manager vlaanderen",
+    "url": "https://www.randstad.be:443/werknemers/jobs/business-development-manager-vlaanderen_sint-niklaas_be4cbb7c-1457-4f7a-9b80-15abfe7788f9/",
+    "company": "RANDSTAD HR SOLUTIONS",
+    "source": "https://www.randstad.be:443/werknemers/jobs/",
+    "first_seen": "2026-09-25",
+    "stack": [
+      "B2B",
+      "industrial",
+      "Benelux",
+      "NL/FR/EN",
+      "hunter"
+    ],
+    "experience": null,
+    "in_belgium": true,
+    "contact": {
+      "name": "Annelies Vanderbauwhede",
+      "email": "annelies.vanderbauwhede@randstadexecutive.be"
+    },
+    "signals": [
+      "…r antwerpen/limburg antwerpen, antwerpen vast schmitz cargobull belgium bv Gedreven en enthousiaste hunter en relatiebouwerJe bent verantwoordelijk voor de verkoop van hoogwaardige trailers en bijbehorende diensten, in de regio Antwerpen en…",
+      "Je maakt een duidelijk actieplan op en wordt daarbij tevens ondersteund door externe leadgeneratie/cold calling initiatieven.",
+      "Prospectie kent voor jou geen geheimen."
+    ],
+    "signal_terms": [
+      "leadgeneratie",
+      "cold calling",
+      "prospectie",
+      "hunter"
+    ]
+  },
+  {
+    "title": "Personal Banker",
+    "url": "https://www.besox.be/vacatures/personal-banker/",
+    "company": "besox verzekeringen",
+    "source": "https://www.besox.be/vacatures/",
+    "first_seen": "2026-09-25",
+    "stack": [
+      "B2B",
+      "B2C",
+      "Finance",
+      "Banking",
+      "NL/FR"
+    ],
+    "experience": null,
+    "in_belgium": true,
+    "contact": {
+      "name": "Daphne Vancrombrugge",
+      "email": "daphne.vancrombrugge@besox.be"
+    },
+    "signals": [],
+    "signal_terms": []
+  },
+  {
     "title": "Commercieel Technisch Calculator Koeltechniek",
     "url": "https://bouwenmetmensen.be/vacatures/commercieel-technisch-calculator-koeltechniek-alfa-group",
     "company": "ALGEMENE BOUW MAES",
     "source": "https://bouwenmetmensen.be/vacatures",
-    "first_seen": "2026-09-24",
+    "first_seen": "2026-09-25",
     "stack": [
+      "industrial",
       "B2B",
-      "Industrial",
-      "HVAC/Cooling",
-      "Belgium"
+      "hunter",
+      "NL/FR"
     ],
-    "experience": "Not specified",
+    "experience": null,
     "in_belgium": true,
     "contact": {
       "name": "Inge Wasen",
@@ -608,6 +746,107 @@
     },
     "signals": [],
     "signal_terms": []
+  },
+  {
+    "title": "Sales Sales Real Estate",
+    "url": "https://jobs.upgrade-estate.be/nl/sales-real-estate",
+    "company": "DEBLAERE HOUTBOUW",
+    "source": "https://upgrade-estate.be/nl/jobs",
+    "first_seen": "2026-09-25",
+    "stack": [
+      "B2B",
+      "Real Estate",
+      "Hunter",
+      "Flanders",
+      "NL/FR/EN"
+    ],
+    "experience": null,
+    "in_belgium": true,
+    "signals": [],
+    "signal_terms": []
+  },
+  {
+    "title": "Verkoopmedewerker modeboetiek",
+    "url": "https://fiftyfiveplus.be/vacatures/verkoopmedewerker-modeboetiek-publications-11049-c",
+    "company": "FIFTY",
+    "source": "https://fiftyfiveplus.be/vacatures",
+    "first_seen": "2026-09-25",
+    "stack": [
+      "B2C",
+      "Fashion/Retail",
+      "Flanders",
+      "NL"
+    ],
+    "experience": null,
+    "in_belgium": true,
+    "contact": {
+      "name": "Fee Cocquyt",
+      "email": "fee.cocquyt@fiftyfiveplus.be"
+    },
+    "signals": [],
+    "signal_terms": []
+  },
+  {
+    "title": "Verkoopmedewerker modeboetiek",
+    "url": "https://fiftyfiveplus.be/vacatures/verkoopmedewerker-modeboetiek-publications-11080-c",
+    "company": "FIFTY",
+    "source": "https://fiftyfiveplus.be/vacatures",
+    "first_seen": "2026-09-25",
+    "stack": [
+      "B2C",
+      "Retail",
+      "Fashion",
+      "Belgium"
+    ],
+    "experience": null,
+    "in_belgium": true,
+    "contact": {
+      "name": "Fee Cocquyt",
+      "email": "fee.cocquyt@fiftyfiveplus.be"
+    },
+    "signals": [],
+    "signal_terms": []
+  },
+  {
+    "title": "Senior Business Developer",
+    "url": "https://architectenweb.nl/vacatures/vacature.aspx?id=28889",
+    "company": "3D Architectuur",
+    "source": "https://architectenweb.nl/vacatures/",
+    "first_seen": "2026-09-24",
+    "stack": [
+      "architecture",
+      "B2B",
+      "senior",
+      "hunter"
+    ],
+    "experience": null,
+    "in_belgium": null,
+    "contact": {
+      "name": null,
+      "email": "vacancy@mvsa-architects.com"
+    },
+    "signals": [],
+    "signal_terms": [],
+    "clf": 1
+  },
+  {
+    "title": "Senior Product Consultant Demand Planning BE",
+    "url": "https://careers.omp.com/jobs/belgium/senior-product-consultant-demand-planning-4957684101",
+    "company": "OM PARTNERS",
+    "source": "https://careers.omp.com/",
+    "first_seen": "2026-09-24",
+    "stack": [
+      "B2B",
+      "SaaS",
+      "Supply Chain",
+      "Belgium",
+      "English"
+    ],
+    "experience": "7+ yrs",
+    "in_belgium": true,
+    "signals": [],
+    "signal_terms": [],
+    "clf": 1
   },
   {
     "title": "Verkoopmedewerker fietsen & kledij Sint-Niklaas Dagploeg Voltijds",
@@ -626,7 +865,8 @@
     "experience": "< 1 yr",
     "in_belgium": true,
     "signals": [],
-    "signal_terms": []
+    "signal_terms": [],
+    "clf": 1
   },
   {
     "title": "Customer Development Manager",
